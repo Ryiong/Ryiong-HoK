@@ -10,9 +10,7 @@ function renderBannerSwiper(target, data) {
 }
 
 const path = "https://script.google.com/macros/s/AKfycbyYOWtmzkRWI0wiD_t7JsSsjnth98vSVkg1HKUD3-PzwgRcDnyBbfsjC5CcUBLz6AjYdQ/exec";
-fetch(path, {
-    mode: 'no-cors'
-})
+fetch(path)
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
