@@ -1,0 +1,123 @@
+.footer-content {
+    background-color: #11181C;
+    padding-top: 2rem;
+    color: #a7a7a7;
+}
+
+.network-dis {
+    margin-left: 2rem;
+}
+
+img.mapimg {
+    width: 200px;
+    filter: brightness(0.9) contrast(0.95);
+}
+
+
+.social {
+    background-color: rgba(111, 125, 134, 0.25);
+    margin: 10px 12px !important;
+    padding: 7px 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    color: #a7a7a7;
+    text-decoration: none;
+    width: 200px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    padding-bottom: 3px;
+}
+
+.isocial {
+    font-size: 17px;
+    float: inline-start;
+}
+
+.social::after {
+    content: "";
+    background: #656565;
+    width: 0px;
+    height: 2px;
+    display: flow;
+    margin-top: 3px;
+    border-radius: 4px;
+    transition: .85s ease-in-out;
+}
+
+.social:hover:after {
+    width: 100%;
+}
+
+.linef {
+    width: 95%;
+    margin: auto;
+    height: 2.5px;
+    background-color: rgb(101, 101, 101);
+    border-radius: 50px;
+    opacity: .5;
+}
+
+.content-footer {
+    display: flex;
+    margin-top: 35px;
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.webmean,
+.downfooter {
+    width: 50%;
+}
+
+.para-web {
+    color: #a7a7a7;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.downfooter {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.downbox {
+    margin: 0 17px;
+}
+
+.linkdown {
+    position: relative;
+}
+
+.idown {
+    width: 124px;
+    height: 37px;
+}
+
+.titledown {
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-align: center;
+    transform: translateY(25%);
+    font-family: 'Bricolage Grotesque';
+}
+
+.icondown {
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.webauthor {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-weight: 100;
+    text-align: center;
+    display: block;
+    color: rgb(101, 101, 101);
+    padding-bottom: 7.5px;
+}

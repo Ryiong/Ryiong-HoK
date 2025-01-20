@@ -1,0 +1,54 @@
+.container-content {
+    margin: 5rem 0;
+}
+
+.hero-box {
+    margin: auto;
+    width: calc(13rem* 6 + 1.25rem* 12);
+}
+
+.herolist {
+    min-height: 100vh;
+}
+
+ul.herolist {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul.herolist li.heroitem {
+    width: 13rem;
+    overflow: hidden;
+    margin: 1.25rem;
+    text-align: center;
+    cursor: pointer;
+}
+
+ul.herolist li.heroitem span {
+    color: #000;
+    margin-top: 0.75rem;
+}
+
+ul.herolist li.heroitem a {
+    text-decoration: none;
+}
+
+ul.herolist li.heroitem span, ul.herolist li.heroitem .heroblock, ul.herolist li.heroitem img {
+    transition: 0.3s ease;
+}
+
+ul.herolist li.heroitem .heroblock {
+    clip-path: polygon(0% 0%, 100% 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+ul.herolist li.heroitem:hover span {
+    font-weight: 900;
+}
+
+ul.herolist li.heroitem:hover img {
+    transform: scale(1.12);
+}
+
+ul.herolist li.heroitem:hover .heroblock {
+    clip-path: polygon(0% 0%, 80% 0, 100% 15%, 100% 100%, 0% 100%);
+}
