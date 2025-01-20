@@ -9,10 +9,8 @@ function renderBannerSwiper(target, data) {
     }
 }
 
-const path = "https://script.google.com/macros/s/AKfycbyYOWtmzkRWI0wiD_t7JsSsjnth98vSVkg1HKUD3-PzwgRcDnyBbfsjC5CcUBLz6AjYdQ/exec";
-fetch(path, {
-    mode: 'no-cors'
-})
+
+fetch('https://script.google.com/macros/s/AKfycbwQ5NMf6bLuaUor8cQmWzNRiczPHEDCpeqqRNM_y-0F9ZR6QySNSc6-ouqct7wzoemRcQ/exec')
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
