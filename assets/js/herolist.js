@@ -30,4 +30,7 @@ fetch(path)
     console.log(data)
     renderList(data)
   })
-  .catch(error => console.error('There was a problem with the fetch operation:', error));
+  .catch((error) => {
+    console.error('There was a problem with the fetch operation:', error)
+    window.location = window.location.href;
+});

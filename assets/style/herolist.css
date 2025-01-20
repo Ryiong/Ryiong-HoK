@@ -52,3 +52,13 @@ ul.herolist li.heroitem:hover img {
 ul.herolist li.heroitem:hover .heroblock {
     clip-path: polygon(0% 0%, 80% 0, 100% 15%, 100% 100%, 0% 100%);
 }
+
+@media screen and (max-width: 870px) {
+    ul.herolist li.heroitem {
+        width: 18.99rem;
+        margin: 2.13rem;
+    }
+    ul.herolist li.heroitem span {
+        font-size: 2rem;
+    }
+}

@@ -9,8 +9,10 @@ function renderBannerSwiper(target, data) {
     }
 }
 
-const path = "https://script.google.com/macros/s/AKfycby5p9WtHaMqzxR8QGpn_SxoiUq09aV_jChPzoqXXSiiuVrp0znwmm7-x1O5eBGe4bJZzw/exec";
-fetch(path)
+const path = "https://script.google.com/macros/s/AKfycbyYOWtmzkRWI0wiD_t7JsSsjnth98vSVkg1HKUD3-PzwgRcDnyBbfsjC5CcUBLz6AjYdQ/exec";
+fetch(path, {
+    mode: 'no-cors'
+})
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -45,6 +47,9 @@ fetch(path)
             }
         })
     })
-    .catch(error => console.error('There was a problem with the fetch operation:', error));
+    .catch((error) => {
+        console.error('There was a problem with the fetch operation:', error)
+        window.location = window.location.href;
+    });
 
     
