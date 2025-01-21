@@ -10,7 +10,7 @@ function renderBannerSwiper(target, data) {
 }
 
 
-fetch('https://script.google.com/macros/s/AKfycbwQ5NMf6bLuaUor8cQmWzNRiczPHEDCpeqqRNM_y-0F9ZR6QySNSc6-ouqct7wzoemRcQ/exec')
+fetch('https://cors-anywhere.herokuapp.com/https://ryiong-hok.neocities.org/NewContent.json')
     .then(response => {
         if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -47,7 +47,6 @@ fetch('https://script.google.com/macros/s/AKfycbwQ5NMf6bLuaUor8cQmWzNRiczPHEDCpe
     })
     .catch((error) => {
         console.error('There was a problem with the fetch operation:', error)
-        window.location = window.location.href;
     });
 
     
