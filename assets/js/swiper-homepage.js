@@ -1,10 +1,11 @@
 function renderBannerSwiper(target, data) {
     const targetImport = document.querySelector(target);
     for (let i = 0; i < data.length; i++) {
-        targetImport.innerHTML += `<div class="swiper-slide"><div class="slide-content relative">
+        targetImport.innerHTML += `<div class="swiper-slide"><div class="slide-content relative"> <a href="${data[i].Image_HD}" target="_blank">
         <img src="https://ryiong-hok.neocities.org/assets/Resource/${data[i].idHero}/${data[i].Name_Image}" alt="${data[i].Hero} - ${data[i].Name_Skin}" class="w-100 img-banner-content">
         <img src="https://ryiong-hok.neocities.org/assets/Tag/${data[i].Quantity}.png" alt="${data[i].Quantity}" class="mini-layout absolute">
         <span class="text-banner-content absolute">${data[i].Hero}_${data[i].Name_Skin}</span>
+        </a>
         </div></div>`
     }
 }
