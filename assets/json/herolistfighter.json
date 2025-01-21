@@ -1,0 +1,332 @@
+[
+    {
+        "idHero": "564",
+        "nameHero": "Cơ Tiểu Mãn",
+        "globalName": "Mayene",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "558",
+        "nameHero": "Ảnh",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "544",
+        "nameHero": "Triệu Hoài Chân",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "538",
+        "nameHero": "Vân Anh",
+        "globalName": "Ying",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "537",
+        "nameHero": "Tư Không Chấn",
+        "globalName": "Chưa ra mắt",
+        "nickname": "40F, Tư Không Flop",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "536",
+        "nameHero": "Charlotte",
+        "globalName": "Charlotte",
+        "role": [
+            "fighter"
+        ],
+        "note": "Anh hùng hợp tác với SNK"
+    },
+    {
+        "idHero": "529",
+        "nameHero": "Bàn Cổ",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "528",
+        "nameHero": "Lan",
+        "globalName": "Lam",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "518",
+        "nameHero": "Mã Siêu",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "517",
+        "nameHero": "Đại Tư Mệnh",
+        "globalName": "Augran",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "514",
+        "nameHero": "Á Liên",
+        "globalName": "Allain",
+        "nickname": "sv",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "510",
+        "nameHero": "Tôn Sách",
+        "globalName": "Sun Ce",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "507",
+        "nameHero": "Lý Tín",
+        "globalName": "Li Xin",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "503",
+        "nameHero": "Cuồng Thiết",
+        "globalName": "Biron",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "193",
+        "nameHero": "Khải",
+        "globalName": "Kaizer",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "183",
+        "nameHero": "Athena",
+        "globalName": "Athena",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "180",
+        "nameHero": "Na Tra",
+        "globalName": "Nazha",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "178",
+        "nameHero": "Dương Tiễn",
+        "globalName": "Yang Jian",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "170",
+        "nameHero": "Lưu Bị",
+        "globalName": "Liu Bei",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "166",
+        "nameHero": "Arthur",
+        "globalName": "Arthur",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "154",
+        "nameHero": "Hoa Mộc Lan",
+        "globalName": "Mulan",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "140",
+        "nameHero": "Quan Vũ",
+        "globalName": "Guan Yu",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "139",
+        "nameHero": "Lão Phu Tử",
+        "globalName": "Fuzi",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "135",
+        "nameHero": "Hạng Vũ",
+        "globalName": "Xiang Yu",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "134",
+        "nameHero": "Đạt Ma",
+        "globalName": "Dharma",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "129",
+        "nameHero": "Điển Vi",
+        "globalName": "Dian Wei",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "128",
+        "nameHero": "Tào Tháo",
+        "globalName": "Cao Cao",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "126",
+        "nameHero": "Hạ Hầu Đôn",
+        "globalName": "Dun",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "125",
+        "nameHero": "Nguyên Ca",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "124",
+        "nameHero": "Chu Du",
+        "globalName": "Zhou Yu",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "123",
+        "nameHero": "Lữ Bố",
+        "globalName": "Lu Bu",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "121",
+        "nameHero": "Mị Nguyệt",
+        "globalName": "Mi Yue",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "119",
+        "nameHero": "Biển Thước",
+        "globalName": "Dr Bian",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "117",
+        "nameHero": "Chung Vô Diệm",
+        "globalName": "Wuyan",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "114",
+        "nameHero": "Lưu Thiện",
+        "globalName": "Liu Shan",
+        "role": [
+            "fighter",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "113",
+        "nameHero": "Trang Chu",
+        "globalName": "Zhuangzi",
+        "role": [
+            "fighter",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "108",
+        "nameHero": "Mặc Tử",
+        "globalName": "Mozi",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "107",
+        "nameHero": "Triệu Vân",
+        "globalName": "Zilong",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "idHero": "548",
+        "nameHero": "Qua Á",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "547",
+        "nameHero": "Luara",
+        "globalName": "Luara",
+        "nickname": "Rắn chúa",
+        "role": [
+            "marksmen"
+        ],
+        "note": "Anh hùng lấy ý tưởng từ Boitata để tri ân khu vực Brazil cho đợt đầu tiên game ra mắt"
+    },
+    {
+        "idHero": "545",
+        "nameHero": "Alessio",
+        "globalName": "Alessio",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "533",
+        "nameHero": "A Cổ Đóa",
+        "globalName": "Agudo",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "524",
+        "nameHero": "Mông Nha",
+        "globalName": "Meng Ya",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "519",
+        "nameHero": "Ngao Ẩn",
+        "globalName": "Loong",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "508",
+        "nameHero": "Già La",
+        "globalName": "Garo",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "199",
+        "nameHero": "Công Tôn Ly",
+        "globalName": "Arli",
+        "nickname": "A Ly",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "196",
+        "nameHero": "Thủ Ước",
+        "globalName": "Shouyue",
+        "role": [
+            "assassin",
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "192",
+        "nameHero": "Hoàng Trung",
+        "globalName": "Huang Zhong",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "174",
+        "nameHero": "Ngu Cơ",
+        "globalName": "Consort Yu",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "173",
+        "nameHero": "Lý Nguyên Phương",
+        "globalName": "Fang",
+        "nickname": "Nguyên Phương",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "169",
+        "nameHero": "Hậu Nghệ",
+        "globalName": "Hou Yi",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "155",
+        "nameHero": "Ngải Lâm",
+        "globalName": "Erin",
+        "nickname": "Erin",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "133",
+        "nameHero": "Địch Nhân Kiệt",
+        "globalName": "Di Renjie",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "132",
+        "nameHero": "Marco Polo",
+        "globalName": "Marco Polo",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "112",
+        "nameHero": "Lỗ Ban Đệ Thất",
+        "globalName": "Luban No.7",
+        "nickname": "Lỗ Ban",
+        "role": [
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "111",
+        "nameHero": "Tôn Thượng Hương",
+        "globalName": "Lady Sun",
+        "role": [
+            "marksmen"
+        ]
+    }
+]

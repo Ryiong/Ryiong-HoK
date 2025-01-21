@@ -1,0 +1,245 @@
+[
+    {
+        "idHero": "581",
+        "nameHero": "Main Đỡ đòn",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Maintank",
+        "role": [
+            "tank"
+        ],
+        "note": "Nguyên Lưu Chi Tử là nhân vật chính của tựa game liên quan Honor of Kings World"
+    },
+    {
+        "idHero": "527",
+        "nameHero": "Mông Điềm",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank"
+        ]
+    },
+    {
+        "idHero": "525",
+        "nameHero": "Lỗ Ban Đại Sư",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Lỗ Đại",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "514",
+        "nameHero": "Á Liên",
+        "globalName": "Allain",
+        "nickname": "sv",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "511",
+        "nameHero": "Trư Bát Giới (Không khả dụng)",
+        "globalName": "Ata",
+        "role": [
+            "tank"
+        ],
+        "note": "Ata là tướng được thay thế cho Trư Bát Giới tại phiên bản global bởi vấn đề văn hóa đạo Hồi khá kỵ lợn"
+    },
+    {
+        "idHero": "510",
+        "nameHero": "Tôn Sách",
+        "globalName": "Sun Ce",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "509",
+        "nameHero": "Thuẫn Sơn",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "503",
+        "nameHero": "Cuồng Thiết",
+        "globalName": "Biron",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "198",
+        "nameHero": "Mộng Kỳ",
+        "globalName": "Menki",
+        "role": [
+            "tank",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "194",
+        "nameHero": "Tô Liệt",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "193",
+        "nameHero": "Khải",
+        "globalName": "Kaizer",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "186",
+        "nameHero": "Thái Ất Chân Nhân",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Thái Ất",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "180",
+        "nameHero": "Na Tra",
+        "globalName": "Nazha",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "175",
+        "nameHero": "Chung Quỳ",
+        "globalName": "Kui",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "171",
+        "nameHero": "Trương Phi",
+        "globalName": "Zhang Fei",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "168",
+        "nameHero": "Ngưu Ma Vương",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "166",
+        "nameHero": "Arthur",
+        "globalName": "Arthur",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "149",
+        "nameHero": "Lưu Bang",
+        "globalName": "Liu Bang",
+        "role": [
+            "tank",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "144",
+        "nameHero": "Trình Giảo Kim",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank"
+        ]
+    },
+    {
+        "idHero": "140",
+        "nameHero": "Quan Vũ",
+        "globalName": "Guan Yu",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "135",
+        "nameHero": "Hạng Vũ",
+        "globalName": "Xiang Yu",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "134",
+        "nameHero": "Đạt Ma",
+        "globalName": "Dharma",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "126",
+        "nameHero": "Hạ Hầu Đôn",
+        "globalName": "Dun",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "123",
+        "nameHero": "Lữ Bố",
+        "globalName": "Lu Bu",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "120",
+        "nameHero": "Bạch Khởi",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank"
+        ]
+    },
+    {
+        "idHero": "117",
+        "nameHero": "Chung Vô Diệm",
+        "globalName": "Wuyan",
+        "role": [
+            "tank",
+            "fighter"
+        ]
+    },
+    {
+        "idHero": "105",
+        "nameHero": "Liêm Pha",
+        "globalName": "Lian Po",
+        "role": [
+            "tank"
+        ]
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "idHero": "582",
+        "nameHero": "Main Pháp sư",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Main mage",
+        "role": [
+            "mage"
+        ],
+        "note": "Nguyên Lưu Chi Tử là nhân vật chính của tựa game liên quan Honor of Kings World"
+    },
+    {
+        "idHero": "563",
+        "nameHero": "Hải Nặc",
+        "globalName": "Heino",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "540",
+        "nameHero": "Kim Thiền",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "537",
+        "nameHero": "Tư Không Chấn",
+        "globalName": "Chưa ra mắt",
+        "nickname": "40F, Tư Không Flop",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "534",
+        "nameHero": "Tang Khởi",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "523",
+        "nameHero": "Tây Thi",
+        "globalName": "Shi",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "521",
+        "nameHero": "Hải Nguyệt",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "515",
+        "nameHero": "Hằng Nga",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "513",
+        "nameHero": "Uyển Nhi",
+        "globalName": "Shangguan",
+        "nickname": "Nhi Mu",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "505",
+        "nameHero": "Yao",
+        "globalName": "Yaria",
+        "nickname": "Dôn lào",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "504",
+        "nameHero": "Mễ Lai",
+        "globalName": "Milady",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "312",
+        "nameHero": "Thẩm Mộng Khê",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Mèo",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "198",
+        "nameHero": "Mộng Kỳ",
+        "globalName": "Menki",
+        "role": [
+            "tank",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "197",
+        "nameHero": "Dịch Tinh",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "191",
+        "nameHero": "Đại Kiều",
+        "globalName": "Da Qiao",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "190",
+        "nameHero": "Gia Cát Lượng",
+        "globalName": "Kongming",
+        "nickname": "Lượng",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "189",
+        "nameHero": "Quỷ Cốc Tử",
+        "globalName": "Guiguzi",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "187",
+        "nameHero": "Đông Hoàng Thái Nhất",
+        "globalName": "Donghuang",
+        "nickname": "Đông Hoàng",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "184",
+        "nameHero": "Thái Văn Cơ",
+        "globalName": "Cai Yan",
+        "nickname": "Vú em",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "182",
+        "nameHero": "Can Tương Mạc Tà",
+        "globalName": "Gan & Mo",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "179",
+        "nameHero": "Nữ Oa",
+        "globalName": "Nuwa",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "176",
+        "nameHero": "Dương Ngọc Hoàn",
+        "globalName": "Yuhuan",
+        "nickname": "Hoàn Hoàn",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "159",
+        "nameHero": "Dolia",
+        "globalName": "Dolia",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "157",
+        "nameHero": "Mai Shiranui",
+        "globalName": "Mai Shiranui",
+        "nickname": "Mai",
+        "role": [
+            "assassin",
+            "mage"
+        ],
+        "note": "Anh hùng hợp tác với SNK"
+    },
+    {
+        "idHero": "156",
+        "nameHero": "Trương Lương",
+        "globalName": "Liang",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "152",
+        "nameHero": "Vương Chiêu Quân",
+        "globalName": "Princess Frost",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "149",
+        "nameHero": "Lưu Bang",
+        "globalName": "Liu Bang",
+        "role": [
+            "tank",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "148",
+        "nameHero": "Khương Tử Nha",
+        "globalName": "Ziya",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "146",
+        "nameHero": "Luna",
+        "globalName": "Luna",
+        "role": [
+            "assassin",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "142",
+        "nameHero": "Angela",
+        "globalName": "Angela",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "141",
+        "nameHero": "Điêu Thuyền",
+        "globalName": "Diaochan",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "137",
+        "nameHero": "Tư Mã Ý",
+        "globalName": "Sima Yi",
+        "role": [
+            "assassin",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "136",
+        "nameHero": "Võ Tắc Thiên",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Mẹ Võ",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "127",
+        "nameHero": "Chân Cơ",
+        "globalName": "Lady Zhen",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "124",
+        "nameHero": "Chu Du",
+        "globalName": "Zhou Yu",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "121",
+        "nameHero": "Mị Nguyệt",
+        "globalName": "Mi Yue",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "119",
+        "nameHero": "Biển Thước",
+        "globalName": "Dr Bian",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "118",
+        "nameHero": "Tôn Tẫn",
+        "globalName": "Sun Bin",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "115",
+        "nameHero": "Cao Tiệm Ly",
+        "globalName": "Gao",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "110",
+        "nameHero": "Doanh Chính",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Anh Tần",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "109",
+        "nameHero": "Đát Kỷ",
+        "globalName": "Daji",
+        "role": [
+            "mage"
+        ]
+    },
+    {
+        "idHero": "108",
+        "nameHero": "Mặc Tử",
+        "globalName": "Mozi",
+        "role": [
+            "fighter",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "106",
+        "nameHero": "Tiểu Kiều",
+        "globalName": "Xiao Qiao",
+        "role": [
+            "mage"
+        ]
+    }
+]

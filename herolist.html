@@ -73,6 +73,15 @@
         <div class="widget-content">
           <div class="container-content">
             <div class="hero-box">
+              <div class="filter-list">
+                <div id="allhero" onclick="queryRole()" class="filter-item"><p>Tất cả</p></div>
+                <div id="tankhero" onclick="queryRole('tank')" class="filter-item"><p>Đỡ đòn</p></div>
+                <div id="fighterhero" onclick="queryRole('fighter')" class="filter-item"><p>Đấu sĩ</p></div>
+                <div id="assassinhero" onclick="queryRole('assassin')" class="filter-item"><p>Sát thủ</p></div>
+                <div id="magehero" onclick="queryRole('mage')" class="filter-item"><p>Pháp sư</p></div>
+                <div id="marksmenhero" onclick="queryRole('marksmen')" class="filter-item"><p>Xạ thủ</p></div>
+                <div id="roamerhero" onclick="queryRole('roamer')" class="filter-item"><p>Hỗ trợ</p></div>
+              </div>
               <ul class="herolist w-100" id="herolist">
               </ul>
             </div>

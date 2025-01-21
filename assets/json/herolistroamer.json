@@ -1,0 +1,178 @@
+[
+    {
+        "idHero": "577",
+        "nameHero": "Thiếu Tư Duyên",
+        "globalName": "Dyadia",
+        "nickname": "Duyên",
+        "role": [
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "534",
+        "nameHero": "Tang Khởi",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "525",
+        "nameHero": "Lỗ Ban Đại Sư",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Lỗ Đại",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "509",
+        "nameHero": "Thuẫn Sơn",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "505",
+        "nameHero": "Yao",
+        "globalName": "Yaria",
+        "nickname": "Dôn lào",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "501",
+        "nameHero": "Minh Thế Ẩn",
+        "globalName": "Ming",
+        "nickname": "Tiểu Minh",
+        "role": [
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "194",
+        "nameHero": "Tô Liệt",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "191",
+        "nameHero": "Đại Kiều",
+        "globalName": "Da Qiao",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "189",
+        "nameHero": "Quỷ Cốc Tử",
+        "globalName": "Guiguzi",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "187",
+        "nameHero": "Đông Hoàng Thái Nhất",
+        "globalName": "Donghuang",
+        "nickname": "Đông Hoàng",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "186",
+        "nameHero": "Thái Ất Chân Nhân",
+        "globalName": "Chưa ra mắt",
+        "nickname": "Thái Ất",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "184",
+        "nameHero": "Thái Văn Cơ",
+        "globalName": "Cai Yan",
+        "nickname": "Vú em",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "175",
+        "nameHero": "Chung Quỳ",
+        "globalName": "Kui",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "171",
+        "nameHero": "Trương Phi",
+        "globalName": "Zhang Fei",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "168",
+        "nameHero": "Ngưu Ma Vương",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "tank",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "159",
+        "nameHero": "Dolia",
+        "globalName": "Dolia",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "118",
+        "nameHero": "Tôn Tẫn",
+        "globalName": "Sun Bin",
+        "role": [
+            "mage",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "114",
+        "nameHero": "Lưu Thiện",
+        "globalName": "Liu Shan",
+        "role": [
+            "fighter",
+            "roamer"
+        ]
+    },
+    {
+        "idHero": "113",
+        "nameHero": "Trang Chu",
+        "globalName": "Zhuangzi",
+        "role": [
+            "fighter",
+            "roamer"
+        ]
+    }
+]

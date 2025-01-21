@@ -1,0 +1,200 @@
+[
+    {
+        "idHero": "646",
+        "nameHero": "Butterfly",
+        "globalName": "Butterfly",
+        "role": [
+            "assassin"
+        ],
+        "note": "Anh hùng hợp tác với Arena of Valor"
+    },
+    {
+        "idHero": "542",
+        "nameHero": "Phi",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "538",
+        "nameHero": "Vân Anh",
+        "globalName": "Ying",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "531",
+        "nameHero": "Kính",
+        "globalName": "Jing",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "528",
+        "nameHero": "Lan",
+        "globalName": "Lam",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "522",
+        "nameHero": "Diệu",
+        "globalName": "Yao",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "506",
+        "nameHero": "Vân Trung Quân",
+        "globalName": "Cirrus",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "502",
+        "nameHero": "Bùi Cầm Hổ",
+        "globalName": "Pei",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "196",
+        "nameHero": "Thủ Ước",
+        "globalName": "Shouyue",
+        "role": [
+            "assassin",
+            "marksmen"
+        ]
+    },
+    {
+        "idHero": "195",
+        "nameHero": "Huyền Sách",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "183",
+        "nameHero": "Athena",
+        "globalName": "Athena",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "167",
+        "nameHero": "Tôn Ngộ Không",
+        "globalName": "Wukhong",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "163",
+        "nameHero": "Ukyo Tachibana",
+        "globalName": "Ukyo Tachibana",
+        "role": [
+            "assassin"
+        ],
+        "note": "Anh hùng hợp tác với SNK"
+    },
+    {
+        "idHero": "162",
+        "nameHero": "Nakoruru",
+        "globalName": "Nakoruru",
+        "nickname": "Nako",
+        "role": [
+            "assassin"
+        ],
+        "note": "Anh hùng hợp tác với SNK"
+    },
+    {
+        "idHero": "157",
+        "nameHero": "Mai Shiranui",
+        "globalName": "Mai Shiranui",
+        "nickname": "Mai",
+        "role": [
+            "assassin",
+            "mage"
+        ],
+        "note": "Anh hùng hợp tác với SNK"
+    },
+    {
+        "idHero": "153",
+        "nameHero": "Lan Lăng Vương",
+        "globalName": "Prince of Lanling",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "150",
+        "nameHero": "Hàn Tín",
+        "globalName": "Han Xin",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "146",
+        "nameHero": "Luna",
+        "globalName": "Luna",
+        "role": [
+            "assassin",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "137",
+        "nameHero": "Tư Mã Ý",
+        "globalName": "Sima Yi",
+        "role": [
+            "assassin",
+            "mage"
+        ]
+    },
+    {
+        "idHero": "131",
+        "nameHero": "Lý Bạch",
+        "globalName": "Li Bai",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "130",
+        "nameHero": "Musashi",
+        "globalName": "Musashi",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "116",
+        "nameHero": "A Kha",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "assassin"
+        ]
+    },
+    {
+        "idHero": "107",
+        "nameHero": "Triệu Vân",
+        "globalName": "Zilong",
+        "role": [
+            "fighter",
+            "assassin"
+        ]
+    }
+]
