@@ -1,0 +1,52 @@
+[
+    {
+        "idSkin": 17410,
+        "Hero": "Ngu Cơ",
+        "Name_Skin": "Nguyện Chiếu - Tuế Thời Doanh",
+        "Quantity": "Legend",
+        "idHero": 174,
+        "Star_Skin": "FALSE",
+        "Name_Image": "174-bigskin-10.jpg",
+        "Image_HD": "https://drive.google.com/file/d/1WeIA2vgH1xw3HEUlhQVTgJ9cuBoWyyFQ/view?usp=drive_link"
+    },
+    {
+        "idSkin": 18409,
+        "Hero": "Thái Văn Cơ",
+        "Name_Skin": "Nguyện Chiếu - Phúc Lộc Tụ",
+        "Quantity": "Legend",
+        "idHero": 184,
+        "Star_Skin": "FALSE",
+        "Name_Image": "184-bigskin-9.jpg",
+        "Image_HD": "https://drive.google.com/file/d/19lvrg5gwKF7fNXAm5bwooe4glWwKjD5S/view?usp=drive_link"
+    },
+    {
+        "idSkin": 17905,
+        "Hero": "Nữ Oa",
+        "Name_Skin": "Nguyện Chiếu - Thiên Thu Thịnh",
+        "Quantity": "Legend",
+        "idHero": 179,
+        "Star_Skin": "FALSE",
+        "Name_Image": "179-bigskin-5.jpg",
+        "Image_HD": "https://drive.google.com/file/d/1HDI3Uo_WM7scOcyiTDnvskoVlfVtgq4m/view?usp=drive_link"
+    },
+    {
+        "idSkin": 10912,
+        "Hero": "Đát Kỷ",
+        "Name_Skin": "Nguyện Chiếu - Chúng Sinh Hoà",
+        "Quantity": "Legend",
+        "idHero": 109,
+        "Star_Skin": "FALSE",
+        "Name_Image": "109-bigskin-12.jpg",
+        "Image_HD": "https://drive.google.com/file/d/1HE-byPcLWreu7ovFNQKZVj8jg5Nxse6p/view?usp=drive_link"
+    },
+    {
+        "idSkin": 53704,
+        "Hero": "Tư Không Chấn",
+        "Name_Skin": "Nguyện Chiếu - Sơn Hà Định",
+        "Quantity": "Legend",
+        "idHero": 537,
+        "Star_Skin": "FALSE",
+        "Name_Image": "537-bigskin-4.jpg",
+        "Image_HD": "https://drive.google.com/file/d/1HEu-8vh21bSZx2s-o7_Y7VciTIl7ooOU/view?usp=drive_link"
+    }
+]
