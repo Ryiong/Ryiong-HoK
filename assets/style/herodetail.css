@@ -66,9 +66,9 @@ img.default-banner-detail {
 }
 
 .skills {
-    height: 80vh;
     width: 100%;
     display: flex;
+    padding-bottom: 1.25rem;
 }
 
 .skills-description {
@@ -78,28 +78,22 @@ img.default-banner-detail {
 ul.list-skills {
     display: flex;
     position: relative;
-    margin: 2rem 1rem;
+    margin: 2rem 1rem 1.25rem 1rem;
 }
 
 li.skills-set {
     margin: 0 1.5rem;
 }
 
-.skills-set p.skill-description {
-    padding-left: 1.25rem;
+p.skill-description {
+    padding: 0 1.5rem 0 1.25rem;
     font-size: 1.1rem;
+    line-height: 1.75;
 }
 
 .context-skill {
     display: none;
-}
-
-.active-skill-set .context-skill {
-    display: block;
-    position: absolute;
-    width: 100%;
-    margin: 2rem auto;
-    left: 0;
+    padding: 0.25rem 0 0.75rem 1.1rem;
 }
 
 .skills-set div.border-iconskill {
@@ -118,10 +112,10 @@ li.skills-set {
     z-index: 2;
 }
 
-.active-skill-set h3.skill-name {
+h3.skill-name {
     display: block;
-    padding: 0rem 0 1.2rem 1.2rem;
-    font-size: 1.2rem;
+    padding: 0rem 0 0.75rem 1.2rem;
+    font-size: 1.275rem;
 }
 
 .skills-set img {
@@ -185,6 +179,20 @@ iframe.yt-video-frame {
     display: block;
 }
 
+h2.title-content {
+    text-align: center;
+    padding: 2.5rem 0 0 0.5rem;
+    font-size: 2rem;
+    color: #e8b968;
+    font-family: "Merienda", serif;
+    font-weight: 800;
+}
+
+.skins {
+    margin: 1.25rem auto;
+    width: 90%;
+}
+
 @media screen and (max-width: 1090px) {
     .detail-hero {
         width: 80%;
@@ -211,3 +219,15 @@ iframe.yt-video-frame {
         line-height: 1.75;
     }
 }
+
+@media screen and (max-width: 950px) {
+    .skills {
+        flex-wrap: wrap;
+    }
+
+    .skills-preview, .skills-description {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: )

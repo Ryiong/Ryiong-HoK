@@ -14,7 +14,7 @@ li {
 }
 
 .block {
-    display: block;
+    display: block !important;
 }
 
 .flex {

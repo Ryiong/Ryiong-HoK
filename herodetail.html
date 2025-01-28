@@ -82,19 +82,25 @@
             <div class="widget HTML" id="HTML3" data-version="1">
                 <div class="widget-content">
                     <div class="container-content">
+                        <h2 class="title-content">Kỹ năng anh hùng</h2>
                         <div class="skills ls">
                             <div class="skills-description">
-                                <ul class="list-skills">
-                                    
-                                </ul>
+                                <ul class="list-skills"></ul>
+                                <div class="description-list"></div>
                             </div>
                             <div class="skills-preview">
-                                <div class="video-frame">
-                                    
-                                </div>
+                                <div class="video-frame"></div>
                             </div>
                         </div>
-                        <div class="skins ls"></div>
+                        <h2 class="title-content">Hệ thống trang phục</h2>
+                        <div class="skins ls">
+                            <div class="layout-bigskin">
+                                <img class="w-100" src="https://ryiong-hok.neocities.org/assets/Resource/105/105-bigskin-1.jpg" alt="">
+                            </div>
+                            <div class="list-smallskin">
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -164,6 +170,7 @@
         function reScale() {
             setElementScale(".header-content", 1000);
             setElementScale(".detail-hero", 450);
+            setElementScale(".list-skills", 950);
         }
         reScale();
         document.addEventListener("DOMContentLoaded", reScale);

@@ -45,38 +45,50 @@ function renderHeroDetail(data) {
 
     let skillsSet = document.querySelectorAll(".skills-set");
     let skillsPreview = document.querySelectorAll(".import-ytframe")
+    let skillsDescription = document.querySelectorAll(".context-skill")
+
     skillsSet[0].classList.add("active-skill-set");
-    skillsPreview[0].classList.add('active-yt-video')
+    skillsPreview[0].classList.add('active-yt-video');
+    skillsDescription[0].classList.add('block')
     skillsSet.forEach((skillSet, index) => {
         skillSet.addEventListener('click', () => {
             if (!skillSet.classList.contains('active-skill-set')) {
                 skillsSet.forEach(item => item.classList.remove('active-skill-set'));
                 skillsPreview.forEach(item => item.classList.remove('active-yt-video'));
+                skillsDescription.forEach(item => item.classList.remove('block'));
                 skillSet.classList.add('active-skill-set');
                 skillsPreview[index].classList.add('active-yt-video');
+                skillsDescription[index].classList.add('block');
             }
         });
     });
 }
 
 function renderSkills(data) {
-    let htmlCode = '';
-    const placeSkills = document.querySelector(".list-skills");
+    let htmlCodeIcon = '', htmlCode = '';
     data.skills.forEach((skill) => {
         skill.forEach((item) => {
-            htmlCode += `<li class="skills-set">
+            htmlCodeIcon += `<li class="skills-set">
                             <div class="border-iconskill relative">
                                 <img src="https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/skills/${item.skillIcon}"
                                     alt="${item.skillName} Icon">
                             </div>
-                            <div class="context-skill">
-                                <h3 class="skill-name">${item.skillName}</h3>
-                                <p class="skill-description">${item.skillDescription}</p>
-                            </div> 
+                             
                         </li>`
+            htmlCode += `<div class="context-skill">
+                                <h3 class="skill-name">${item.skillName}</h3>`
+                                if (item.skillCD) {
+                                    htmlCode += `<p class="skill-description"><strong>Hồi chiêu:</strong> ${item.skillCD}</p>`
+                                }
+                                if (item.manaType != null) {
+                                    htmlCode += `<p class="skill-description"><strong>${item.manaType}</strong>: ${item.manaCost}</p>`
+                                }
+            htmlCode += `<p class="skill-description">${item.skillDescription}</p>
+                            </div>`
         })
     })
-    placeSkills.innerHTML = htmlCode;
+    document.querySelector(".list-skills").innerHTML = htmlCodeIcon;
+    document.querySelector(".description-list").innerHTML = htmlCode;
 }
 
 function renderPreviewSkill(data) {
