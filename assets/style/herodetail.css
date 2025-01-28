@@ -1,0 +1,213 @@
+div#banner-hero {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+img.default-banner-detail {
+    height: 90vh;
+    object-fit: cover;
+    min-width: 100%;
+}
+
+.detail-hero {
+    position: absolute;
+    z-index: 1;
+    color: #fff;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding-right: 2rem;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content-detail {
+    margin-left: 4.5rem;
+}
+
+.name-hero-detail {
+    text-transform: uppercase;
+    color: #e8b968;
+    font-family: "Merienda", serif;
+    font-weight: 800;
+}
+
+.skin-hero-detail {
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+}
+
+.story-hero-detail {
+    width: 20rem;
+    margin-top: 3rem;
+    word-wrap: break-word;
+    overflow-y: scroll;
+    height: 12rem;
+    line-height: 1.75;
+}
+
+.story-hero-detail::-webkit-scrollbar {
+    width: 3px;
+    border-radius: 10px;
+}
+
+.story-hero-detail::-webkit-scrollbar-track {
+    background: #888;
+    border-radius: 10px;
+}
+
+.story-hero-detail::-webkit-scrollbar-thumb {
+    background: #e8b968;
+    border-radius: 10px;
+}
+
+.skills {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+}
+
+.skills-description {
+    width: 60%;
+}
+
+ul.list-skills {
+    display: flex;
+    position: relative;
+    margin: 2rem 1rem;
+}
+
+li.skills-set {
+    margin: 0 1.5rem;
+}
+
+.skills-set p.skill-description {
+    padding-left: 1.25rem;
+    font-size: 1.1rem;
+}
+
+.context-skill {
+    display: none;
+}
+
+.active-skill-set .context-skill {
+    display: block;
+    position: absolute;
+    width: 100%;
+    margin: 2rem auto;
+    left: 0;
+}
+
+.skills-set div.border-iconskill {
+    cursor: pointer;
+}
+
+.active-skill-set div.border-iconskill::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -0.5rem;
+    left: -0.5rem;
+    right: -0.5rem;
+    bottom: -0.5rem;
+    background: url("../img/border.png") 0 0 / 100% 100% no-repeat;
+    z-index: 2;
+}
+
+.active-skill-set h3.skill-name {
+    display: block;
+    padding: 0rem 0 1.2rem 1.2rem;
+    font-size: 1.2rem;
+}
+
+.skills-set img {
+    width: 6rem;
+    filter: grayscale(0.75);
+}
+
+.active-skill-set img {
+    filter: grayscale(0);
+}
+
+.skills-preview {
+    width: 40%;
+}
+
+.video-frame {
+    width: 90%;
+    aspect-ratio: 16 / 9;
+    margin: 2rem auto;
+    position: relative;
+}
+
+.video-frame::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: url("../img/frameVideo.png") 0 0 / 100% 100% no-repeat;
+    z-index: -1;
+}
+
+.iframe-content {
+    transform: scale(0.9);
+}
+
+.import-ytframe {
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    -webkit-mask-image: url('../img/maskFrameVideo.png');
+    -webkit-mask-size: cover;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-image: url('../img/maskFrameVideo.png');
+    mask-size: cover;
+    mask-repeat: no-repeat;
+    mask-position: center;
+}
+
+iframe.yt-video-frame {
+    transform: scale(0.9);
+}
+
+.import-ytframe {
+    display: none;
+}
+
+.active-yt-video {
+    display: block;
+}
+
+@media screen and (max-width: 1090px) {
+    .detail-hero {
+        width: 80%;
+        top: 60%;
+        left: 50%;
+        text-align: center;
+        transform: translateX(-50%);
+        padding-right: initial;
+        padding-top: 1.2rem;
+        bottom: auto;
+        border-radius: 12px;
+    }
+
+    .content-detail {
+        margin-left: initial;
+    }
+
+    .story-hero-detail {
+        width: 90%;
+        margin: 1rem auto;
+        word-wrap: break-word;
+        overflow-y: scroll;
+        height: 8.5rem;
+        line-height: 1.75;
+    }
+}

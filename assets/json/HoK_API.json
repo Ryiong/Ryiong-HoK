@@ -1,0 +1,106 @@
+{
+  "105": {
+    "idHero": 105,
+    "heroName": "Liêm Pha",
+    "globalName": "Lian Po",
+    "defaultSkin": "Vụ Nổ Chính Nghĩa",
+    "numberSkill": 3,
+    "storyHero": "Liêm Pha sinh ra trong một gia tộc khá giàu có ở vùng đất phía Nam, mang lại cho bản thân nhiều lợi thế nhưng cũng gây ra nhiều rắc rối, vì hàng xóm thường đột kích nhà anh. Chỉ khi bản thân đủ lớn mạnh để bảo vệ gia tộc của mình thì tình hình mới dần đảo ngược. Khi Huyết tộc xâm lược, được thúc đẩy bởi đối thủ của mình là Bạch Khởi, Liêm Pha một mình đến Tắc Hạ để trở nên mạnh mẽ hơn và chứng minh rằng anh vẫn có thể bảo vệ gia tộc của mình.",
+    "skills": [
+      [
+        {
+          "skillName": "Linh Hồn Dũng Sĩ",
+          "skillIcon": "10500.png",
+          "skillDescription": "Liêm Pha sẽ miễn khống chế khi kỹ năng của mình. Khi vào trạng thái giao tranh, ý chí chiến đấu của Liêm Pha sẽ tăng dần lên, ý chí chiến đấu càng cao thì miễn thương càng nhiều tối đa 20%.</br>Khi tinh thần chiến đấu tràn đầy, Liêm Pha tăng 30% Tốc đánh. Sau giao tranh, tinh thần chiến đấu giảm dần trong 3s.</br>Ý chí chiến đấu sẽ giảm dần và giúp hồi phục lại cho bản thân 70 ~ 140 (+1.5% Máu cộng thêm) Máu. Hồi phục tối đa 10 lần khi thanh ý chí đầy",
+          "previewSkill": "https://www.youtube.com/embed/L1FJMMAjLmg?si=mw77zNgvcADKg9sk"
+        }
+      ],
+      [
+        {
+          "skillName": "Bộc Liệt Xung Đột",
+          "skillIcon": "10510.png",
+          "manaType": null,
+          "manaCost": 0,
+          "skillCD": "10/9.6/9.2/8.8/8.4/8s",
+          "skillDescription": "Liêm Pha tung cước theo hướng chỉ định, gây 150/180/210/240/270/300 (+3% Máu cộng thêm) sát thương vật lý lên kẻ địch và hất tung lên không trung 0.5s.</br>Nội tại: Đòn đánh thường thứ ba sẽ giáng một cú đấm nặng, gây 250/300/350/400/450/500 (+100% Công vật lý cộng thêm) sát thương vật lý cho kẻ thù",
+          "previewSkill": "https://www.youtube.com/embed/qenK-qcxuYg?si=Gnfv0G2gVqQtRP7Y"
+        }
+      ],
+      [
+        {
+          "skillName": "Dung Nham Trùng Kích",
+          "skillIcon": "10520.png",
+          "manaType": null,
+          "manaCost": 0,
+          "skillCD": "10/9.6/9.2/8.8/8.4/8s",
+          "skillDescription": "Liêm Pha tập trung sức mạnh tại vị trí đang đứng rồi đấm mạnh xuống mặt đất và nhận được khiên chắn 400/480/560/640/720/800 (+10% Máu cộng thêm) sát thương trong 5s</br>Trong thời gian tập trung sức mạnh sẽ giảm 15/18/21/24/27/30% Tốc chạy cho kẻ địch và đơn vị không phải anh hùng sẽ bị kéo về phía bản thân.</br>Sau đó 1s mặt đất rạn nứt gây 320/384/448/512/576/640 (+110% Công vật lý cộng thêm) sát thương vật lý. Kẻ địch càng đứng gần thì càng nhận nhiều sát thương, lên đến 100% sát thương. Nếu kẻ địch tấn công trong thời gian tập trung năng lượng kỹ năng 1 sẽ được hồi lại.",
+          "previewSkill": "https://www.youtube.com/embed/pAIE6SJOEcw?si=ZpYvxtv0Maeab-aG"
+        }
+      ],
+      [
+        {
+          "skillName": "Long Trời Lở Đất",
+          "skillIcon": "10530.png",
+          "manaType": null,
+          "manaCost": 0,
+          "skillCD": "50/45/40s",
+          "skillDescription": "Liêm Pha nhảy đến khu vực được chỉ định và đập đất ba lần liên tiếp.</br>Lần 1: Gây 200/300/400 (+5% Máu tối đa) sát thương vật lý và làm chậm 15/22.5/30% trong 1s.</br>Lần 2: Gây 300/450/600 (+10% Máu tối đa) sát thương vật lý và làm chậm 30/45/60% trong 1s</br>Lần 3: Gây 500/750/1000 (+15% Máu tối đa) sát thương vật lý và hất tung kẻ địch trong phạm vi 1s.</br>Kỹ năng 1 có thể sử dụng kỹ đang thi triển kỹ năng này",
+          "previewSkill": "https://www.youtube.com/embed/RxrQt6g56rU?si=baCDEmTBFDoQ90F0"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": 10501,
+        "skinName": "Vụ Nổ Chính Nghĩa",
+        "skinLink": "105-bigskin-1.jpg",
+        "starSkin": false,
+        "skinQuantity": "normal",
+        "previewSkin": null
+      },
+      {
+        "skinID": 10502,
+        "skinName": "Hành Trình Bất Tận",
+        "skinLink": "105-bigskin-2.jpg",
+        "starSkin": false,
+        "skinQuantity": "normal",
+        "previewSkin": null
+      },
+      {
+        "skinID": 10503,
+        "skinName": "Hành Trình Bất Tận",
+        "skinLink": "105-bigskin-3.jpg",
+        "starSkin": false,
+        "skinQuantity": "Epic",
+        "previewSkin": null
+      },
+      {
+        "skinID": 10504,
+        "skinName": "Dần Hổ - Ngự Thuẫn",
+        "skinLink": "105-bigskin-4.jpg",
+        "starSkin": false,
+        "skinQuantity": "Epic",
+        "previewSkin": null
+      },
+      {
+        "skinID": 10505,
+        "skinName": "Công Phu Nướng Đồ",
+        "skinLink": "105-bigskin-5.jpg",
+        "starSkin": false,
+        "skinQuantity": "Rare",
+        "previewSkin": null
+      },
+      {
+        "skinID": 10506,
+        "skinName": "Thăng Hoa - Luchador",
+        "skinLink": "105-bigskin-6.jpg",
+        "starSkin": false,
+        "skinQuantity": "Epic",
+        "previewSkin": null
+      }
+    ]
+  },
+  "106": {
+    "idHero": 106
+  }
+}

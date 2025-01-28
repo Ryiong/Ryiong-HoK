@@ -4,7 +4,7 @@ function renderList(data, query = "all") {
   heroListPlace.innerHTML = "";
   let text = "";
   data.forEach(item => {
-    text = text + `<li class="heroitem"><a href="#"><div class="heroblock overflow-hidden"><img class="lazy w-100" src="https://ryiong-hok.neocities.org/assets/Resource/${item.idHero}/${item.idHero}-mobileskin-1.jpg" alt="${item.nameHero}"></div><span class="block">${item.nameHero}</span></a></li>`
+    text = text + `<li class="heroitem"><a href="./herodetail.html?idHero=${item.idHero}"><div class="heroblock overflow-hidden"><img class="lazy w-100" src="https://ryiong-hok.neocities.org/assets/Resource/${item.idHero}/${item.idHero}-mobileskin-1.jpg" alt="${item.nameHero}"></div><span class="block">${item.nameHero}</span></a></li>`
   });
   heroListPlace.innerHTML = text
   const filterItems = document.querySelectorAll(".filter-item");
