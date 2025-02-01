@@ -24,7 +24,8 @@
   <link rel="stylesheet" href="./assets/style/footer.css">
   <link rel="stylesheet" href="./assets/style/herolist.css">
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.min.js"></script>
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.plugins.min.js"></script>
+  <script type="text/javascript"
+    src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.10/jquery.lazy.plugins.min.js"></script>
 </head>
 
 <body>
@@ -76,13 +77,27 @@
           <div class="container-content">
             <div class="hero-box">
               <div class="filter-list">
-                <div id="allhero" onclick="queryRole()" class="filter-item"><p>Tất cả</p></div>
-                <div id="tankhero" onclick="queryRole('tank')" class="filter-item"><p>Đỡ đòn</p></div>
-                <div id="fighterhero" onclick="queryRole('fighter')" class="filter-item"><p>Đấu sĩ</p></div>
-                <div id="assassinhero" onclick="queryRole('assassin')" class="filter-item"><p>Sát thủ</p></div>
-                <div id="magehero" onclick="queryRole('mage')" class="filter-item"><p>Pháp sư</p></div>
-                <div id="marksmenhero" onclick="queryRole('marksmen')" class="filter-item"><p>Xạ thủ</p></div>
-                <div id="roamerhero" onclick="queryRole('roamer')" class="filter-item"><p>Hỗ trợ</p></div>
+                <div id="allhero" onclick="queryRole()" class="filter-item">
+                  <p>Tất cả</p>
+                </div>
+                <div id="tankhero" onclick="queryRole('tank')" class="filter-item">
+                  <p>Đỡ đòn</p>
+                </div>
+                <div id="fighterhero" onclick="queryRole('fighter')" class="filter-item">
+                  <p>Đấu sĩ</p>
+                </div>
+                <div id="assassinhero" onclick="queryRole('assassin')" class="filter-item">
+                  <p>Sát thủ</p>
+                </div>
+                <div id="magehero" onclick="queryRole('mage')" class="filter-item">
+                  <p>Pháp sư</p>
+                </div>
+                <div id="marksmenhero" onclick="queryRole('marksmen')" class="filter-item">
+                  <p>Xạ thủ</p>
+                </div>
+                <div id="roamerhero" onclick="queryRole('roamer')" class="filter-item">
+                  <p>Hỗ trợ</p>
+                </div>
               </div>
               <ul class="herolist w-100" id="herolist">
               </ul>
@@ -157,8 +172,9 @@
       if (window.innerWidth > 870) {
         setElementScale(".hero-box")
       } else {
-        setElementScale(".hero-box", 1720)
+        setElementScale(".hero-box", 2000)
       }
+      setElementScale(".footer-content", 260);
     }
     reScale();
     document.addEventListener("DOMContentLoaded", reScale);

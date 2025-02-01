@@ -94,11 +94,16 @@
                         </div>
                         <h2 class="title-content">Hệ thống trang phục</h2>
                         <div class="skins ls">
-                            <div class="layout-bigskin">
-                                <img class="w-100" src="https://ryiong-hok.neocities.org/assets/Resource/105/105-bigskin-1.jpg" alt="">
+                            <div class="layout-bigskin relative">
+                                <div>
+                                    <img id="display-skin" class="w-100"
+                                    src="./assets/img/bgmap.jpg" alt="">
+                                </div>
+                                <div class="star-collection">
+                                    
+                                </div>
                             </div>
-                            <div class="list-smallskin">
-
+                            <div class="list-smallskin flex">
                             </div>
                         </div>
                     </div>
@@ -171,6 +176,7 @@
             setElementScale(".header-content", 1000);
             setElementScale(".detail-hero", 450);
             setElementScale(".list-skills", 950);
+            setElementScale(".footer-content", 260);
         }
         reScale();
         document.addEventListener("DOMContentLoaded", reScale);

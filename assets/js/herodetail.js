@@ -27,6 +27,7 @@ fetch('./assets/json/HoK_API.json')
         if (data[getQuery()]) {
             console.log(data[getQuery()])
             renderHeroDetail(data[getQuery()]);
+            OpenSkin(data[getQuery()]);
         } else {
             location.pathname = '/Ryiong-HoK/404.html'
         }
@@ -104,5 +105,74 @@ function renderPreviewSkill(data) {
         })
     })
     document.querySelector(".video-frame").innerHTML = htmlCode
+}
+
+function importSkinData(data) {
+    let iconSkinCode = '';
+
+    data.skins.forEach((skin) => {
+        iconSkinCode += `<div class="h-100 skinicon">
+                            <img class="h-100" src="https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${skin.skinIcon}" alt="${skin.skinName}">
+                        </div>`;
+    })
+    document.querySelector('.list-smallskin').innerHTML = iconSkinCode;
+
+}
+
+function displayBigSkin(data, index) {
+    document.querySelector("#display-skin").src = `https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${data.skins[index].skinImage}`;
+    document.querySelector("#display-skin").alt = `${data.skins[index].skinName}`;
+}
+
+function displayStarSkin(data, index, sIndex) {
+    document.querySelector("#display-skin").src = `https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${data.skins[index].starList[sIndex].starImage}`;
+    document.querySelector("#display-skin").alt = `${data.skins[index].starList[sIndex].starName}`;
+}
+
+function importStarIcon(data, index) {
+    let starIconCode = '<p>Star Skin</p>';
+    data.skins[index].starList.forEach((starSkin) => {
+        starIconCode += `<div class="w-100 staricon">
+                        <img class="w-100" src="https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${starSkin.starIcon}" alt="${starSkin.starName}">
+                    </div>`;
+    })
+    document.querySelector('.star-collection').innerHTML = starIconCode
+}
+
+function OpenSkin(data) {
+    importSkinData(data);
+    let skinIcons = document.querySelectorAll('.list-smallskin > .h-100.skinicon');
+
+    // Display default
+    skinIcons[0].classList.add('active-skin')
+    displayBigSkin(data, 0)
+    document.querySelector('.star-collection').classList.add('hide')
+
+    skinIcons.forEach((skinIcon, index) => {
+        skinIcon.addEventListener('click', () => {
+            if (!skinIcon.classList.contains('active-skin')) {
+                skinIcons.forEach(item => item.classList.remove('active-skin'));
+                skinIcon.classList.add('active-skin');
+                displayBigSkin(data, index)
+                if (data.skins[index].starSkin === false) {
+                    document.querySelector('.star-collection').classList.add('hide')
+                } else {
+                    document.querySelector('.star-collection').classList.remove('hide')
+                    importStarIcon(data, index);
+                    let starIcons = document.querySelectorAll('.star-collection .staricon')
+                    starIcons.forEach((starIcon, sIndex) => {
+                        starIcon.addEventListener('click', () => {
+                            if (!starIcon.classList.contains('active-skin')) {
+                                starIcons.forEach(item => item.classList.remove('active-skin'))
+                                starIcon.classList.add('active-skin')
+                                displayStarSkin(data, index, sIndex)
+                            }
+                        }) 
+                    })
+                }
+            }
+            
+        });
+    });
 }
 

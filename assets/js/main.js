@@ -34,12 +34,12 @@ function setElementScale(target, range = 1684) {
 }
 function setScale(target, range = 1684) {
     if (window.innerWidth < range) {
-        let zoom = window.innerWidth / range;
+        let zoom = document.querySelector("body").clientWidth / range;
         target.style.zoom = zoom;
     } else {
         target.style.zoom = 1;
     }
-    // console.log(window.innerWidth, target.clientWidth, window.innerWidth / 1920)
+    // console.log(document.querySelector("body").clientWidth, target.clientWidth, window.innerWidth / 1920)
 }
 
 function setElementTranslate(target) {
