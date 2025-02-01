@@ -25,8 +25,9 @@ function queryRole(query = '') {
         return response.json();
       })
       .then((data) => {
-        console.log(data)
         renderList(data, "all")
+    reScale();
+
       })
       .catch((error) => {
         console.error('There was a problem with the fetch operation:', error)
@@ -41,8 +42,9 @@ function queryRole(query = '') {
         return response.json();
       })
       .then((data) => {
-        console.log(data)
         renderList(data, query)
+    reScale();
+
       })
       .catch((error) => {
         console.error('There was a problem with the fetch operation:', error)
@@ -51,6 +53,7 @@ function queryRole(query = '') {
 }
 
 queryRole();
+
 $(function() {
   $('.lazy').lazy();
 })

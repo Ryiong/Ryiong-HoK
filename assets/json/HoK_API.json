@@ -53,54 +53,62 @@
       {
         "skinID": 10501,
         "skinName": "Vụ Nổ Chính Nghĩa",
-        "skinLink": "105-bigskin-1.jpg",
+        "skinImage": "105-bigskin-1.jpg",
+        "skinIcon": "105-smallskin-1.jpg",
         "starSkin": false,
         "skinQuantity": "normal",
-        "previewSkin": null
+        "keyHD": "1apcaYcllLvss1mmiOsGh3MrIeJZO4mt7"
       },
       {
         "skinID": 10502,
         "skinName": "Hành Trình Bất Tận",
-        "skinLink": "105-bigskin-2.jpg",
+        "skinImage": "105-bigskin-2.jpg",
+        "skinIcon": "105-smallskin-2.jpg",
         "starSkin": false,
         "skinQuantity": "normal",
-        "previewSkin": null
+        "keyHD": "1cJ2v3rAsH-dL_DLvRv6q9e5agUoYW90t"
       },
       {
         "skinID": 10503,
         "skinName": "Hành Trình Bất Tận",
-        "skinLink": "105-bigskin-3.jpg",
+        "skinImage": "105-bigskin-3.jpg",
+        "skinIcon": "105-smallskin-3.jpg",
         "starSkin": false,
         "skinQuantity": "Epic",
-        "previewSkin": null
+        "keyHD": "1vKFxdPE_5aZneQJwYOTLJ7wxzMSgh3TH"
       },
       {
         "skinID": 10504,
         "skinName": "Dần Hổ - Ngự Thuẫn",
-        "skinLink": "105-bigskin-4.jpg",
+        "skinImage": "105-bigskin-4.jpg",
+        "skinIcon": "105-smallskin-4.jpg",
         "starSkin": false,
         "skinQuantity": "Epic",
-        "previewSkin": null
+        "keyHD": "1EYFfRSkX3CJWdMjXfUwzVVum81rZ5JUI"
       },
       {
         "skinID": 10505,
         "skinName": "Công Phu Nướng Đồ",
-        "skinLink": "105-bigskin-5.jpg",
+        "skinImage": "105-bigskin-5.jpg",
+        "skinIcon": "105-smallskin-5.jpg",
         "starSkin": false,
         "skinQuantity": "Rare",
-        "previewSkin": null
+        "keyHD": "1EWm83xUr5tmWMXC52uIOneHn8jUB7Mau"
       },
       {
         "skinID": 10506,
         "skinName": "Thăng Hoa - Luchador",
-        "skinLink": "105-bigskin-6.jpg",
+        "skinImage": "105-bigskin-6.jpg",
+        "skinIcon": "105-smallskin-6.jpg",
         "starSkin": false,
         "skinQuantity": "Epic",
-        "previewSkin": null
+        "keyHD": "1is2GyERYoOjoZKA4VisROWyR7msD55hc"
       }
     ]
   },
   "106": {
-    "idHero": 106
+    "idHero": 106,
+    "heroName": "Tiểu Kiều",
+    "globalName": "Xiao Qiao"
   }
 }

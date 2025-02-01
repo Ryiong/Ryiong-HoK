@@ -13,6 +13,10 @@ li {
     list-style-type: none;
 }
 
+.hide {
+    display: none !important;
+}
+
 .block {
     display: block !important;
 }

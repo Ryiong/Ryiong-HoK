@@ -5,6 +5,7 @@ function reScale() {
     // setElementScale(".new-banner");
     setElementScale("#Banner-hp2");
     setElementScale(".hero-layer", 500);
+    setElementScale(".footer-content", 260);
 }
 reScale();
 document.addEventListener("DOMContentLoaded", reScale);
