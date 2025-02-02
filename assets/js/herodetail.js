@@ -41,6 +41,7 @@ function renderHeroDetail(data) {
     document.querySelector(".name-hero-detail").innerText = data.heroName;
     document.querySelector(".skin-hero-detail").innerText = data.defaultSkin;
     document.querySelector(".story-hero-detail").innerText = data.storyHero;
+    document.querySelector(".default-banner-detail").src = `https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${data.skins[0].skinImage}`;
     renderSkills(data);
     renderPreviewSkill(data);
 

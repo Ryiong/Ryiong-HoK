@@ -205,15 +205,15 @@
           {
             "starID": 1060501,
             "starName": "Hello Kitty",
-            "skinImage": "10605-bigstar-1.jpg",
-            "skinIcon": "10605-smallstar-1.jpg",
+            "starImage": "10605-bigstar-1.jpg",
+            "starIcon": "10605-smallstar-1.jpg",
             "starKeyHD": "1Eu6XzmDqzG6cqslAMS39x3hwfDxmlAmt"
           },
           {
             "starID": 1060502,
             "starName": "Tiệc Trên Bãi Biển",
-            "skinImage": "10605-bigstar-2.jpg",
-            "skinIcon": "10605-smallstar-2.jpg",
+            "starImage": "10605-bigstar-2.jpg",
+            "starIcon": "10605-smallstar-2.jpg",
             "starKeyHD": "1gBLDq5gfuBJS5D5K_ccI74oBuJ2Oxf67"
           }
         ]
