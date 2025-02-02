@@ -109,6 +109,160 @@
   "106": {
     "idHero": 106,
     "heroName": "Tiểu Kiều",
-    "globalName": "Xiao Qiao"
+    "globalName": "Xiao Qiao",
+    "defaultSkin": "Làn Gió Tình Yêu",
+    "numberSkill": 3,
+    "storyHero": "Tiểu Kiều rất sẵn lòng dốc hết sức mình, dù là vì tình yêu hay vì phép thuật. Sinh ra trong gia tộc Kiều nổi tiếng về dị năng ở Giang Đông. Tiểu Kiều cực kỳ tài giỏi, và cô ấy có năng khiếu điều khiển sức mạnh của gió. Những cơn gió tình yêu đã mang đến cho cô một người bạn đời hoàn hảo, và câu chuyện tình của cô với Chu Du vẫn kéo dài cho đến ngày nay.",
+    "skills": [
+      [
+        {
+          "skillName": "Nụ Cười Hàn Gắn",
+          "skillIcon": "10600.png",
+          "skillDescription": "Kỹ năng trúng kẻ địch sẽ tăng 25% Tốc chạy của bản thân trong 2s",
+          "previewSkill": "https://www.youtube.com/embed/2FI_KUClN0E?si=kE0q3LKz_wSdsXRP"
+        }
+      ],
+      [
+        {
+          "skillName": "Quạt Hoa Nở",
+          "skillIcon": "10610.png",
+          "manaType": "Năng lượng",
+          "manaCost": 45,
+          "skillCD": "5/4.8/4.6/4.4/4.2/4s",
+          "skillDescription": "Tiểu Kiều ném quạt bay theo hướng chỉ định khi bay đến khoảng cách xa nhất sẽ quay quay trở lại vị trí hiện tại của bản thân gây sát thương cho những kẻ chạm phải quạt, gây 585/635/685/735/785/835 (+80% Công phép) sát thương phép lên kẻ địch đầu tiên trúng phải.</br>Từ kẻ địch thứ hai sẽ giảm đi 20% sát thương, giảm tối đa 50%.",
+          "previewSkill": "https://www.youtube.com/embed/XPjA__rWpQQ?si=KOdvxk7b3vA6nHMa"
+        }
+      ],
+      [
+        {
+          "skillName": "Ngọn Gió Tình Yêu",
+          "skillIcon": "10620.png",
+          "manaType": "Năng lượng",
+          "manaCost": 70,
+          "skillCD": "10/9.6/9.2/8.8/8.4/8s",
+          "skillDescription": "Tiểu Kiều triệu hồi một cơn lốc trong khu vực chỉ định gây 300/340/380/420/460/500 (+50% Công phép) sát thương phép lên những kẻ địch trong khu vực đồng thời hất tung chúng lên trong 1.5s.",
+          "previewSkill": "https://www.youtube.com/embed/WukxK4U46Fw?si=EP9G0LctNH7GnDJe"
+        }
+      ],
+      [
+        {
+          "skillName": "Sao Sáng Hồn Loạn",
+          "skillIcon": "10630.png",
+          "manaType": "Năng lượng",
+          "manaCost": 140,
+          "skillCD": "35/31.5/28s",
+          "skillDescription": "Tiểu Kiều triệu hồi mưa sao băng tồn tại trong 6s và liên tục rơi ngẫu nhiên vào những kẻ địch trong phạm vi. Mỗi sao băng sẽ gây ra 400/500/600 (+100% Công phép) sát thương phép.</br>Mỗi kẻ địch có thể chịu tối đa 4 sao băng. Khi nhiều ngôi sao băng trúng cùng một mục tiêu, nó sẽ chỉ gây ra 50% sát thương từ ngôi sao băng thứ hai. Trong thời gian mưa sao băng tồn tại bản thân sẽ nhận hiệu ứng tăng tốc chạy.",
+          "previewSkill": "https://www.youtube.com/embed/NbXbjh74ppQ?si=mvTWVrwDJ7p6zLnB"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": 10601,
+        "skinName": "Làn Gió Tình Yêu",
+        "skinImage": "106-bigskin-1.jpg",
+        "skinIcon": "106-smallskin-1.jpg",
+        "starSkin": false,
+        "skinQuantity": "normal",
+        "keyHD": "1n460T1DjfKjHeKVS0IyNihBknwOp7FMV"
+      },
+      {
+        "skinID": 10602,
+        "skinName": "Đêm Trước Halloween",
+        "skinImage": "106-bigskin-2.jpg",
+        "skinIcon": "106-smallskin-2.jpg",
+        "starSkin": false,
+        "skinQuantity": "normal",
+        "keyHD": "1qfy7jEdh__zKnPBj_pYJA9_C2HlEVuxH"
+      },
+      {
+        "skinID": 10603,
+        "skinName": "Giấc Mộng Thiên Nga",
+        "skinImage": "106-bigskin-3.jpg",
+        "skinIcon": "106-smallskin-3.jpg",
+        "starSkin": false,
+        "skinQuantity": "Mythic",
+        "keyHD": "1QMXRYaIoJrlvaztPDwGmG3wnOh7qYy7Z"
+      },
+      {
+        "skinID": 10604,
+        "skinName": "Thuần Bạch Hoa Giá",
+        "skinImage": "106-bigskin-4.jpg",
+        "skinIcon": "106-smallskin-4.jpg",
+        "starSkin": false,
+        "skinQuantity": "Legend",
+        "keyHD": "1RQLaQvgvJJsD6qW5WOsEDkgJR9iA2EOB"
+      },
+      {
+        "skinID": 10605,
+        "skinName": "Kỳ Lân Rực Rỡ",
+        "skinImage": "106-bigskin-5.jpg",
+        "skinIcon": "106-smallskin-5.jpg",
+        "starSkin": true,
+        "skinQuantity": "Epic",
+        "keyHD": "1pInBU0VDVJQCUB1w7Fyy9c4HD0_xi1NY",
+        "starList": [
+          {
+            "starID": 1060501,
+            "starName": "Hello Kitty",
+            "skinImage": "10605-bigstar-1.jpg",
+            "skinIcon": "10605-smallstar-1.jpg",
+            "starKeyHD": "1Eu6XzmDqzG6cqslAMS39x3hwfDxmlAmt"
+          },
+          {
+            "starID": 1060502,
+            "starName": "Tiệc Trên Bãi Biển",
+            "skinImage": "10605-bigstar-2.jpg",
+            "skinIcon": "10605-smallstar-2.jpg",
+            "starKeyHD": "1gBLDq5gfuBJS5D5K_ccI74oBuJ2Oxf67"
+          }
+        ]
+      },
+      {
+        "skinID": 10606,
+        "skinName": "Tử Đinh Hương Kết",
+        "skinImage": "106-bigskin-6.jpg",
+        "skinIcon": "106-smallskin-6.jpg",
+        "starSkin": false,
+        "skinQuantity": "Rare",
+        "keyHD": "1XEdKTItXqxZRrlR6XqsH6Fuhi1jKqRts"
+      },
+      {
+        "skinID": 10607,
+        "skinName": "Thanh Xà",
+        "skinImage": "106-bigskin-7.jpg",
+        "skinIcon": "106-smallskin-7.jpg",
+        "starSkin": false,
+        "skinQuantity": "Epic",
+        "keyHD": "12CIuQOQ6HTuS5A0CXf8ECNYo5MLfHxtY"
+      },
+      {
+        "skinID": 10608,
+        "skinName": "Âm Nhạc Động Tâm",
+        "skinImage": "106-bigskin-8.jpg",
+        "skinIcon": "106-smallskin-8.jpg",
+        "starSkin": false,
+        "skinQuantity": "Legend",
+        "keyHD": "1EGIeNOWI6IT5UJuMOK74gC1fARZsTWx2"
+      },
+      {
+        "skinID": 10609,
+        "skinName": "Sơn Hải - Lâm Lang Sinh",
+        "skinImage": "106-bigskin-9.jpg",
+        "skinIcon": "106-smallskin-9.jpg",
+        "starSkin": false,
+        "skinQuantity": "Legend",
+        "keyHD": "1Em8vYJAgq2FdVnUFdh5wDyAml0Guo72j"
+      },
+      {
+        "skinID": 10610,
+        "skinName": "Phù Thủy Thời Không",
+        "skinImage": "106-bigskin-10.jpg",
+        "skinIcon": "106-smallskin-10.jpg",
+        "starSkin": false,
+        "skinQuantity": "Flawless",
+        "keyHD": "1v5xRw4W3D0KnIxMbxJYRLWAIm9L9Pmy9"
+      }
+    ]
   }
 }
