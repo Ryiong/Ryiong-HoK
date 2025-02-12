@@ -555,5 +555,196 @@
         "keyHD": "1qud-0vgqcsDXY0rwRV_2E6bZsuWzzgmS"
       }
     ]
+  },
+  "109": {
+    "idHero": 109,
+    "heroName": "Đát Kỷ",
+    "globalName": "Daji",
+    "defaultSkin": "Mị Lực Yêu Hồ",
+    "numberSkill": 3,
+    "storyHero": "Một con rối vô cảm được tạo ra bởi một ông già thành thạo phép thuật, Đát Kỷ có một vẻ đẹp vô song. Mặc dù được tạo ra như một con rối, cô ấy trông không khác gì người thường, nhưng Đát Kỷ không có một trái tim thật sự cô cũng không thể hiểu được cảm xúc của con người. Đầy ngây thơ và trong sáng, cô cảm thấy bực bội và bối rối về cảm xúc của mình. Mặc dù vẻ ngoài quyến rũ của cô ấy thường khiến kẻ thù quên mất cô ấy thực sự nguy hiểm như thế nào, nhưng mong muốn lớn nhất của Đát Kỷ Ngốc nghếch là khám phá trái tim của chính mình.",
+    "skills": [
+      [
+        {
+          "skillName": "Thất Tâm",
+          "skillIcon": "10900.png",
+          "skillDescription": "Kỹ năng trúng kẻ địch sẽ giảm 36-72 Giáp phép của mục tiêu trong 3s, cộng dồn tối đa 3 lần",
+          "skillPreview": "https://www.youtube.com/embed/n8jp-1fCVU8?si=oFS1JMET4-gXzoPP"
+        }
+      ],
+      [
+        {
+          "skillName": "Xung Kích Linh Hồn",
+          "skillIcon": "10910.png",
+          "manaType": "Năng lượng",
+          "manaCost": 60,
+          "skillCD": "5/4.8/4.6/4.4/4.2/4s",
+          "skillDescription": "Đát Kỷ vẫy một làn sóng xung kích theo hướng chỉ định, gây 570/635/700/765/830/895 (+120% Công phép) sát thương phép lên kẻ địch trúng chiêu",
+          "skillPreview": "https://www.youtube.com/embed/pon1rfgm-ko?si=LYQFyY_lefrQDxoc"
+        }
+      ],
+      [
+        {
+          "skillName": "Mị Lực Thần Tượng",
+          "skillIcon": "10920.png",
+          "manaType": "Năng lượng",
+          "manaCost": 80,
+          "skillCD": "9/8.6/8.2/7.8/7.4/7s",
+          "skillDescription": "Đát Kỷ chọn một mục tiêu thả trái tim tình yêu, gây 285/320/355/390/425/460 (+66% Công phép) sát thương phép lên kẻ địch trúng phải đồng thời làm choáng kẻ đó trong 1.5s",
+          "skillPreview": "https://www.youtube.com/embed/ND8u4tTrZZk?si=l19Tcbp0C02spLp7"
+        }
+      ],
+      [
+        {
+          "skillName": "Sùng Bài Nữ Vương",
+          "skillIcon": "10930.png",
+          "manaType": "Năng lượng",
+          "manaCost": 120,
+          "skillCD": "15/13.5/12s",
+          "skillDescription": "Đát Kỷ thả ra 5 trái tim tự động tấn công những kẻ địch xung quanh. Mỗi trái tim gây ra 325/405/485 (+75% Công phép) sát thương phép.</br>Khi nhiều trái tim bắn trúng cùng một mục tiêu, chúng sẽ chỉ gây 50% sát thương.",
+          "skillPreview": "https://www.youtube.com/embed/He7wkI_vJ3s?si=Hjj4JVVl9fv0BCK_"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": 10901,
+        "skinName": "Mị Lực Yêu Hồ",
+        "skinImage": "109-bigskin-1.jpg",
+        "skinIcon": "109-smallskin-1.jpg",
+        "starSkin": false,
+        "skinQuality": "normal",
+        "keyHD": "1T1Q_cR7-0kGy9s6Qm7J0BxAEyie8HQtT"
+      },
+      {
+        "skinID": 10902,
+        "skinName": "Hầu Gái Cà Phê",
+        "skinImage": "109-bigskin-2.jpg",
+        "skinIcon": "109-smallskin-2.jpg",
+        "starSkin": true,
+        "skinQuality": "Epic",
+        "keyHD": "1TSxeUgYxuyExZGV3AhJwW3pqRLzC6WeD",
+        "starList": [
+          {
+            "starID": 1090201,
+            "starName": "Người Yêu Matcha",
+            "starImage": "10902-bigstar-1.jpg",
+            "starIcon": "10902-smallstar-1.jpg",
+            "starKeyHD": "1yn0K8Kx9Uq-VKt9yLPWBbqGN68vWs9bb"
+          },
+          {
+            "starID": 1090302,
+            "starName": "Kem Tuyết Anh Đào",
+            "starImage": "10902-bigstar-2.jpg",
+            "starIcon": "10902-smallstar-2.jpg",
+            "starKeyHD": "1B4tc0YFPq7ZzLmV3ROZtCUc0s_4VKODP"
+          },
+          {
+            "starID": 1090303,
+            "starName": "Mousse Việt Quất",
+            "starImage": "10902-bigstar-3.jpg",
+            "starIcon": "10902-smallstar-3.jpg",
+            "starKeyHD": "17K5FVfuY3pEmqerv3FNnXjm2UzgjhX2s"
+          },
+          {
+            "starID": 1090304,
+            "starName": "Bánh Ngọt",
+            "starImage": "10902-bigstar-4.jpg",
+            "starIcon": "10902-smallstar-4.jpg",
+            "starKeyHD": "17-qZ-ROcvUcYCbnes5JE_ziCrn9wHjUL"
+          }
+        ]
+      },
+      {
+        "skinID": 10903,
+        "skinName": "Mị Lực Last Vegas",
+        "skinImage": "109-bigskin-3.jpg",
+        "skinIcon": "109-smallskin-3.jpg",
+        "starSkin": false,
+        "skinQuality": "Rare",
+        "keyHD": "1nmrs0s2GztF0U7u7DJzRlmwReZr8ZUD_"
+      },
+      {
+        "skinID": 10904,
+        "skinName": "Tiên Cảnh Alice",
+        "skinImage": "109-bigskin-4.jpg",
+        "skinIcon": "109-smallskin-4.jpg",
+        "starSkin": false,
+        "skinQuality": "normal",
+        "keyHD": "1Ds2QEUeG4HnKLOCE_fl78r88y96eYsxB"
+      },
+      {
+        "skinID": 10905,
+        "skinName": "Thiếu Nữ A Ly",
+        "skinImage": "109-bigskin-5.jpg",
+        "skinIcon": "109-smallskin-5.jpg",
+        "starSkin": false,
+        "skinQuality": "Rare",
+        "keyHD": "1nVGxDV90FKJnx0KUvkIDgiznFINI7BAh"
+      },
+      {
+        "skinID": 10906,
+        "skinName": "Nhiệt Huyết Samba",
+        "skinImage": "109-bigskin-6.jpg",
+        "skinIcon": "109-smallskin-6.jpg",
+        "starSkin": false,
+        "skinQuality": "Epic",
+        "keyHD": "1yiCvAOESZD119OaqtJ9Kti3216AjPWf_"
+      },
+      {
+        "skinID": 10907,
+        "skinName": "Thời Không Đối Cực",
+        "skinImage": "109-bigskin-7.jpg",
+        "skinIcon": "109-smallskin-7.jpg",
+        "starSkin": false,
+        "skinQuality": "Epic",
+        "keyHD": "1QPf9sdhUR2MjJ8bL4anwDP9Cp5paGekR"
+      },
+      {
+        "skinID": 10908,
+        "skinName": "Lời Thề Tử La Lan",
+        "skinImage": "109-bigskin-8.jpg",
+        "skinIcon": "109-smallskin-8.jpg",
+        "starSkin": false,
+        "skinQuality": "Rare",
+        "keyHD": "1CKKHO41-PE9OktMhhdkcInaYo3Y-TqIz"
+      },
+      {
+        "skinID": 10909,
+        "skinName": "Thời Chi Kỳ Lữ",
+        "skinImage": "109-bigskin-9.jpg",
+        "skinIcon": "109-smallskin-9.jpg",
+        "starSkin": false,
+        "skinQuality": "Epic",
+        "keyHD": "1dab7z_3CrzDD23O3x0uvg_9NAFcGvC5S"
+      },
+      {
+        "skinID": 10910,
+        "skinName": "Thanh Khâu Cửu Vỹ",
+        "skinImage": "109-bigskin-10.jpg",
+        "skinIcon": "109-smallskin-10.jpg",
+        "starSkin": false,
+        "skinQuality": "Flawless",
+        "keyHD": "1fdcOHN25qQq-tTKKG31ihMXTX8E_OVeH"
+      },
+      {
+        "skinID": 10911,
+        "skinName": "Linh Bốc Ma Pháp",
+        "skinImage": "109-bigskin-11.jpg",
+        "skinIcon": "109-smallskin-11.jpg",
+        "starSkin": false,
+        "skinQuality": "Rare",
+        "keyHD": "18mSLZNxx_J8Fmxxvymq0yoUYtWj7FtUV"
+      },
+      {
+        "skinID": 10912,
+        "skinName": "Nguyện Chiếu - Chúng Sinh Hoà",
+        "skinImage": "109-bigskin-12.jpg",
+        "skinIcon": "109-smallskin-12.jpg",
+        "starSkin": false,
+        "skinQuality": "Legend",
+        "keyHD": "1HE-byPcLWreu7ovFNQKZVj8jg5Nxse6p"
+      }
+    ]
   }
 }
