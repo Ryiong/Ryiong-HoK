@@ -98,7 +98,7 @@ function renderPreviewSkill(data) {
     data.skills.forEach((skill) => {
         skill.forEach((item) => {
             htmlCode += `<div class="import-ytframe w-100">
-                            <iframe class="yt-video-frame" width="100%" height="100%" src="${item.previewSkill}"
+                            <iframe class="yt-video-frame" width="100%" height="100%" src="${item.skillPreview}"
                                 title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -123,11 +123,13 @@ function importSkinData(data) {
 function displayBigSkin(data, index) {
     document.querySelector("#display-skin").src = `https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${data.skins[index].skinImage}`;
     document.querySelector("#display-skin").alt = `${data.skins[index].skinName}`;
+    document.querySelector("#open-linkskin").href = `https://drive.google.com/file/d/${data.skins[index].keyHD}/view?usp=drive_link`;
 }
 
 function displayStarSkin(data, index, sIndex) {
     document.querySelector("#display-skin").src = `https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${data.skins[index].starList[sIndex].starImage}`;
     document.querySelector("#display-skin").alt = `${data.skins[index].starList[sIndex].starName}`;
+    document.querySelector("#open-linkskin").href = `https://drive.google.com/file/d/${data.skins[index].starList[sIndex].starKeyHD}/view?usp=drive_link`;
 }
 
 function importStarIcon(data, index) {

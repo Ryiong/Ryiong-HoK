@@ -280,6 +280,15 @@ h2.title-content {
     cursor: pointer;
 }
 
+#open-linkskin:hover > img {
+    filter: saturate(1) grayscale(0) brightness(1) !important;
+}
+
+#open-linkskin:hover > span {
+    text-shadow: 1px 0 20px #0091ec !important;
+    color: #fff !important;
+}
+
 @media screen and (max-width: 1090px) {
     .detail-hero {
         width: 80%;
