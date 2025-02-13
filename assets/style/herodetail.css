@@ -264,6 +264,7 @@ h2.title-content {
     overflow-x: hidden;
     overflow-y: scroll;
     width: 7rem;
+    height: 100%;
 }
 
 .star-collection > p {
