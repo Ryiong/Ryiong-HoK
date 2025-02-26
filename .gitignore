@@ -3,6 +3,8 @@
 
 #Local folder admin
 admin/
+esports.html
+match/
 
 # Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
 _site/

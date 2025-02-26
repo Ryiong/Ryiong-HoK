@@ -1509,5 +1509,1020 @@
         "keyHD": "1A2g3axL8_JIF_5BHDW56vDjmNxaHVB41"
       }
     ]
+  },
+  "115":{
+    "idHero": 115,
+    "heroName": "Cao Tiệm Ly",
+    "globalName": "Gao",
+    "defaultSkin": "Phản Nghịch Ngâm Du",
+    "numberSkill": 3,
+    "storyHero": "Vốn là một thi sĩ tài năng với niềm đam mê cháy bỏng cùng âm nhạc, Cao Tiệm Ly đã bắt đầu một hành trình mới để tìm kiếm mục đích sống của mình. Khi anh tình cờ chứng kiến ​​Trận chiến Trường Bình, những con quái vật hung dữ và khát máu đã làm rung chuyển thi sĩ đến tận xương tủy. Từ khoảnh khắc đó, việc kết thúc chiến tranh trở nên quan trọng hơn âm nhạc. Để kết thúc chiến tranh, anh đã thành lập một liên minh. Tình cờ, anh cũng cứu A Kha, một sát thủ bị thương và bất tỉnh. Trong khi anh chữa lành vết thương của cô bằng âm nhạc, cô không hề ngần ngại phục vụ cho mục đích của anh bằng thanh đao của mình.",
+    "skills": [
+      [
+        {
+          "skillIcon": "11500.png",
+          "skillName": "Ai Ca",
+          "skillDescription": "Mỗi lần sử dụng đòn đánh thường hoặc kỹ năng sẽ coi như 1 lần gảy đàn</br>Sau 3 lần gảy đàn, anh ta sẽ cường hóa đòn đánh thường tiếp theo gây 280 (+80% Công phép) sát thương phép cho kẻ địch trên quỹ đạo của nó",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "11510.png",
+          "skillName": "Cuồng Ca",
+          "skillDescription": "Cao Tiệm Ly chơi 2 nốt nhạc, khóa 2 kẻ địch xung quanh để gây ra 350/410/470/530/590/650 (+47% Công phép) sát thương phép.</br>Sau khi nốt nhạc chạm vào kẻ địch, nó sẽ nảy về phía những kẻ địch xung quanh, lưu ý nảy nhiều nhất 2 lần.</br>Khi nhiều nốt trúng cùng một mục tiêu, nốt thứ 2 chỉ gây 30% sát thương.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "80",
+          "skillCD": "8/7.8/7.6/7.4/7.2/7s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11520.png",
+          "skillName": "Li Ca",
+          "skillDescription": "Cao Tiệm Ly giật dây đàn dịch chuyển theo hướng chỉ định, gây 450/540/630/720/810/900 (+ 60% Công phép) sát thương phép lên những kẻ địch xung quanh và làm chậm 15/18/21/24/27/30% mục tiêu trong 2s</br>Mỗi anh hùng trúng đòn sẽ phục hồi lại 100/120/140/160/180/200 (+15% Công phép) Máu cho bản thân.</br>Hiệu ứng hồi phục có tác dụng 1 nửa đối với đơn vị không phải anh hùng</br>Trong quá trình dịch chuyển, kỹ năng 1 được giải phóng sẽ dịch chuyển thêm 1 lần nữa theo hướng phím di chuyển</br>Bẹn cạnh đó cũng sẽ nhận hiệu ứng miễn thương 10/12/14/16/18/20% khi di chuyển và miễn nhiễm với hiệu ứng làm chậm.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "70",
+          "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11530.png",
+          "skillName": "Ma Âm Quán Nhĩ",
+          "skillDescription": "Cao Tiệm Ly chơi nhạc điên cuồng mỗi 0.5s gây 200/300/400 (+ 20% Công phép) sát thương phép lên những kẻ địch xung quanh trong 5s.</br>Khi bắt đầu thực hiện, bản thân sẽ dần dần nhận 50% Tốc chạy và giảm dần trong 3s</br>Trong quá trình chơi nhạc có kẻ địch ở cạnh sẽ được nhận 10% miễn thương. Mỗi kẻ địch ở gần giúp bản thân nhận thêm 5% miễn thương.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "140",
+          "skillCD": "45/40/35s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "11501",
+        "skinName": "Phản Nghịch Ngâm Du",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "115-bigskin-1.jpg",
+        "skinIcon": "115-smallskin-1.jpg",
+        "keyHD": "1_CHHSs2Sn65MULxS0ConuIhh5G--yzvX"
+      },
+      {
+        "skinID": "11502",
+        "skinName": "Kim Loại Sóng Trào",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "115-bigskin-2.jpg",
+        "skinIcon": "115-smallskin-2.jpg",
+        "keyHD": "1BT8Nbn1bRt0DKH358oXvJVlQEhFw2uhI"
+      },
+      {
+        "skinID": "11503",
+        "skinName": "Nhạc Rock Tử Vong",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "115-bigskin-3.jpg",
+        "skinIcon": "115-smallskin-3.jpg",
+        "keyHD": "15siJVoiCmBICdoIRlOlQCtfe-6oZ_DQ6"
+      },
+      {
+        "skinID": "11504",
+        "skinName": "Đồ Ngủ Của Rồng",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "115-bigskin-4.jpg",
+        "skinIcon": "115-smallskin-4.jpg",
+        "keyHD": "1uK9YN5zWMrSltB63ibQqYSoPCNksxVA4"
+      },
+      {
+        "skinID": "11505",
+        "skinName": "Thiên Tú - Âm Lãng",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "115-bigskin-5.jpg",
+        "skinIcon": "115-smallskin-5.jpg",
+        "keyHD": "1jxsdoiro1OVXyr30J8DYoXJtCJZAWfBI"
+      },
+      {
+        "skinID": "11506",
+        "skinName": "Nhiên Âm Ma Pháp",
+        "skinQuality": "Epic",
+        "starSkin": true,
+        "starList": [
+          {
+            "starID": 1150601,
+            "starName": "Ma Pháp Rực Lửa",
+            "starImage": "11506-bigstar-1.jpg",
+            "starIcon": "11506-smallstar-1.jpg",
+            "starKeyHD": "1KXUFknXEKYSVNptuDySnoZsW16Evxoyp"
+          }
+        ],
+        "skinImage": "115-bigskin-6.jpg",
+        "skinIcon": "115-smallskin-6.jpg",
+        "keyHD": "18mSLZNxx_J8Fmxxvymq0yoUYtWj7FtUV"
+      }
+    ]
+  },
+  "116":{
+    "idHero": 116,
+    "heroName": "A Kha",
+    "globalName": "Arke",
+    "defaultSkin": "Thanh Đao Niềm Tin",
+    "numberSkill": 3,
+    "storyHero": "Hậu duệ cuối cùng của gia tộc, dựa dẫm vào anh trai mình từ khi còn nhỏ. Để trả thù cho cái chết của anh trai, cô đã cố gắng ám sát Thái tử, nhưng không thành công và bị thương nặng, chỉ được một nhạc sĩ cứu. Khi tỉnh dậy, cô gái mất trí nhớ, chỉ nhớ tên mình là A Kha và quyết tâm vì hòa bình. Cuối cùng, cô đã cố gắng ám sát nhà vua bằng thanh kiếm 'hòa bình'... Thế giới chỉ biết về nỗ lực bất thành của cô, nhưng không biết rằng cô gái, lang thang cùng nhạc sĩ kể từ đó, vẫn tiếp tục hiện thân cho tinh thần hòa bình.",
+    "skills": [
+      [
+        {
+          "skillIcon": "11600.png",
+          "skillName": "Nụ Hôn Chết Chóc",
+          "skillDescription": "Các đòn tấn công của A Kha sau lưng kẻ thù chắc chắn sẽ chí mạng và tất cả các đòn tấn công tung ra trước mặt kẻ thù không thể chí mạng</br>Sát thương chí mạng ban đầu của A Kha là 125% và cứ mỗi 1% tỉ lệ chí mạng sẽ tăng thêm 0.5% sát thương chí mạng.</br>Đòn tấn công trực diện của A Kha vào các đơn vị không phải anh hùng sẽ tăng 20% ​​sát thương và A Kha có thể gây sát thương lên tới 2000 cho các mục tiêu không phải là anh hùng.",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "11610.png",
+          "skillName": "Hồ Quang",
+          "skillDescription": "A Kha ngay lập tức vung hai chiếc gai của mình theo hướng chỉ định để tung ra 2 đòn tấn công, mỗi đòn gây 150/170/190/210/230/250 (+65% Công vật lý cộng thêm) sát thương vật lý",
+          "skillPreview": "",
+          "skillCD": "4/3.8/3.6/3.4/3.2/3s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11620.png",
+          "skillName": "Chớp Sáng",
+          "skillDescription": "A Kha di chuyển nhanh theo hướng chỉ định, sau khi đến điểm cuối sẽ tấn công kẻ địch gần nhất (ưu tiên tấn công mục tiêu có Máu thấp nhất)</br>Đồng thời tăng 40% Tốc đánh trong 3 giây, gây 270/324/378/432/486/540 (+85% Công vật lý cộng thêm) sát thương vật lý</br>Đồng thời đánh dấu mục tiêu trong 10s. Mỗi lần A Kha tấn công mục tiêu bị đánh dấu sẽbị làm chậm 25/30/35/40/45/50%, kéo dài trong 1s và rút ngắn thời gian hồi chiêu của [Chớp Sáng] đi 1s</br>Khi A Kha bị tấn công bởi mục tiêu bị đánh dấu, sát thương nhận phải sẽ giảm đi 30%</br>A Kha chỉ có thể đánh dấu một kẻ thù cùng một lúc",
+          "skillPreview": "",
+          "skillCD": "9/8.6/8.2/7.8/7.4/7s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11630.png",
+          "skillName": "Huyễn Vũ",
+          "skillDescription": "Sau một thời gian ngắn chuẩn bị, A Kha tiến vào trạng thái tàng hình, khi ở trạng thái tàng hình cứ 0.5s hồi 150/225/300 (+25% Công vật lý cộng thêm) (+5% Máu cộng thêm) Máu</br>Tăng 40% Tốc chạy trong 3s, khi Ake phát động công kích sẽ hủy bỏ trạng thái tàng hình, đồng thời nhận thêm 120/140/160 Công vật lý trong 3s.</br>Đồng thời, mỗi khi gây sát thương lên kẻ địch, bản thân sẽ tăng 30% Tốc chạy trong 1s.</br>Nội tại: Làm mới tất cả thời gian hồi chiêu của kỹ năng khi hạ gục tướng hoặc hỗ trợ",
+          "skillPreview": "",
+          "skillCD": "20/18/16s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "11601",
+        "skinName": "Thanh Đao Niềm Tin",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "116-bigskin-1.jpg",
+        "skinIcon": "116-smallskin-1.jpg",
+        "keyHD": "1lv2rElqkNkL9IywBD64sBS8pjtLOKklt"
+      },
+      {
+        "skinID": "11602",
+        "skinName": "Hộ Lý Ái Tình",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "116-bigskin-2.jpg",
+        "skinIcon": "116-smallskin-2.jpg",
+        "keyHD": "1bbdK4Pq0LNJBcEZpIhuRePRMwAPaNB98"
+      },
+      {
+        "skinID": "11603",
+        "skinName": "Ám Dạ Miêu Nương",
+        "skinQuality": "Epic",
+        "starSkin": true,
+        "starList": [
+          {
+            "starID": "1160301",
+            "starName": "Cảnh Chiều Ẩn Tối",
+            "starImage": "11603-bigstar-1.jpg",
+            "starIcon": "11603-smallstar-1.jpg",
+            "starKeyHD": "1HlNB6MkVT_yqA7rIYYSY2kmEfAxszSH3"
+          },
+          {
+            "starID": "1160302",
+            "starName": "Đứa Con Ngưng Dạ",
+            "starImage": "11603-bigstar-2.jpg",
+            "starIcon": "11603-smallstar-2.jpg",
+            "starKeyHD": "1BhEOun3M8D3GnEjO69HT7ahYZrYQYIXw"
+          },
+          {
+            "starID": "1160303",
+            "starName": "Khói Mờ Yên Dạ",
+            "starImage": "11603-bigstar-3.jpg",
+            "starIcon": "11603-smallstar-3.jpg",
+            "starKeyHD": "1VlKPwDdDv4k1ngKT8C42JSRYvnzsJxfC"
+          }
+        ],
+        "skinImage": "116-bigskin-3.jpg",
+        "skinIcon": "116-smallskin-3.jpg",
+        "keyHD": "1uFip2G0vfWC7lmSogwb4FPVyeaarsiS4"
+      },
+      {
+        "skinID": "11604",
+        "skinName": "Phong Thái Chết Người",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "116-bigskin-4.jpg",
+        "skinIcon": "116-smallskin-4.jpg",
+        "keyHD": "1guF4wsN6tTITjz7N8OvYWwoXsHgngiA7"
+      },
+      {
+        "skinID": "11605",
+        "skinName": "Tiết Tấu Sóng Nhịp",
+        "skinQuality": "Epic",
+        "starSkin": true,
+        "starList": [
+          {
+            "starID": "1160501",
+            "starName": "Sân Khấu Khiêu Vũ",
+            "starImage": "11605-bigstar-1.jpg",
+            "starIcon": "11605-smallstar-1.jpg",
+            "starKeyHD": "1FwCuFYbjsdgX2hBSnGFJhGt9z-NG4S-B"
+          }
+        ],
+        "skinImage": "116-bigskin-5.jpg",
+        "skinIcon": "116-smallskin-5.jpg",
+        "keyHD": "1911b8ezHqwZbWYv75NkkXBnDaE8mJ_ZU"
+      },
+      {
+        "skinID": "11606",
+        "skinName": "Lạc Lối Lệ Ảnh",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "116-bigskin-6.jpg",
+        "skinIcon": "116-smallskin-6.jpg",
+        "keyHD": "1nYH3uonziueLb9GVZN8H-vVnP-iQB_x7"
+      }
+    ]
+  },
+  "117":{
+    "idHero": 117,
+    "heroName": "Chung Vô Diệm",
+    "globalName": "Wuyan",
+    "defaultSkin": "Chùy Dã Man",
+    "numberSkill": 3,
+    "storyHero": "Là một đứa trẻ lai mồ côi, Vô Diệm đã sống sót ở vùng đất phía Nam vì cô biết rằng quyền lực và tiền bạc là lối thoát duy nhất. Hung dữ và quyết đoán, cô vẫn giữ nguyên cách làm việc của mình ngay cả ở Học viện Tắc Hạ. Từ việc ăn cắp sách đến làm lính đánh thuê, không ai có thể đoán trước được bước đi hoang dã tiếp theo của cô sẽ là gì. Chỉ khi cô đập tan xiềng xích trói buộc bằng búa của mình, mọi người mới nhận ra rằng chiến binh đáng gờm này đã trở thành một thế lực không thể ngăn cản.\n",
+    "skills": [
+      [
+        {
+          "skillIcon": "11700.png",
+          "skillName": "Luyện Kim Đá",
+          "skillDescription": "Vô Diệm có 50% cơ hội hóa đá kẻ địch trong 0.75s mỗi khi gây sát thương lên mục tiêu bằng Đòn đánh thường hoặc kỹ năng",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "11710.png",
+          "skillName": "Cuồng Phong Đột Tiến",
+          "skillDescription": "Vô Diệm lướt về phía trước, cường hoá đòn đánh thường tiếp theo thành đập búa gây thêm 250/300/350/400/450/500 (+50% Công vật lý cộng thêm) sát thương vật lý và làm chậm 25/30/35/40/45/50% mục tiêu trong 2s. Nếu dùng kỹ năng này khi đang dùng kỹ năng 3, tốc chạy sẽ bị giảm đi đôi chút.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "40",
+          "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11720.png",
+          "skillName": "Đả Kích Kinh Hãi",
+          "skillDescription": "Vô Diệm dùng búa tạ đập xuống đất, gây 700/840/980/1120/1260/1400 (+ 200% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trong phạm vi và gấp đôi cho kẻ địch ở giữa phạm vi",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "55",
+          "skillCD": "7/6.7/6.4/6.1/5.8/5.5s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11730.png",
+          "skillName": "Chùy Gió Lốc",
+          "skillDescription": "Chung Vô Diệm cầm búa tạ và tiếp tục quay, tăng Tốc chạy thêm 10/15/20% trong 3,2s, gây ra 300/450/600 (+100% Công vật lý cộng thêm) sát thương vật lý mỗi 0.4s và gây thêm 50% sát thương cho kẻ địch trong vòng tròn bên ngoài.</br>Trong quá trình xoay, sẽ nhận được 5% Tốc chạy và 80/120/160 (+3% Máu cộng thêm) lá chắn sau mỗi 0.4s có thể chồng tối đa 4 lớp.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "80",
+          "skillCD": "40/35/30s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "11701",
+        "skinName": "Chùy Dã Man",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "117-bigskin-1.jpg",
+        "skinIcon": "117-smallskin-1.jpg",
+        "keyHD": "1F2PeiT6-Ce6MMpMknIYbiRFS6FoZ9vzY"
+      },
+      {
+        "skinID": "11702",
+        "skinName": "Cảnh Báo Sinh Hóa",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "117-bigskin-2.jpg",
+        "skinIcon": "117-smallskin-2.jpg",
+        "keyHD": "10vnLd_Av0g2ERPxQ8n309yz6APeY65Xz"
+      },
+      {
+        "skinID": "11703",
+        "skinName": "Chùy Vương Giả",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "117-bigskin-3.jpg",
+        "skinIcon": "117-smallskin-3.jpg",
+        "keyHD": "1bnkGuvUie3B8Erc7nLYvpHLxOXSGWm5Y"
+      },
+      {
+        "skinID": "11704",
+        "skinName": "Bãi Biển Lệ Ảnh",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "117-bigskin-4.jpg",
+        "skinIcon": "117-smallskin-4.jpg",
+        "keyHD": "1osu-lkZmTmml4BpEXf0ZWuOa_D1zDjBk"
+      },
+      {
+        "skinID": "11705",
+        "skinName": "Siêu Thời Không Chiến Sĩ",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "117-bigskin-5.jpg",
+        "skinIcon": "117-smallskin-5.jpg",
+        "keyHD": "164HQZLhLj1hSgDWVPVTelWWSkUPZTBVS"
+      },
+      {
+        "skinID": "11706",
+        "skinName": "Tụ Tinh Tỏa Sáng",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "117-bigskin-6.jpg",
+        "skinIcon": "117-smallskin-6.jpg",
+        "keyHD": "1SXe2C6ocI0ytghPSCpKHV9_8rNQB1tKu"
+      },
+      {
+        "skinID": "11707",
+        "skinName": "Dã Ngoại Mùa Xuân",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "117-bigskin-7.jpg",
+        "skinIcon": "117-smallskin-7.jpg",
+        "keyHD": "1XewEvD_8mqPCJOyqQxa4r8kjR4vyJdo1"
+      }
+    ]
+  },
+  "118":{
+    "idHero": 118,
+    "heroName": "Tôn Tẫn",
+    "globalName": "Sun Bin",
+    "defaultSkin": "Ngược Dòng Thời Gian",
+    "numberSkill": 3,
+    "storyHero": "Tôn Tẫn luôn là người vô cùng tài năng, nhưng lại hơi trầm tính. Trong thời gian học tại Học viện Tắc Hạ, mặc dù có thể điều khiển lực của máy móc và thậm chí là cả thời gian, nhưng bạn bè hầu hết đều coi cậu là một cậu bé nhút nhát và khiêm tốn. Người duy nhất thực sự nhận ra tài năng của anh là một trong những đàn anh, người đã trở nên ghen tị và tiến hành giăng một cái bẫy chết người cho cậu. Mặc dù sống sót, nhưng cậu cũng đã mất đi đôi chân và người bạn thân nhất của mình. Sử dụng các kỹ năng của mình trong nghệ thuật máy móc, cậu đã tạo ra đôi cánh cơ khí để bù đắp cho đôi chân đã mất của mình, và thiên tài trẻ tuổi này hiện đang cống hiến hết mình để nghiên cứu những bí ẩn của cơ học và thời gian với hy vọng một ngày nào đó sẽ tìm lại được người bạn đã mất của mình.",
+    "skills": [
+      [
+        {
+          "skillIcon": "11800.png",
+          "skillName": "Thời Gian Cát Chảy",
+          "skillDescription": "Sau khi sử dụng kỹ năng Tôn Tẫn sẽ được tăng 15% ~ 30% Tốc chạy, tồn tại 2s.",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "11810.png",
+          "skillName": "Bom Nổ Thời Gian",
+          "skillDescription": "Tôn Tẫn ném một quả bom theo hướng chỉ định, quả bom này sẽ dính vào kẻ địch sau khi trúng mục tiêu, gây 200/240/280/320/360/400 (+20% Công phép) sát thương phép. Quả bom phát nổ sau 3 giây, gây 550/660/770/880/990/1100 (+55% Công phép) sát thương phép và làm chậm 15/18/21/24/27/30% cho kẻ địch trong phạm vi trong 2s.</br>Việc gỡ bom sẽ kích hoạt một vụ nổ ngay lập tức.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "60",
+          "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11820.png",
+          "skillName": "Chấn Động Thời Gian",
+          "skillDescription": "Tôn Tẫn điều khiển sức mạnh thời không, tăng Tốc chạy của đồng minh trong phạm vi thêm 30/36/42/48/54/60% trong 2s. Sau khi thời gian kết thúc, thời gian sẽ quay ngược lại và 25/30/35/40/45/50% sát thương phải chịu trong thời gian đó sẽ được trả lại thành Máu. Đồng thời, 25/30/35/40/45/50% lượng năng lượng đã tiêu thụ trong thời gian đó cũng sẽ được trả lại.</br>Nội tại: Tôn Tẫn nhận được 7.5/9/10.5/12/13.5/15% Giảm hồi chiêu.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "60",
+          "skillCD": "13/12.4/11.8/11.2/10.6/10s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11830.png",
+          "skillName": "Thời Gian Trôi Đi",
+          "skillDescription": "Tôn Tẫn ném một quả bom được từ trường, tạo ra một trường lực sau khi đánh trúng kẻ địch hoặc bay đến khoảng cách tối đa, gây 500/625/750 (+45% Công phép) sát thương phép và làm chậm 90% cho kẻ địch trong phạm vi, đồng thời ngắt quãng kỹ năng của kẻ địch và gây câm lặng tỏng 1s. Trường lực phát nổ sau 5s, gây 1500/1875/2250 (+135% Công phép) sát thương phép lên kẻ địch trong phạm vi.",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "100",
+          "skillCD": "45/40/35s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "11801",
+        "skinName": "Ngược Dòng Thời Gian",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "118-bigskin-1.jpg",
+        "skinIcon": "118-smallskin-1.jpg",
+        "keyHD": "1cVFcrAw_wxR84vjCNTnkC2dXSoYKNt8h"
+      },
+      {
+        "skinID": "11802",
+        "skinName": "Lữ Hành Tương Lai",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "118-bigskin-2.jpg",
+        "skinIcon": "118-smallskin-2.jpg",
+        "keyHD": "17lHYwvQo5Bw-tmsbv5N9JeNsXH7uxs7i"
+      },
+      {
+        "skinID": "11803",
+        "skinName": "Đôi Cánh Thiên Sứ",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "118-bigskin-3.jpg",
+        "skinIcon": "118-smallskin-3.jpg",
+        "keyHD": "1KtT5PNwywgeF4n0osakw3rDGG11GDVoG"
+      },
+      {
+        "skinID": "11804",
+        "skinName": "Yêu Tinh Vương",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "118-bigskin-4.jpg",
+        "skinIcon": "118-smallskin-4.jpg",
+        "keyHD": "1e9qf56Ocww1uIDohQ48IUiGXAYeUxeCg"
+      },
+      {
+        "skinID": "11805",
+        "skinName": "Giấc Mộng Hư Không Trở Lại",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "118-bigskin-5.jpg",
+        "skinIcon": "118-smallskin-5.jpg",
+        "keyHD": "1IPwObXT2WY4Lq0o_8-5QtV61BAjQeCJ1"
+      },
+      {
+        "skinID": "11806",
+        "skinName": "Thiên Lang Vận Toán Giả",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "118-bigskin-6.jpg",
+        "skinIcon": "118-smallskin-6.jpg",
+        "keyHD": "1CTm-WSWGYWvG1cEJec1oo3L9z1eGd32K"
+      },
+      {
+        "skinID": "11807",
+        "skinName": "Dần Hổ - Triển Dực",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "118-bigskin-7.jpg",
+        "skinIcon": "118-smallskin-7.jpg",
+        "keyHD": "1G2K8a26vo50Iq3Aj6kjb-N5lL1lJtskS"
+      },
+      {
+        "skinID": "11808",
+        "skinName": "Ban Nhạc Động Vật Nhỏ",
+        "skinQuality": "Legend",
+        "starSkin": false,
+        "skinImage": "118-bigskin-8.jpg",
+        "skinIcon": "118-smallskin-8.jpg",
+        "keyHD": "1NHTSRze2HeZOJql-t1YhGDFcdbln3kCP"
+      },
+      {
+        "skinID": "11809",
+        "skinName": "Trà Cảnh Tiên",
+        "skinQuality": "Epic",
+        "starSkin": true,
+        "skinImage": "118-bigskin-9.jpg",
+        "skinIcon": "118-smallskin-9.jpg",
+        "keyHD": "14eIKEDWEGHzC0cuYhSjDgnrtyvJWRx4r",
+        "starList": [
+          {
+            "starID": "1180901",
+            "starName": "Đào Nguyên Tiên",
+            "starImage": "11809-bigstar-1.jpg",
+            "starIcon": "11809-smallstar-1.jpg",
+            "starKeyHD": "1HlNB6MkVT_yqA7rIYYSY2kmEfAxszSH3"
+          }
+        ]
+      }
+    ]
+  },
+  "119":{
+    "idHero": 119,
+    "heroName": "Biển Thước",
+    "globalName": "Dr Bian",
+    "defaultSkin": "Quái Y Thiện Ác",
+    "numberSkill": 3,
+    "storyHero": "Biển Thước từng là một bác sĩ tốt bụng tận tụy chữa bệnh và cứu người. Với kỹ năng y khoa chuyên nghiệp của mình, hắn đã cứu được vô số bệnh nhân. Tuy nhiên, sau đó hắn bị chủ của mình gài bẫy và buộc tội đầu độc Chúa tể, một sự phản bội suýt nữa đã gây ra cái chết của hắn . Kể từ đó, hắn không còn tin tưởng bất kỳ ai nữa và thay vào đó dành toàn bộ thời gian của mình vào các thử nghiệm thuốc ghê rợn và nghiên cứu về chất độc dưới danh nghĩa trả thù.",
+    "skills": [
+      [
+        {
+          "skillIcon": "11900.png",
+          "skillName": "Ác Đức Điều Trị",
+          "skillDescription": "Các Đòn đánh thường và Kỹ năng của Biển Thước sẽ để lại Dấu Độc, tối đa 5 Dấu gây 20~40 (Tối đa tại cấp 15) (+5% Công phép) sát thương phép mỗi giây trong 7s. Đồng minh nhận được lớp độc này sẽ hồi phục 3~6 (Tối đa tại cấp 15) (+2% Công phép) Máu và hồi phục cho bản thân 3~6 (Tối đa tại cấp 15) (+2% Công phép) (+0.15% Máu cộng thêm) Máu mỗi giây trong 7s",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "11910.png",
+          "skillName": "Linh Dược Trí Mệnh",
+          "skillDescription": "Biển Thước ném một bình thuốc về phía được chỉ định. Chai thuốc sẽ vỡ ra tạo thành chất độc khi chạm đất. Độc sẽ giữ nguyên vị trí trong 4s. Độc sẽ gây ra 60/72/84/96/108/120 (+12% Công phép) sát thương phép lên kẻ địch trong phạm vi mỗi giây và giảm 15/18/21/24/27/30% Tốc chạy trong 2s. Biển Thước có thể tạo ra 1 lọ độc sau mỗi 12.5/12/11.5/11/10.5/10s và lưu trữ tối đa 3 bình",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "40",
+          "skillCD": "2s/1.8s/1.6s/1.4s/1.2s/1s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11920.png",
+          "skillName": "Chẩn Đoán Thiện Ác",
+          "skillDescription": "Biển Thước phóng độc theo hướng chỉ định, gây 100/120/140/160/180/200 (+30% Công phép) sát thương phép lên kẻ địch trên đường đi của độc. Nếu là tướng đồng minh sẽ hồi phục 50/60/70/80/90/100 (+15% Công phép) Máu",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "60",
+          "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "11930.png",
+          "skillName": "Chúa Tể Sinh Mệnh",
+          "skillDescription": "Biển Thước kích nổ tất cả các Dấu Độc gần đó, gây 150/225/300 (+40% Công phép) sát thương phép cho kẻ địch và hồi 70/105/140 (+20% Công phép) Máu cho các anh hùng đồng minh. Mỗi Dấu Độc tăng thêm 50% sát thương và hiệu ứng hồi phục. Ngoài ra, Biển Thước còn tự phục hồi cho bản thân thêm 400/600/800 (+30% Công phép) (+5% Máu cộng thêm) Máu",
+          "skillPreview": "",
+          "manaType": "Năng lượng",
+          "manaCost": "130",
+          "skillCD": "15/13.5/12s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "11901",
+        "skinName": "Quái Y Thiện Ác",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "119-bigskin-1.jpg",
+        "skinIcon": "119-smallskin-1.jpg",
+        "keyHD": "1GKZVU0L6FDxrV9mtBcBMAUXVas9K9i7f"
+      },
+      {
+        "skinID": "11902",
+        "skinName": "Đồng Tử Cứu Thế",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "119-bigskin-2.jpg",
+        "skinIcon": "119-smallskin-2.jpg",
+        "keyHD": "1GKEqDcv7iS2gbWNjYomI9SnArwzyISd5"
+      },
+      {
+        "skinID": "11903",
+        "skinName": "Bác Sĩ Jekyll",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "119-bigskin-3.jpg",
+        "skinIcon": "119-smallskin-3.jpg",
+        "keyHD": "14H1tKLhuQ4liGCXsTVs5aZhMLIovWVfD"
+      },
+      {
+        "skinID": "11904",
+        "skinName": "Luyện Kim Vương",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "119-bigskin-4.jpg",
+        "skinIcon": "119-smallskin-4.jpg",
+        "keyHD": "1SQkFgNEOJ-hB5gkqLMCX17Hg6nk1vGs0"
+      },
+      {
+        "skinID": "11905",
+        "skinName": "Vết Hương Kỳ Ảo",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "119-bigskin-5.jpg",
+        "skinIcon": "119-smallskin-5.jpg",
+        "keyHD": "1dvD42CMEkLjPbV_rCs-JufKGey5F7RpI"
+      },
+      {
+        "skinID": "11906",
+        "skinName": "Hành Trình Bất Tận",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "119-bigskin-6.jpg",
+        "skinIcon": "119-smallskin-6.jpg",
+        "keyHD": "1GChDO4YUGJdE3dLQE-cDKIMt2m3ibeRu"
+      }
+    ]
+  },
+  "120":{
+    "idHero": 120,
+    "heroName": "Bạch Khởi",
+    "globalName": "",
+    "defaultSkin": "Vũ Khí Tối Thượng",
+    "numberSkill": 3,
+    "storyHero": "Trong cuộc tấn công của ma cà rồng, chàng trai trẻ Bạch Khởi đã bị thương khi bảo vệ quân vương trẻ tuổi Doanh Chính của Huyền Ung. Anh được một vị hiền triết chữa lành và cảnh báo không được chạm vào vết thương. Khi còn trẻ, Bạch Khởi đã chiến đấu quên mình để bảo vệ Tân Huyền Ung, phớt lờ lời cảnh báo và lại phải chịu tổn thất nặng nề. Cuối cùng, hắn đeo chiếc mặt nạ trên mặt mãi mãi để vết thương tiếp tục mưng mủ và sức mạnh của huyết tộc sẽ hòa nhập hoàn toàn vào cơ thể hắn.... Từ đó, thế giới gọi con quái vật gù lưng thối tha càn quét chiến trường là \"Thần chiến tranh\".",
+    "skills": [
+      [
+        {
+          "skillIcon": "12000.png",
+          "skillName": "Lưỡi Hái Phản Kích",
+          "skillDescription": "Khi Bạch Khởi gây ra hoặc nhận sát thương, bản thân sẽ nhận được sức mạnh của bóng tối, tăng tốc chạy và hiệu ứng hồi phục, tối đa 70 tốc chạy và 80% hiệu ứng hồi phục.",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "12010.png",
+          "skillName": "Tiếng Vọng Máu",
+          "skillDescription": "Bạch Khởi vung lưỡi hái quét sạch kẻ địch theo mọi hướng, gây 200/240/280/320/360/400 (+40% Công vật lý) sát thương vật lý lên kẻ địch và hồi phục 90 (+2% Máu cộng thêm) Máu.</br>Nội tại: Khi Bạch Khởi bị thương, có 20% cơ hội giải phóng [Tiếng Vọng Máu]. Thời gian giữ phím kỹ năng càng lâu thì sát thương và khả năng phục hồi càng cao, có thể lên tới gấp 3 lần. Hiệu ứng giảm một nửa khi chỉ tấn công các đơn vị không phải anh hùng.",
+          "skillPreview": "",
+          "skillCD": "5s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "12020.png",
+          "skillName": "Lưỡi Hái Tử Thần",
+          "skillDescription": "Bạch Khởi triệu hồi một chiếc lưỡi hái, nó sẽ thu lại sau 1.2s và kéo kẻ địch về phía bản thân, gây 325/390/455/520/585/650 (+120% Công vật lý cộng thêm) sát thương phép và làm chậm kẻ địch 25/30/35/40/45/50% trong 2.5s.</br>Nội tại: Bạch Khởi gây thêm 30% sát thương lên mục tiêu có Máu dưới 30%",
+          "skillPreview": "",
+          "skillCD": "12/11.4/10.8/10.2/9.6/9s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "12030.png",
+          "skillName": "Ngạo Mạn Trào Phúng",
+          "skillDescription": "Bạch Khởi ngay lập tức được lấp đầy sức mạnh bóng tối và nhảy đến vị trí chỉ định, gây 300/380/460 (+100% Công vật lý) sát thương phép và khiêu khích kẻ địch. Thời gian khiêu khích cơ bản là 1~1.5s, cứ mỗi 1000 Máu cộng thêm thời gian khiêu khích sẽ tăng thêm sẽ tăng 0.2s, tối đa là 2.5s",
+          "skillPreview": "",
+          "skillCD": "40/35/30s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "12001",
+        "skinName": "Vũ Khí Tối Thượng",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "120-bigskin-1.jpg",
+        "skinIcon": "120-smallskin-1.jpg",
+        "keyHD": "1UJ0sB3YpGJBfBrRnp09MlplTd5eKHCbe"
+      },
+      {
+        "skinID": "12002",
+        "skinName": "Tử Thần Trắng",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "120-bigskin-2.jpg",
+        "skinIcon": "120-smallskin-2.jpg",
+        "keyHD": "1dJCyX7yZx29q3rBLewRIyP0ctj3TC4eB"
+      },
+      {
+        "skinID": "12003",
+        "skinName": "Hung Ác",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "120-bigskin-3.jpg",
+        "skinIcon": "120-smallskin-3.jpg",
+        "keyHD": "1D-NE8HSMB2Czv9EL24V8rUiMlRy85kdQ"
+      },
+      {
+        "skinID": "12004",
+        "skinName": "Hoàng Tử Tinh Dạ",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "120-bigskin-4.jpg",
+        "skinIcon": "120-smallskin-4.jpg",
+        "keyHD": "1BpeHyPRtC4pWnyBDbMsrDjRRhCq1l821"
+      },
+      {
+        "skinID": "12005",
+        "skinName": "Hiệp Khách Lạ Phố Đêm",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "120-bigskin-5.jpg",
+        "skinIcon": "120-smallskin-5.jpg",
+        "keyHD": "1Teq9nGfK-5iPMDosoGvELtqOcYceI-Yi"
+      },
+      {
+        "skinID": "12006",
+        "skinName": "Kẻ Theo Dõi Sân Chơi",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "120-bigskin-6.jpg",
+        "skinIcon": "120-smallskin-6.jpg",
+        "keyHD": "1GNh0d06lycXD9Wjyl8b75DpP1nvziL_g"
+      },
+      {
+        "skinID": "12007",
+        "skinName": "Thương Lân Ẩn Thế",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "120-bigskin-7.jpg",
+        "skinIcon": "120-smallskin-7.jpg",
+        "keyHD": "19TPhimYwTmrPhTpzAawP4Yxjma-9X8F7"
+      }
+    ]
+  },
+  "121":{
+    "idHero": 121,
+    "heroName": "Mị Nguyệt",
+    "globalName": "Mi Yue",
+    "defaultSkin": "Mặt Trăng Vĩnh Hằng",
+    "numberSkill": 3,
+    "storyHero": "Vô cùng thông minh và xảo quyệt, Mị Nguyệt là thái hậu của Huyền Ung. Mặc dù xuất thân thấp kém, nhưng vẻ đẹp của cô đã giúp cô thay đổi vận mệnh của mình theo hướng tốt hơn. Ẩn giấu sức mạnh thao túng của mình đằng sau vẻ ngoài cao quý và rạng rỡ, Mị Nguyệt đã sử dụng vẻ đẹp của mình như một vũ khí để hòa nhập vào các khu vực có ảnh hưởng khác nhau trong cung điện. Khi tuổi trẻ của cô dần phai nhạt, nỗi sợ hãi rằng sức mạnh của cô cũng sẽ biến mất ngày càng mạnh mẽ hơn theo thời gian. Cô bắt đầu tìm kiếm một loại thuốc trường sinh và sẵn sàng trả bất kỳ giá nào để giữ nguyên vẻ đẹp của mình.",
+    "skills": [
+      [
+        {
+          "skillIcon": "12100.png",
+          "skillName": "Dòng Máu Bất Diệt",
+          "skillDescription": "Mị Nguyệt sẽ triệu hồi các người hầu bóng tối khi tung ra kỹ năng. Các người hầu bóng tối sẽ tự động tấn công kẻ địch gần đó, gây 50 (+7% Công phép) sát thương phép mỗi lần và thêm 80 (+14% Công phép) sát thương phép lên lính. Hiệu ứng trên quái rừng giảm một nửa. Đồng thời, Mị Nguyệt hồi phục 20~40 (+0.5% Máu cộng thêm) Máu.</br>Khi Mị Nguyệt triệu hồi một người hầu bóng tối, cô sẽ nhận được 30 sức mạnh bóng tối, giúp tăng tốc chạy và hiệu ứng hồi phục, tối đa 30 Tốc chạy và 10% hiệu ứng hồi phục. Có tối đa 6 người hầu cùng một lúc. Khi sức mạnh bóng tối bằng 0, các người hầu sẽ biến mất từng con một.",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "12110.png",
+          "skillName": "Xung Kích Thống Khổ",
+          "skillDescription": "Mị Nguyệt giải phóng năng lượng bóng tối, gây 200/220/240/260/280/300 (+24% Công phép) sát thương phép lên kẻ địch trên đường đi.</br>Tái kích hoạt Mị Nguyệt sẽ hạ xuống nơi có năng lượng đang tồn tại và gây 200/220/240/260/280/300 (+24% Công phép) sát thương phép lên kẻ địch gần đó. Nếu khi tiếp đất đánh trúng kẻ địch, Mị Nguyệt sẽ triệu hồi một người hầu bóng tối.",
+          "skillPreview": "",
+          "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "12120.png",
+          "skillName": "Tay Sai Huyễn Dực",
+          "skillDescription": "Mị Nguyệt phóng sợi xích bóng tối về phía trước, kết nối với kẻ địch đầu tiên trúng đòn, kéo dài tối đa 4s. Mỗi 0.5s, làm chậm kẻ địch 1.25%~2.5% (tăng theo cấp độ kỹ năng), xích bóng tối hút 10/14/18/22/26/30 Công vật lý và 30/45/60/75/90/105 Công phép của kẻ địch, gây 25/36/47/58/69/80 (+7% Công phép) sát thương phép và phục hồi 10/12/14/16/18/20 (+0.25% Máu cộng thêm) Máu.</br>Khi khoảng cách giữa hai bên vượt quá 1000, dây xích sẽ bị đứt, nếu kết nối kéo dài trong 4s, Mị Nguyệt sẽ triệu hồi một người hầu bóng tối.</br>Nội tại: Đòn đánh thường của Mị Nguyệt được cường hóa, gây 40/48/56/64/72/80 (+100% Công vật lý) (+20% Công phép) sát thương phép và làm chậm 10% kẻ địch, đồng thời nhận được 10 sức mạnh bóng tối.",
+          "skillPreview": "",
+          "skillCD": "9s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "12130.png",
+          "skillName": "Mặt Trăng Bóng Tối",
+          "skillDescription": "Mị Nguyệt trốn vào bóng tối đồng thời loại bỏ mọi hiệu ứng tiêu cực, tăng 30% Tốc chạy trong bóng tối và miễn nhiễm với mọi hiệu ứng, sau 2s bản thân sẽ thoát khỏi bóng tối và đáp đất.</br>Mị Nguyệt gây 380/570/760 (+70% Công phép) sát thương phép lên kẻ địch gần đó khi cô trốn vào bóng tối hoặc hạ xuống. Khi thoát khỏi bóng tối trúng kẻ địch sẽ triệu hồi thêm một người hầu bóng tối",
+          "skillPreview": "",
+          "skillCD": "24/22/20s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "12101",
+        "skinName": "Mặt Trăng Vĩnh Hằng",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "121-bigskin-1.jpg",
+        "skinIcon": "121-smallskin-1.jpg",
+        "keyHD": "1AoBtyjoEaAdvCVDiK0I31eELTqRmdEvx"
+      },
+      {
+        "skinID": "12102",
+        "skinName": "Nữ Hoàng Quân Cơ",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "121-bigskin-2.jpg",
+        "skinIcon": "121-smallskin-2.jpg",
+        "keyHD": "1953u2q2gJuEEKtwY6L5P4CL3UVjVLXMb"
+      },
+      {
+        "skinID": "12103",
+        "skinName": "Đại Tần Tuyên Thái Hậu",
+        "skinQuality": "Mythic",
+        "starSkin": false,
+        "skinImage": "121-bigskin-3.jpg",
+        "skinIcon": "121-smallskin-3.jpg",
+        "keyHD": "1bB9uhDMIBs9276EIfJrH2f8LNTGA2d_o"
+      },
+      {
+        "skinID": "12104",
+        "skinName": "Trọng Minh",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "121-bigskin-4.jpg",
+        "skinIcon": "121-smallskin-4.jpg",
+        "keyHD": "1UxZ1JRfeeC_SzLjSZpCm0oENqsqN6RQC"
+      },
+      {
+        "skinID": "12105",
+        "skinName": "Bạch Tinh Tinh",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "121-bigskin-5.jpg",
+        "skinIcon": "121-smallskin-5.jpg",
+        "keyHD": "1ElPMkdijqe0UYs5xDFP_vrnSvz6Mhve8"
+      },
+      {
+        "skinID": "12106",
+        "skinName": "Chiêm Tinh Huyễn Dạ",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "121-bigskin-6.jpg",
+        "skinIcon": "121-smallskin-6.jpg",
+        "keyHD": "11tAeOMjwzpoY1hWF7xSw5w19dqBozJzX"
+      },
+      {
+        "skinID": "12107",
+        "skinName": "Phù Quang Mặc Ảnh",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "121-bigskin-7.jpg",
+        "skinIcon": "121-smallskin-7.jpg",
+        "keyHD": "1GRSQegKcwdZ80oopxLgchWmb8Tuqiero"
+      }
+    ]
+  },
+  "123":{
+    "idHero": 123,
+    "heroName": "Lữ Bố",
+    "globalName": "Lubu",
+    "defaultSkin": "Ma Thần Vô Song",
+    "numberSkill": 3,
+    "storyHero": "Nếu như Lữ Bố nguyên bản là một chiến binh gần như bất khả chiến bại, thì Lữ Bố tái sinh là cơn ác mộng giáng xuống thế giới. Nhưng sau khi chiến binh hùng mạnh này thề nguyện tình yêu bất diệt của mình với Điêu Thuyền, vũ công chết chóc, anh ta dần bị vướng vào mạng lưới âm mưu và lời nói dối của cô ta, và cuối cùng đã gặp phải một kết cục bi thảm. Không muốn chấp nhận cái chết, anh ta đã chọn trở lại như một ác quỷ. Sử dụng Lưỡi liềm của mình để bắt giữ linh hồn của kẻ thù, Lữ Bố đã bị thiêu đốt bởi lòng căm thù trong tim, và cơn thịnh nộ của ác quỷ sẽ thiêu rụi thế giới.",
+    "skills": [
+      [
+        {
+          "skillIcon": "12300.png",
+          "skillName": "Thao Thiết Huyết Thống",
+          "skillDescription": "Khi kỹ năng vung kiếm của Lữ Bố đánh trúng tướng địch, vũ khí sẽ được cường hóa trong 8s. Khi ở trạng thái cường hoá, đòn đánh thường và kỹ năng sẽ gây ra sát thương chuẩn. Ở trạng thái không cường hoá, đòn đánh thường và kỹ năng có 30% xuyên giáp vật lý.</br>Khi được phù phép, mỗi lần Lữ Bố tấn công kẻ địch bằng đòn đánh thường, anh ta sẽ hồi phục 65~130 (+1.25% Máu cộng thêm) Máu.",
+          "skillPreview": ""
+        }
+      ],
+      [
+        {
+          "skillIcon": "12310.png",
+          "skillName": "Phương Thiên Họa Trảm",
+          "skillDescription": "Lữ Bố chém Phương Thiên Hoạ Kích chém về phía trước, gây ra 550/660/770/880/990/1100 (+220% Công vật lý cộng thêm) sát thương vật lý. Khi được cường hoá, [Phương Thiên Họa Trảm] sẽ phục hồi 130/156/182/208/234/260 (+2.5% Máu cộng thêm) Máu cho mỗi tướng địch bị trúng đòn. Nếu nhát chém không trúng tướng địch, vũ khí sẽ ngay lập tức mất hiệu ứng cường hoá.",
+          "skillPreview": "",
+          "skillCD": "5s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "12320.png",
+          "skillName": "Ác Hồn Tham Lam",
+          "skillDescription": "Lữ Bố bắt giữ linh hồn của kẻ địch trong phạm vi, gây ra 100/120/140/160/180/200 (+35% Công vật lý cộng thêm) sát thương vật lý và làm chậm 15/18/21/24/27/30% trong 3s.</br>Mỗi khi bắt được một linh hồn, Lữ Bố sẽ nhận được một lá chắn có giá trị 350/420/490/560/630/700 (+7% Máu cộng thêm) và lá chắn này có thể được cộng dồn tối đa 3 lần. Lữ Bố chuyển đổi 25% lá chắn hiện tại của mình thành máu mỗi giây và cứ 2 giá trị lá chắn sẽ chuyển đổi thành 1 máu.",
+          "skillPreview": "",
+          "skillCD": "8.5/8.2/7.9/7.6/7.3/7s"
+        }
+      ],
+      [
+        {
+          "skillIcon": "12330.png",
+          "skillName": "Ma Thần Giáng Thế",
+          "skillDescription": "Lữ Bố nhảy lên trên không rồi đáp xuống tại vị trí chỉ định, khi đáp đất sẽ hất tung kẻ địch trong phạm vi trong 1s. Sau khi tiếp đất, Lữ Bố vung Phương Thiên Hoạ Kích chém một vòng, gây ra 650/975/1300 (+240% Công vật lý cộng thêm) sát thương vật lý. Khi được cường hoá, [Ma Thần Giáng Thế] phục hồi 130/195/260 (+2.5% Máu thêm) Máu cho mỗi tướng địch bị trúng đòn.</br>Lữ Bố nhận được 150/225/300 giáp vật lý và giáp phép trong phạm vi. Kẻ địch chạm vào mép vòng tròn sẽ phải chịu 150/225/300 (+75% Công vật lý cộng thêm) sát thương vật lý và làm chậm 30/45/60% trong 2s. Nếu mục tiêu là tướng địch sẽ hồi thêm 130/195/260 (+2.5% Máu cộng thêm) cho Lữ Bố.",
+          "skillPreview": "",
+          "skillCD": "50s"
+        }
+      ]
+    ],
+    "skins": [
+      {
+        "skinID": "12301",
+        "skinName": "Ma Thần Vô Song",
+        "skinQuality": "normal",
+        "starSkin": false,
+        "skinImage": "123-bigskin-1.jpg",
+        "skinIcon": "123-smallskin-1.jpg",
+        "keyHD": "1I5uJVJhpVA0p57onNt8xTN6pOMKvblmi"
+      },
+      {
+        "skinID": "12302",
+        "skinName": "Hạnh Phúc Giáng Sinh",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "123-bigskin-2.jpg",
+        "skinIcon": "123-smallskin-2.jpg",
+        "keyHD": "1LPIZF6GiEIdPuz9jvKCvvJy9aFJAQs02"
+      },
+      {
+        "skinID": "12303",
+        "skinName": "Thiên Ma Hỗn Loạn",
+        "skinQuality": "Legend",
+        "starSkin": false,
+        "skinImage": "123-bigskin-3.jpg",
+        "skinIcon": "123-smallskin-3.jpg",
+        "keyHD": "19PWSaR3Nh4fg8zVbscVryZBMl67_CnN0"
+      },
+      {
+        "skinID": "12304",
+        "skinName": "Cơ Giáp Tận Thế",
+        "skinQuality": "Epic",
+        "starSkin": true,
+        "starList": [
+          {
+            "skinID": "12304",
+            "starID": "1230401",
+            "starName": "Chiến Giáp Bạch Tinh",
+            "starImage": "12304-bigstar-1.jpg",
+            "starIcon": "12304-smallstar-1.jpg",
+            "starKeyHD": "1GRi86KzZ5c4rYUH-8jGo_zwj9niiQktW"
+          },
+          {
+            "skinID": "12304",
+            "starID": "1230402",
+            "starName": "Chiến Giáp Xanh Thẳm",
+            "starImage": "12304-bigstar-2.jpg",
+            "starIcon": "12304-smallstar-2.jpg",
+            "starKeyHD": "1p1FDfI0sbzKg6wdkbGg3Mup01zxiP8Tn"
+          },
+          {
+            "skinID": "12304",
+            "starID": "1230403",
+            "starName": "Lôi Đình Xích Giáp",
+            "starImage": "12304-bigstar-3.jpg",
+            "starIcon": "12304-smallstar-3.jpg",
+            "starKeyHD": "1bO4cFaPP5AUkCJhQFdi-fpDyHqusl9MK"
+          },
+          {
+            "skinID": "12304",
+            "starID": "1230404",
+            "starName": "U Tinh Chiến Giáp",
+            "starImage": "12304-bigstar-4.jpg",
+            "starIcon": "12304-smallstar-4.jpg",
+            "starKeyHD": "1GS0ktFsYqRZHGDDnvmFsZCop882DXAXf"
+          }
+        ],
+        "skinImage": "123-bigskin-4.jpg",
+        "skinIcon": "123-smallskin-4.jpg",
+        "keyHD": "1JI1F_SpRQbi9fKrRv0xZgcKxHxo8grvP"
+      },
+      {
+        "skinID": "12305",
+        "skinName": "Vua Săn Thú",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "123-bigskin-5.jpg",
+        "skinIcon": "123-smallskin-5.jpg",
+        "keyHD": "1ZtM7ZWqc3VxjHKqKDA4tf5I975qvJ4gr"
+      },
+      {
+        "skinID": "12306",
+        "skinName": "Năng Lượng Dã Tính",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "123-bigskin-6.jpg",
+        "skinIcon": "123-smallskin-6.jpg",
+        "keyHD": "1z90qHhfTOWm9fxZSlwR8P8vy30l4iYob"
+      },
+      {
+        "skinID": "12307",
+        "skinName": "Ngự Phong Kiêu Tướng",
+        "skinQuality": "Epic",
+        "starSkin": false,
+        "skinImage": "123-bigskin-7.jpg",
+        "skinIcon": "123-smallskin-7.jpg",
+        "keyHD": "16wKUmou5LaV64Byg_q93oYdftOavHAII"
+      },
+      {
+        "skinID": "12308",
+        "skinName": "Nộ Hải Lân Uy",
+        "skinQuality": "Legend",
+        "starSkin": false,
+        "skinImage": "123-bigskin-8.jpg",
+        "skinIcon": "123-smallskin-8.jpg",
+        "keyHD": "1gyZ3qASMe3wWAcbrppQpE1hg3rIS0AIA"
+      },
+      {
+        "skinID": "12309",
+        "skinName": "Ngộ Kiến Thần Trống",
+        "skinQuality": "Legend",
+        "starSkin": false,
+        "skinImage": "123-bigskin-9.jpg",
+        "skinIcon": "123-smallskin-9.jpg",
+        "keyHD": "1DWkysKQ1Sy7km4XlFKioPeBklEZT7Yhx"
+      },
+      {
+        "skinID": "12310",
+        "skinName": "Hi Huyền Dẫn",
+        "skinQuality": "Legend",
+        "starSkin": false,
+        "skinImage": "123-bigskin-10.jpg",
+        "skinIcon": "123-smallskin-10.jpg",
+        "keyHD": "1GYT5fxdHFcc55srvp55VmJ_RmSbqA-lf"
+      },
+      {
+        "skinID": "12311",
+        "skinName": "Trục Tiêu Chiến Tích",
+        "skinQuality": "Rare",
+        "starSkin": false,
+        "skinImage": "123-bigskin-11.jpg",
+        "skinIcon": "123-smallskin-11.jpg",
+        "keyHD": "1GSyv23yHf9t5ms7YSNijC973cpkKWw0d"
+      }
+    ]
   }
 }

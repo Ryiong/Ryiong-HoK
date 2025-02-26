@@ -1,0 +1,31 @@
+/* Base */
+img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+}
+
+.container-content {
+    min-height: 90vh;
+}
+
+
+.leaguebox {
+    width: 20rem;
+    margin: 0 0.5rem;
+    position: relative;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.leaguename {
+    padding: 0.6rem 0;
+    text-align: left;
+}
+
+.lbans {
+    padding: 0 0.75rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.25rem;
+}

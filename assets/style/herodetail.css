@@ -290,6 +290,13 @@ h2.title-content {
     color: #fff !important;
 }
 
+p#name-skin {
+    padding: 0.25rem;
+    line-height: 1.6;
+    margin: 0.5rem;
+    font-weight: 700;
+}
+
 @media screen and (max-width: 1090px) {
     .detail-hero {
         width: 80%;
