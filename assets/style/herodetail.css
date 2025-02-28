@@ -77,12 +77,15 @@ img.default-banner-detail {
 
 ul.list-skills {
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
     position: relative;
     margin: 2rem 1rem 1.25rem 1rem;
 }
 
 li.skills-set {
-    margin: 0 1.5rem;
+    margin: 0.5rem 1.5rem;
+    width: 6rem;
 }
 
 p.skill-description {

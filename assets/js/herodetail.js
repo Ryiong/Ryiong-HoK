@@ -67,7 +67,11 @@ function renderHeroDetail(data) {
 }
 
 function renderSkills(data) {
-    let htmlCodeIcon = '', htmlCode = '';
+    let htmlCodeIcon = '', htmlCode = '', oSkLength = 0, skLength = 0;
+    for(let x of data.skills) {
+        skLength = x.length > oSkLength ? x.length : oSkLength;
+        oSkLength = x.length
+    }
     data.skills.forEach((skill) => {
         skill.forEach((item) => {
             htmlCodeIcon += `<li class="skills-set">
@@ -90,6 +94,7 @@ function renderSkills(data) {
         })
     })
     document.querySelector(".list-skills").innerHTML = htmlCodeIcon;
+    document.querySelector(".list-skills").style.height = `${(6 * oSkLength) + 2}rem`;
     document.querySelector(".description-list").innerHTML = htmlCode;
 }
 

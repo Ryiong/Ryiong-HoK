@@ -2665,7 +2665,13 @@
                   "skillName": "Bí Thuật - Thao Khống",
                   "skillDescription": "Con rối sẽ thừa hường tất cả các trang bị của Nguyên Ca (ngoại trừ các nội tại Phục Sinh, Cuồng Nộ Máu, Bóng Tối Che Phủ, Khiên Năng Lượng) và một số buff khác.</br>Đòn đánh thường của con rối có thể sẽ gây 0~195 (+100% Công vật lý) sát thương vật lý, sát thương cơ bản sẽ tăng dần theo cấp của kỹ năng 1.</br>Kinh nghiệm, vàng và một số buff mà con rối nhận được cũng sẽ được chia sẻ với Nguyên Ca.</br>Khi con rối bị phá hủy, Nguyên Ca sẽ không thể triệu hồi con rối trong 20s đồng thời Nguyên Ca bị lộ vị trí và bị choáng trong 2s</br>Bất cứ khi nào con rối được thu về, Nguyên Ca sẽ xóa bỏ mọi khống chế, tăng 40% Tốc chạy kéo dài 1s và nhận lá chắn 200 (+62% Công vật lý) ",
                   "skillPreview": ""
-              }
+              },
+              {
+                "skillIcon": "12500.png",
+                "skillName": "Bí Thuật - Thao Khống",
+                "skillDescription": "Con rối sẽ thừa hường tất cả các trang bị của Nguyên Ca (ngoại trừ các nội tại Phục Sinh, Cuồng Nộ Máu, Bóng Tối Che Phủ, Khiên Năng Lượng) và một số buff khác.</br>Đòn đánh thường của con rối có thể sẽ gây 0~195 (+100% Công vật lý) sát thương vật lý, sát thương cơ bản sẽ tăng dần theo cấp của kỹ năng 1.</br>Kinh nghiệm, vàng và một số buff mà con rối nhận được cũng sẽ được chia sẻ với Nguyên Ca.</br>Khi con rối bị phá hủy, Nguyên Ca sẽ không thể triệu hồi con rối trong 20s đồng thời Nguyên Ca bị lộ vị trí và bị choáng trong 2s</br>Bất cứ khi nào con rối được thu về, Nguyên Ca sẽ xóa bỏ mọi khống chế, tăng 40% Tốc chạy kéo dài 1s và nhận lá chắn 200 (+62% Công vật lý) ",
+                "skillPreview": ""
+            }
           ],
           [
               {
