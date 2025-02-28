@@ -24,10 +24,11 @@ fetch('./assets/json/HoK_API.json')
         return response.json();
     })
     .then((data) => {
-        if (data[getQuery()]) {
-            console.log(data[getQuery()])
-            renderHeroDetail(data[getQuery()]);
-            OpenSkin(data[getQuery()]);
+        console.log(data)
+        if (data.data[getQuery()]) {
+            console.log(data.data[getQuery()])
+            renderHeroDetail(data.data[getQuery()]);
+            OpenSkin(data.data[getQuery()]);
         } else {
             location.pathname = '/Ryiong-HoK/404.html'
         }
@@ -128,7 +129,7 @@ function importSkinData(data) {
 function displayBigSkin(data, index) {
     document.querySelector("#display-skin").src = `https://ryiong-hok.neocities.org/assets/Resource/${data.idHero}/${data.skins[index].skinImage}`;
     document.querySelector("#display-skin").alt = `${data.skins[index].skinName}`;
-    document.querySelector("p#name-skin").innerHTML = `${data.skins[index].skinName} _ Chất lượng: <i style="background:url('https://ryiong-hok.neocities.org/assets/Tag/${data.skins[index].skinQuality}.png') 0 0 /100% 100% no-repeat; height: 30px;display: inline-block;width: 100px;"></i>`;
+    document.querySelector("p#name-skin").innerHTML = `${data.skins[index].skinName} _ Chất lượng: <i style="background:url('https://ryiong-hok.neocities.org/assets/Tag/${data.skins[index].skinQuality}.png') center / contain no-repeat; height: 30px;display: inline-block;width: 100px;"></i>`;
     document.querySelector("#open-linkskin").href = `https://drive.google.com/file/d/${data.skins[index].keyHD}/view?usp=drive_link`;
 }
 

@@ -8,6 +8,10 @@
     "wdth" 87.5;
 }
 
+body {
+    padding: inherit;
+}
+
 ul,
 li {
     list-style-type: none;
