@@ -1,0 +1,534 @@
+[
+    {
+        "idHero": "14100",
+        "nameHero": "Điêu Thuyền"
+    },
+    {
+        "idHero": "15400",
+        "nameHero": "Hoa Mộc Lan"
+    },
+    {
+        "idHero": "18200",
+        "nameHero": "Can Tương Mạc Tà"
+    },
+    {
+        "idHero": "18700",
+        "nameHero": "Đông Hoàng"
+    },
+    {
+        "idHero": "50200",
+        "nameHero": "Bùi Cầm Hổ"
+    },
+    {
+        "idHero": "51800",
+        "nameHero": "Mã Siêu"
+    },
+    {
+        "idHero": "52200",
+        "nameHero": "Diệu"
+    },
+    {
+        "idHero": "52300",
+        "nameHero": "Tây Thi"
+    },
+    {
+        "idHero": "53100",
+        "nameHero": "Kính"
+    },
+    {
+        "idHero": "646",
+        "nameHero": "Butterfly"
+    },
+    {
+        "idHero": "582",
+        "nameHero": "Main Pháp sư"
+    },
+    {
+        "idHero": "581",
+        "nameHero": "Main Đỡ đòn"
+    },
+    {
+        "idHero": "577",
+        "nameHero": "Thiếu Tư Duyên"
+    },
+    {
+        "idHero": "564",
+        "nameHero": "Cơ Tiểu Mãn"
+    },
+    {
+        "idHero": "563",
+        "nameHero": "Hải Nặc"
+    },
+    {
+        "idHero": "558",
+        "nameHero": "Ảnh"
+    },
+    {
+        "idHero": "548",
+        "nameHero": "Qua Á"
+    },
+    {
+        "idHero": "547",
+        "nameHero": "Luara"
+    },
+    {
+        "idHero": "545",
+        "nameHero": "Alessio"
+    },
+    {
+        "idHero": "544",
+        "nameHero": "Triệu Hoài Chân"
+    },
+    {
+        "idHero": "542",
+        "nameHero": "Phi"
+    },
+    {
+        "idHero": "540",
+        "nameHero": "Kim Thiền"
+    },
+    {
+        "idHero": "538",
+        "nameHero": "Vân Anh"
+    },
+    {
+        "idHero": "537",
+        "nameHero": "Tư Không Chấn"
+    },
+    {
+        "idHero": "536",
+        "nameHero": "Charlotte"
+    },
+    {
+        "idHero": "534",
+        "nameHero": "Tang Khởi"
+    },
+    {
+        "idHero": "533",
+        "nameHero": "A Cổ Đóa"
+    },
+    {
+        "idHero": "531",
+        "nameHero": "Kính"
+    },
+    {
+        "idHero": "529",
+        "nameHero": "Bàn Cổ"
+    },
+    {
+        "idHero": "528",
+        "nameHero": "Lan"
+    },
+    {
+        "idHero": "527",
+        "nameHero": "Mông Điềm"
+    },
+    {
+        "idHero": "525",
+        "nameHero": "Lỗ Ban Đại Sư"
+    },
+    {
+        "idHero": "524",
+        "nameHero": "Mông Nha"
+    },
+    {
+        "idHero": "523",
+        "nameHero": "Tây Thi"
+    },
+    {
+        "idHero": "522",
+        "nameHero": "Diệu"
+    },
+    {
+        "idHero": "521",
+        "nameHero": "Hải Nguyệt"
+    },
+    {
+        "idHero": "519",
+        "nameHero": "Ngao Ẩn"
+    },
+    {
+        "idHero": "518",
+        "nameHero": "Mã Siêu"
+    },
+    {
+        "idHero": "517",
+        "nameHero": "Đại Tư Mệnh"
+    },
+    {
+        "idHero": "515",
+        "nameHero": "Hằng Nga"
+    },
+    {
+        "idHero": "514",
+        "nameHero": "Á Liên"
+    },
+    {
+        "idHero": "513",
+        "nameHero": "Uyển Nhi"
+    },
+    {
+        "idHero": "511",
+        "nameHero": "Trư Bát Giới"
+    },
+    {
+        "idHero": "510",
+        "nameHero": "Tôn Sách"
+    },
+    {
+        "idHero": "509",
+        "nameHero": "Thuẫn Sơn"
+    },
+    {
+        "idHero": "508",
+        "nameHero": "Già La"
+    },
+    {
+        "idHero": "507",
+        "nameHero": "Lý Tín"
+    },
+    {
+        "idHero": "506",
+        "nameHero": "Vân Trung Quân"
+    },
+    {
+        "idHero": "505",
+        "nameHero": "Yao"
+    },
+    {
+        "idHero": "504",
+        "nameHero": "Mễ Lai"
+    },
+    {
+        "idHero": "503",
+        "nameHero": "Cuồng Thiết"
+    },
+    {
+        "idHero": "502",
+        "nameHero": "Bùi Cầm Hổ"
+    },
+    {
+        "idHero": "501",
+        "nameHero": "Minh Thế Ẩn"
+    },
+    {
+        "idHero": "312",
+        "nameHero": "Thẩm Mộng Khê"
+    },
+    {
+        "idHero": "199",
+        "nameHero": "Công Tôn Ly"
+    },
+    {
+        "idHero": "198",
+        "nameHero": "Mộng Kỳ"
+    },
+    {
+        "idHero": "197",
+        "nameHero": "Dịch Tinh"
+    },
+    {
+        "idHero": "196",
+        "nameHero": "Thủ Ước"
+    },
+    {
+        "idHero": "195",
+        "nameHero": "Huyền Sách"
+    },
+    {
+        "idHero": "194",
+        "nameHero": "Tô Liệt"
+    },
+    {
+        "idHero": "193",
+        "nameHero": "Khải"
+    },
+    {
+        "idHero": "192",
+        "nameHero": "Hoàng Trung"
+    },
+    {
+        "idHero": "191",
+        "nameHero": "Đại Kiều"
+    },
+    {
+        "idHero": "190",
+        "nameHero": "Gia Cát Lượng"
+    },
+    {
+        "idHero": "189",
+        "nameHero": "Quỷ Cốc Tử"
+    },
+    {
+        "idHero": "187",
+        "nameHero": "Đông Hoàng"
+    },
+    {
+        "idHero": "186",
+        "nameHero": "Thái Ất Chân Nhân"
+    },
+    {
+        "idHero": "184",
+        "nameHero": "Thái Văn Cơ"
+    },
+    {
+        "idHero": "183",
+        "nameHero": "Athena"
+    },
+    {
+        "idHero": "182",
+        "nameHero": "Can Tương Mạc Tà"
+    },
+    {
+        "idHero": "180",
+        "nameHero": "Na Tra"
+    },
+    {
+        "idHero": "179",
+        "nameHero": "Nữ Oa"
+    },
+    {
+        "idHero": "178",
+        "nameHero": "Dương Tiễn"
+    },
+    {
+        "idHero": "176",
+        "nameHero": "Dương Ngọc Hoàn"
+    },
+    {
+        "idHero": "175",
+        "nameHero": "Chung Quỳ"
+    },
+    {
+        "idHero": "174",
+        "nameHero": "Ngu Cơ"
+    },
+    {
+        "idHero": "173",
+        "nameHero": "Lý Nguyên Phương"
+    },
+    {
+        "idHero": "171",
+        "nameHero": "Trương Phi"
+    },
+    {
+        "idHero": "170",
+        "nameHero": "Lưu Bị"
+    },
+    {
+        "idHero": "169",
+        "nameHero": "Hậu Nghệ"
+    },
+    {
+        "idHero": "168",
+        "nameHero": "Ngưu Ma Vương"
+    },
+    {
+        "idHero": "167",
+        "nameHero": "Tôn Ngộ Không"
+    },
+    {
+        "idHero": "166",
+        "nameHero": "Arthur"
+    },
+    {
+        "idHero": "163",
+        "nameHero": "Ukyo Tachibana"
+    },
+    {
+        "idHero": "162",
+        "nameHero": "Nakoruru"
+    },
+    {
+        "idHero": "159",
+        "nameHero": "Dolia"
+    },
+    {
+        "idHero": "157",
+        "nameHero": "Mai Shiranui"
+    },
+    {
+        "idHero": "156",
+        "nameHero": "Trương Lương"
+    },
+    {
+        "idHero": "155",
+        "nameHero": "Ngải Lâm"
+    },
+    {
+        "idHero": "154",
+        "nameHero": "Hoa Mộc Lan"
+    },
+    {
+        "idHero": "153",
+        "nameHero": "Lan Lăng Vương"
+    },
+    {
+        "idHero": "152",
+        "nameHero": "Vương Chiêu Quân"
+    },
+    {
+        "idHero": "150",
+        "nameHero": "Hàn Tín"
+    },
+    {
+        "idHero": "149",
+        "nameHero": "Lưu Bang"
+    },
+    {
+        "idHero": "148",
+        "nameHero": "Khương Tử Nha"
+    },
+    {
+        "idHero": "146",
+        "nameHero": "Luna"
+    },
+    {
+        "idHero": "144",
+        "nameHero": "Trình Giảo Kim"
+    },
+    {
+        "idHero": "142",
+        "nameHero": "Angela"
+    },
+    {
+        "idHero": "141",
+        "nameHero": "Điêu Thuyền"
+    },
+    {
+        "idHero": "140",
+        "nameHero": "Quan Vũ"
+    },
+    {
+        "idHero": "139",
+        "nameHero": "Lão Phu Tử"
+    },
+    {
+        "idHero": "137",
+        "nameHero": "Tư Mã Ý"
+    },
+    {
+        "idHero": "136",
+        "nameHero": "Võ Tắc Thiên"
+    },
+    {
+        "idHero": "135",
+        "nameHero": "Hạng Vũ"
+    },
+    {
+        "idHero": "134",
+        "nameHero": "Đạt Ma"
+    },
+    {
+        "idHero": "133",
+        "nameHero": "Địch Nhân Kiệt"
+    },
+    {
+        "idHero": "132",
+        "nameHero": "Marco Polo"
+    },
+    {
+        "idHero": "131",
+        "nameHero": "Lý Bạch"
+    },
+    {
+        "idHero": "130",
+        "nameHero": "Musashi"
+    },
+    {
+        "idHero": "129",
+        "nameHero": "Điển Vi"
+    },
+    {
+        "idHero": "128",
+        "nameHero": "Tào Tháo"
+    },
+    {
+        "idHero": "127",
+        "nameHero": "Chân Cơ"
+    },
+    {
+        "idHero": "126",
+        "nameHero": "Hạ Hầu Đôn"
+    },
+    {
+        "idHero": "125",
+        "nameHero": "Nguyên Ca"
+    },
+    {
+        "idHero": "124",
+        "nameHero": "Chu Du"
+    },
+    {
+        "idHero": "123",
+        "nameHero": "Lữ Bố"
+    },
+    {
+        "idHero": "121",
+        "nameHero": "Mị Nguyệt"
+    },
+    {
+        "idHero": "120",
+        "nameHero": "Bạch Khởi"
+    },
+    {
+        "idHero": "119",
+        "nameHero": "Biển Thước"
+    },
+    {
+        "idHero": "118",
+        "nameHero": "Tôn Tẫn"
+    },
+    {
+        "idHero": "117",
+        "nameHero": "Chung Vô Diệm"
+    },
+    {
+        "idHero": "116",
+        "nameHero": "A Kha"
+    },
+    {
+        "idHero": "115",
+        "nameHero": "Cao Tiệm Ly"
+    },
+    {
+        "idHero": "114",
+        "nameHero": "Lưu Thiện"
+    },
+    {
+        "idHero": "113",
+        "nameHero": "Trang Chu"
+    },
+    {
+        "idHero": "112",
+        "nameHero": "Lỗ Ban Đệ Thất"
+    },
+    {
+        "idHero": "111",
+        "nameHero": "Tôn Thượng Hương"
+    },
+    {
+        "idHero": "110",
+        "nameHero": "Doanh Chính"
+    },
+    {
+        "idHero": "109",
+        "nameHero": "Đát Kỷ"
+    },
+    {
+        "idHero": "108",
+        "nameHero": "Mặc Tử"
+    },
+    {
+        "idHero": "107",
+        "nameHero": "Triệu Vân"
+    },
+    {
+        "idHero": "106",
+        "nameHero": "Tiểu Kiều"
+    },
+    {
+        "idHero": "105",
+        "nameHero": "Liêm Pha"
+    }
+]
