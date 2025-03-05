@@ -99,6 +99,10 @@ div#layout {
     margin-top: 1%;
 }
 
+.hero-pick img {
+    object-fit: cover;
+}
+
 .pick-hero>span {
     position: absolute;
     bottom: 0;

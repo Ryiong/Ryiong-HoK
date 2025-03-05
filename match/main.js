@@ -33,10 +33,9 @@ function RenderListHero(data) {
     htmlCode = "";
     data.forEach(item => {
         htmlCode += `<div class="hero-profile" data-idhero="${item.idHero}" data-name="${item.nameHero}" onclick="GetHero(event);">
-                    <img src="https://ryiong-hok.neocities.org/assets/Resource/${item.idHero}/${item.idHero}-smallskin-1.jpg" alt="${item.nameHero}">
-                    <span>${item.nameHero}</span>
+                    <img src="https://ryiong-hok.neocities.org/assets/heroimg/${item.idHero}.jpg" alt="${item.nameHero}">
                 </div>`;
-      });
+    });
     document.querySelector("#list-hero").innerHTML = htmlCode
 }
 
@@ -55,7 +54,7 @@ function OpenHeroList(a) {
         return [element = a.currentTarget, textElement = null];
     } else {
         console.log(a.currentTarget.children[0]);
-        
+
         return [element = a.currentTarget.children[0], textElement = a.currentTarget.children[1]];
     }
 }
@@ -64,8 +63,9 @@ function GetHero(e) {
     const idHero = e.currentTarget.getAttribute("data-idhero");
     const heroName = e.currentTarget.getAttribute("data-name");
     console.log(idHero)
-    
-    element.style.background = `url('https://ryiong-hok.neocities.org/assets/EsportsUI/${idHero}.jpg') center / cover no-repeat`;
+
+    element.style.background = `url('./EsportsUI/${idHero}.jpg') center / cover no-repeat`;
+    element.alt = `${heroName}`;
     if (textElement) {
         textElement.innerText = heroName;
     }
@@ -88,4 +88,16 @@ function handleKeyPress(event) {
     if (event.key === "Enter") {
         SearchHero();
     }
+}
+
+function RenderExport() {
+    let div = document.querySelector("#layout-bp");
+    html2canvas(div).then(canvas => {
+        let img = canvas.toDataURL("image/png");
+
+        let link = document.createElement("a");
+        link.href = img;
+        link.download = "LayoutBP.png"
+        link.click();
+    });
 }

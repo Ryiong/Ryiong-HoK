@@ -80,6 +80,7 @@
                 <input type="text" placeholder="SEARCH" id="search-input" onkeypress="handleKeyPress(event);">
                 <a target="_self" onclick="SearchHero();" class="btn-search"></a>
               </div>
+              <span id="export-btn" class="button-adj" onclick="RenderExport();">Export</span>
             </div>
             <div id="layout-bp" class="w-100 relative">
               <div id="base_layout">
@@ -97,23 +98,23 @@
                   <div id="pick-list" class="flex">
                     <div id="pick-blue" class="flex">
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                     </div>
@@ -121,23 +122,23 @@
                     </div>
                     <div id="pick-red" class="flex">
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                       <div class="pick-hero relative" onclick="OpenHeroList(event);">
-                        <div class="hero-pick"></div>
+                        <div class="hero-pick"><img class="w-100 h-100"></div>
                         <span><i class="lane" id=""></i>Test Name</span>
                       </div>
                     </div>
@@ -222,6 +223,8 @@
   <script type="text/javascript" src="../assets/js/main.js"></script>
 
   <script type="text/javascript" src="./main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
 </body>
 
 </html>
