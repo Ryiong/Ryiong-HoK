@@ -107,11 +107,12 @@ div#layout {
     position: absolute;
     bottom: 0;
     color: #fff;
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     text-align: center;
     width: 100%;
     text-shadow: 1px 0px 5px #000;
     margin-bottom: 0.5rem;
+    font-weight: bold;
 }
 
 #pick-red>.pick-hero::after,
