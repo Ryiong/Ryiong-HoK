@@ -62,6 +62,15 @@
         ]
     },
     {
+        "idHero": "556",
+        "nameHero": "Ata",
+        "globalName": "Ata",
+        "role": [
+            "tank"
+        ],
+        "note": "Ata là tướng được thay thế cho Trư Bát Giới tại phiên bản global bởi vấn đề văn hóa đạo Hồi khá kỵ lợn"
+    },
+    {
         "idHero": "548",
         "nameHero": "Qua Á",
         "globalName": "Chưa ra mắt",
@@ -552,6 +561,14 @@
         "globalName": "Yang Jian",
         "role": [
             "fighter"
+        ]
+    },
+    {
+        "idHero": "177",
+        "nameHero": "Thương",
+        "globalName": "",
+        "role": [
+            "marksmen"
         ]
     },
     {

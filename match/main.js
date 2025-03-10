@@ -92,7 +92,11 @@ function handleKeyPress(event) {
 
 function RenderExport() {
     let div = document.querySelector("#layout-bp");
-    html2canvas(div).then(canvas => {
+    html2canvas(div, {
+        scale: window.devicePixelRatio, 
+        useCORS: true, 
+        backgroundColor: null 
+    }).then(canvas => {
         let img = canvas.toDataURL("image/png");
 
         let link = document.createElement("a");
