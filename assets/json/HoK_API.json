@@ -1,5 +1,5 @@
 {
-    "version": "25.3.15.1",
+    "version": "25.3.16.1",
     "data": {
         "105": {
             "idHero": 105,
@@ -6893,11 +6893,11 @@
                     {
                         "skillIcon": "16210.png",
                         "skillName": "Phi Ưng Công Kích",
-                        "skillDescription": "Nakoruru triệu hồi chim ưng Mamahaha để tấn công kẻ địch, gây 360/432/504/576/648/720 (+120% Công vật lý cộng thêm) sát thương vật lý và đặt dấu ấn Mắt chim ưng lên kẻ địch.</br>Sát thương khác của Nakoruru có thể kích hoạt dấu ấn, gây sát thương vật lý bằng 6% Máu tối đa của mục tiêu (giới hạn tối đa đối với quái rừng là 200).</br>Mỗi 40 Công vật lý cộng thêm sẽ tăng sát thương tối đa lên 1%. Kích hoạt dấu ấn Mắt chim ưng sẽ giảm thời gian hồi chiêu đi 3s và phục hồi 35 năng lượng",
+                        "skillDescription": "Nakoruru triệu hồi chim ưng Mamahaha để tấn công kẻ địch, gây 360/432/504/576/648/720 (+120% Công vật lý cộng thêm) sát thương vật lý và đặt dấu ấn Mắt chim ưng lên kẻ địch.</br>Sát thương khác của Nakoruru có thể kích hoạt dấu ấn, gây sát thương vật lý bằng 6% Máu tối đa của mục tiêu (giới hạn tối đa đối với quái rừng là 300).</br>Mỗi 40 Công vật lý cộng thêm sẽ tăng sát thương tối đa lên 1%. Kích hoạt dấu ấn Mắt chim ưng sẽ giảm thời gian hồi chiêu đi 2.5s và phục hồi 35 năng lượng",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "60",
-                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                        "skillCD": "9/8.6/8.2/7.8/7.4/7s"
                     }
                 ],
                 [
@@ -6915,7 +6915,7 @@
                     {
                         "skillIcon": "16230.png",
                         "skillName": "Phi Ưng Tập Kích",
-                        "skillDescription": "Nakoruru triệu hồi Mamahaha, ngay lập tức tăng 50% tốc chạy trong 6s, giảm dần theo thời gian, có thể bay qua địa hình 1 lần. Tái kích hoạt kỹ năng Nako sẽ đáp đất tại vị trí chỉ định gây 600/900/1200 (+190% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch và làm chậm 25/37.5/50% trong 3s.</br>Kẻ địch bị ảnh hưởng sẽ giảm 30% sát thương trong 3s.</br>Nội tại: Khi ở trạng thái không giao tranh trong 4s, sẽ triệu hồi Mamahaha bay cùng bản thân giúp tăng 10% Tốc chạy. Hiệu ứng tăng tốc sẽ mất khi dùng kỹ năng hoặc quay lại trạng thái giao tranh",
+                        "skillDescription": "Nakoruru triệu hồi Mamahaha, ngay lập tức tăng 50% tốc chạy trong 6s, giảm dần theo thời gian, có thể bay qua địa hình 1 lần. Tái kích hoạt kỹ năng Nako sẽ đáp đất tại vị trí chỉ định gây 600/900/1200 (+190% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch và làm chậm 25/37.5/50% trong 3s.</br>Kẻ địch bị ảnh hưởng sẽ giảm 30% sát thương trong 3s.</br>Nội tại: Khi ở trạng thái không giao tranh trong 4s, sẽ triệu hồi Mamahaha bay cùng bản thân giúp tăng 10% Tốc chạy. Hiệu ứng tăng tốc sẽ mất sau khi tiến vào trạng thái giao tranh.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "120",
@@ -9534,6 +9534,3057 @@
                     "skinImage": "187-bigskin-6.jpg",
                     "skinIcon": "187-smallskin-6.jpg",
                     "keyHD": "1HJLpYxbStgz7zjijrnNFq4sg7zceCl6L"
+                }
+            ]
+        },
+        "189": {
+            "idHero": 189,
+            "heroName": "Quỷ Cốc Tử",
+            "globalName": "Guiguzi",
+            "defaultSkin": "Linh Hồn Vạn Vật",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "18900.png",
+                        "skillName": "Binh Pháp Tung Hoành",
+                        "skillDescription": "Mỗi 3s sau khi rời khỏi tầm nhìn của kẻ địch, đòn đánh thường tiếp theo sẽ được cường hoá gây 300~600 (+55% Công phép) sát thương phép và làm chậm mục tiêu 25~50% trong phạm vi 1.5s</br>Nếu Quỷ Cốc Tử không nằm trong tầm nhìn của kẻ địch khi sử dụng đòn đánh thường thời gian hồi chiêu của nội tại sẽ tăng lên 10s",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "18910.png",
+                        "skillName": "Tiên Tri - Thần Ẩn",
+                        "skillDescription": "Cổc Tử quấn mình vào môi trường để nguỵ tranh trong 4s và tăng 40% tốc chạy đồng thời gây 450/540/630/720/810/900 (+60% Công phép) sát thương phép lên mỗi kẻ địch chạm vào, đồng thời giảm 25/28/31/34/37/40% giáp vật lý và giáp phép của kẻ địch trong 4s. Trạng thái này có thể kích hoạt tối đa một lần cho mỗi kẻ địch.</br>Hiệu ứng nguỵe trang sẽ kết thúc khi sử dụng các phương thức khác để gây sát thương lên kẻ địch.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "70",
+                        "skillCD": "10s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "18920.png",
+                        "skillName": "Linh Hồn Vạn Vật",
+                        "skillDescription": "Triệu hồi đom đóm tụ tập quanh Cốc Tử, gây 100/120/140/160/180/200 (+15% Công phép) sát thương phép cho kẻ địch trong phạm vi mỗi 0.5s trong 2s. Sau 2s, kéo kẻ địch trong phạm vi về phía Cốc Tử và làm choáng chúng trong 1s đồng thời gây 400 (+60% Công phép) sát thương phép.</br>Nếu sát thương trúng vào tướng địch, Cốc Tử và đồng đội trong phạm vi sẽ nhận được 500/600/700/800/900/1000 (+100% Công phép) lá chắn",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "18930.png",
+                        "skillName": "Tiên Tri - Sương Ẩn",
+                        "skillDescription": "Ra lệnh cho đom đóm bao bọc bản thân và đồng minh trong phạm vi 1500 và tiến vào trạng thái ngụy trang sau 1s. Trong thời gian này, Cốc Tử và đồng mình sẽ tăng  30% tốc chạy trong 4s, đồng thời có được tầm nhìn của tướng địch gần nhất.</br>Khi ở chế độ ngụy trang, nếu sử dụng đòn đánh thường, kỹ năng hoặc gây hiệu ứng tiêu cực lên kẻ địch, chế độ ngụy trang sẽ ngay lập tức bị xóa.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "35/30/25s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "18901",
+                    "skinName": "Linh Hồn Vạn Vật",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "189-bigskin-1.jpg",
+                    "skinIcon": "189-smallskin-1.jpg",
+                    "keyHD": "1WnNTAgo7GpGnzLVdgIeQmHHQCI093_Vn"
+                },
+                {
+                    "skinID": "18902",
+                    "skinName": "Công Tước Xứ A-mốt",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "189-bigskin-2.jpg",
+                    "skinIcon": "189-smallskin-2.jpg",
+                    "keyHD": "1sTvFKHdzfBPbkl36SfheKERIj8CjAcSo"
+                },
+                {
+                    "skinID": "18903",
+                    "skinName": "Đại Nhạc Vui Vẻ",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "189-bigskin-3.jpg",
+                    "skinIcon": "189-smallskin-3.jpg",
+                    "keyHD": "1Umi9ONOpcr1kG_JMjxt2q7-AaM3R_zvU"
+                },
+                {
+                    "skinID": "18904",
+                    "skinName": "Nhà Thám Hiểm Nguyên Sinh",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "189-bigskin-4.jpg",
+                    "skinIcon": "189-smallskin-4.jpg",
+                    "keyHD": "1rgrar8agUhDqAKpVlHfX3q61XbCZ83Az"
+                },
+                {
+                    "skinID": "18905",
+                    "skinName": "Ngũ Cốc Phong Niên",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "189-bigskin-5.jpg",
+                    "skinIcon": "189-smallskin-5.jpg",
+                    "keyHD": "18KdsY-c0V44oe-qJpcRZ1WjnxRldtnxk"
+                },
+                {
+                    "skinID": "18906",
+                    "skinName": "Đền Nguyện Thiên Khung",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "189-bigskin-6.jpg",
+                    "skinIcon": "189-smallskin-6.jpg",
+                    "keyHD": "1mQBXhIoIs7vk8zwWxGl6VVgcNrhjO9DE"
+                }
+            ]
+        },
+        "190": {
+            "idHero": 190,
+            "heroName": "Gia Cát Lượng",
+            "globalName": "Kongming",
+            "defaultSkin": "Tuyệt Thế Mưu Trí",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19000.png",
+                        "skillName": "Thời Khắc Toan Tính",
+                        "skillDescription": "Khi kỹ năng đánh trúng mục tiêu địch, một dấu ấn mưu lược sẽ được cộng dồn. Khi đạt đến 5 cộng dồn, 5 quả cầu ma thuật sẽ được triệu hồi để tự động tấn công mục tiêu xung quanh và gây ra 135 (+25% Công phép) sát thương phép.</br>Cầu ma thuật sẽ ưu tiên tấn công tướng địch trước và sẽ không tấn công quái rừng ở trạng thái ngủ. Sát thương của quả cầu ma thuật lên quái vật giảm 40% và sát thương lên lính tăng 40%.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19010.png",
+                        "skillName": "Đột Phá Gió Đông",
+                        "skillDescription": "Phóng ba quả cầu ma thuật theo hướng chỉ định, gây 500/600/700/800/900/1000 (+70% Công phép) sát thương phép lên kẻ địch trên đường đi. Nếu nhiều quả cầu bắn trúng cùng một mục tiêu, bắt đầu từ quả cầu thứ hai, chỉ gây ra 20% sát thương.</br>Mỗi quả cầu ma thuật có thể kích hoạt 1 dấu ấn mưu lược. Có thể tích luỹ một lần kỹ năng sau mỗi 8/7.7/7.4/7.1/6.8/6.5s và có thể dự trữ tối đa 2 lần kỹ năng.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "1.5/1.4/1.3/1.2/1.1/1s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19020.png",
+                        "skillName": "Thời Không Thoi Đưa",
+                        "skillDescription": "Gia Cát Lượng lướt nhanh theo hướng chỉ định, gây 350/420/490/560/630/700 (+52% Công phép) sát thương phép lên kẻ địch ở vị trí bắt đầu và kết thúc. Nếu một mục tiêu trong 5s bị ảnh hưởng bởi kỹ năng sẽ bị giảm 90% tốc chạy trong 3s.</br>Khi một mục tiêu bị tấn công bởi kỹ năng nhiều lần cùng một lúc, chỉ gây ra 50% sát thương. Mỗi khi kỹ năng tác động lên kẻ địch, nó sẽ kích hoạt một dấu ấn mưu lược. Có thể tích luỹ kỹ năng một lần sau mỗi 8/7.7/7.4/7.1/6.8/6.s và có thể dự trữ tối đa 2 lần.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "40",
+                        "skillCD": "1.5/1.4/1.3/1.2/1.1/1s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19030.png",
+                        "skillName": "Đạn Nguyên Khí",
+                        "skillDescription": "Sau khoảng thời gian tích lực ngắn sẽ phóng một viên đạn nguyên khí vào mục tiêu bị khóa, gây ra 450/630/810 (+55% Công phép) sát thương phép. Sát thương sẽ tăng 2% cho mỗi 1% Máu đã mất của mục tiêu.</br>Đánh trúng kẻ địch sẽ nhận một ấn mưu lược. Nếu kẻ địch bị đánh bại, nội tại sẽ được kích hoạt ngay lập tức và thời gian hồi chiêu của kỹ năng sẽ giảm 80%.</br>Nếu tướng địch chết trước khi bắn bởi đạn nguyên khí, thời gian hồi chiêu sẽ giảm 80%. Nếu đạn nguyên khí va chạm với một mục tiêu không phải tướng địch trong khi bay, nó sẽ gây ra cùng một lượng sát thương và đánh bật mục tiêu đó trong 0.5s",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "35/30/25s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19001",
+                    "skinName": "Tuyệt Thế Mưu Trí",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "190-bigskin-1.jpg",
+                    "skinIcon": "190-smallskin-1.jpg",
+                    "keyHD": "h18sjQiCBrVqQkuMCytbcaCxTDADTlog3H"
+                },
+                {
+                    "skinID": "19002",
+                    "skinName": "Tinh Hằng Chỉ Huy",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "190-bigskin-2.jpg",
+                    "skinIcon": "190-smallskin-2.jpg",
+                    "keyHD": "h1xBiSlcURFwCIpno29JAtNkwAKwrTR2IG"
+                },
+                {
+                    "skinID": "19003",
+                    "skinName": "Tỉ Lệ Vàng",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19003",
+                            "starID": "1900301",
+                            "starName": "Lên Kế Hoạch Chiến Trường",
+                            "starImage": "19003-bigstar-1.jpg",
+                            "starIcon": "19003-smallstar-1.jpg",
+                            "starKeyHD": "h1rxiz59fN9AYMOAw7bMy015VW1V-3uncx",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "190-bigskin-3.jpg",
+                    "skinIcon": "190-smallskin-3.jpg",
+                    "keyHD": "h12Nvq4MTCvRaa5ib26eP1K0RUmbR0N-FI"
+                },
+                {
+                    "skinID": "19004",
+                    "skinName": "Lăng Vũ Tiên Quân",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19004",
+                            "starID": "1900401",
+                            "starName": "Thương Linh Tiên Quân",
+                            "starImage": "19004-bigstar-1.jpg",
+                            "starIcon": "19004-smallstar-1.jpg",
+                            "starKeyHD": "h12FwOBb4u24B4AYZZBRm3JUMjoGbIRprT",
+                            "starTag": "StarLegend"
+                        }
+                    ],
+                    "skinImage": "190-bigskin-4.jpg",
+                    "skinIcon": "190-smallskin-4.jpg",
+                    "keyHD": "h1e1Da2pTPO4NtCKmQYwgXEY4YMROhwG0-"
+                },
+                {
+                    "skinID": "19005",
+                    "skinName": "Năng Lực Kiểm Soát",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "190-bigskin-5.jpg",
+                    "skinIcon": "190-smallskin-5.jpg",
+                    "keyHD": "h1BUnFPWh07vJJUlDlClU-ET90IBa3FeNv"
+                },
+                {
+                    "skinID": "19006",
+                    "skinName": "Thời Vũ Thiên Sư",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19006",
+                            "starID": "1900601",
+                            "starName": "Tuế Vũ Linh Ti",
+                            "starImage": "19006-bigstar-1.jpg",
+                            "starIcon": "19006-smallstar-1.jpg",
+                            "starKeyHD": "h15DS8Lyzk5IN_4cWBmlNypp2HLOimASyC",
+                            "starTag": "StarLegend"
+                        }
+                    ],
+                    "skinImage": "190-bigskin-6.jpg",
+                    "skinIcon": "190-smallskin-6.jpg",
+                    "keyHD": "h12El_9nZkCjwkVqjwltjshOZsf2SEF1SD"
+                },
+                {
+                    "skinID": "19007",
+                    "skinName": "Tinh Vực Thần Khởi",
+                    "skinQuality": "Mythic",
+                    "skinTag": "Mythic",
+                    "starSkin": false,
+                    "skinImage": "190-bigskin-7.jpg",
+                    "skinIcon": "190-smallskin-7.jpg",
+                    "keyHD": "h1_HW3XcGhgALH3_KRF20yhbTOWBOuWAXO"
+                },
+                {
+                    "skinID": "19008",
+                    "skinName": "Hạc Vũ Tinh Tôn",
+                    "skinQuality": "Legend",
+                    "skinTag": "Limited",
+                    "starSkin": false,
+                    "skinImage": "190-bigskin-8.jpg",
+                    "skinIcon": "190-smallskin-8.jpg",
+                    "keyHD": "h15w7qR30IRiwu8ZzkLmu-qB3cl0yc9mMK"
+                },
+                {
+                    "skinID": "19009",
+                    "skinName": "Satoru Gojo",
+                    "skinQuality": "Legend",
+                    "skinTag": "JujutsuKaisen",
+                    "starSkin": false,
+                    "skinImage": "190-bigskin-9.jpg",
+                    "skinIcon": "190-smallskin-9.jpg",
+                    "keyHD": "h184VM4qt9QVWQcri3Pjpzt42N5RwbbKQk"
+                }
+            ]
+        },
+        "191": {
+            "idHero": 191,
+            "heroName": "Đại Kiều",
+            "globalName": "Da Qiao",
+            "defaultSkin": "Biển Cả Huyền Diệu",
+            "numberSkill": 4,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19100.png",
+                        "skillName": "Như Dòng Nước Chảy",
+                        "skillDescription": "Đại Kiều được tăng 30~60 Tốc chạy. Khi cá chép của [Thủy Triều Cá Nhảy] và [Cầu Đoạn Tuyệt] nhảy trên thủy triều của một kỹ năng khác, chúng sẽ kích hoạt một vụ nổ, gây 140 ~ 280 (+25% Công phép) sát thương phép và làm chậm kẻ địch 30~60% trong 1s. Mỗi 250 Công phép, phạm vi thi triển kỹ năng [Thủy Triều Cá Nhảy] và [Cầu Đoạn Tuyệt] tăng thêm 50, tối đa thêm 200.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19110.png",
+                        "skillName": "Thủy Triều Cá Nhảy",
+                        "skillDescription": "Đại Kiều triệu hồi cá chép bơi theo dòng thủy triều đã chỉ định, gây 300/400/500/600 (+55% Công phép) sát thương phép cho kẻ địch và hất tung trên đường cá bơi trong 0.5s. Dòng thủy triều vẫn sẽ tồn tại tiếp trong 2.5s, và liên tục gây 75/100/125/150 (+12% Công phép) sát thương phép cho kẻ địch chạm phải mỗi 0.5s. Khi thả cá Đại Kiều được tăng 30/40/50/60% Tốc chạy giảm dần theo thời gian trong 2.5s.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "70",
+                        "skillCD": "10/9.33/8.67/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19120.png",
+                        "skillName": "Biển Địch Mệnh",
+                        "skillDescription": "Đại Kiều triệu hồi cổng biển ma thuật trong 4s và nhận được tầm nhìn. Khi cửa biển định mệnh đóng, nó sẽ dịch chuyển một đồng minh về tế đàn và loại bỏ tất cả hiệu ứng debuff. Đồng minh có thể quay trở lại vị trí dịch chuyển thông qua cổng nước ngay trước tế đàn. Nếu không có đồng minh nào dịch chuyển, cổng biển sẽ để lại xoáy nước với Minh Châu bên trong để đồng minh có thể chạm vào nó để dịch chuyển trở về. Tái kích hoạt kỹ năng sẽ xóa bỏ xoáy nước Minh Châu, nếu không có đồng minh nào được dịch chuyển về, 50% hồi chiêu kỹ năng sẽ được trả lại. Đại Kiều sẽ được ưu tiên dịch chuyển",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "27.5/25.67/23.83/22s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19130.png",
+                        "skillName": "Cầu Đoạn Tuyệt",
+                        "skillDescription": "Đại Kiều triệu hồi cá chép bơi theo dòng thủy triều từ phải qua trái, gây 300/400/500/600( (+55% Công phép) sát thương phép cho kẻ địch và hất tung trên đường cá bơi trong 0.5s. Dòng thủy triều vẫn sẽ tồn tại tiếp trong 2.5s, và liên tục gây 75/100/125/150 (+12% Công phép) sát thương phép cho kẻ địch chạm phải mỗi 0.5s.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "80",
+                        "skillCD": "10/9.33/8.67/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19140.png",
+                        "skillName": "Cổng Xoáy Nước",
+                        "skillDescription": "Đại Kiều triệu hồi một vòng xoáy nước lớn tại một vị trí chỉ định, gây ra 500/750/1000 (+90% Công phép) sát thương phép lên những kẻ địch trong phạm vi. Xoáy nước sẽ tồn tại trong 8s, khi xoáy nước tồn tại, tất cả đồng đội sẽ nhận được một nút kỹ năng dịch chuyển đến xoáy nước. Đại Kiều và đồng minh nhận một lá chắn giúp hấp thụ 350/525/700 (+50% Công phép) sát thương phép trong xoáy nước",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "80s/72s/64s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19101",
+                    "skinName": "Biển Cả Huyền Diệu",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-1.jpg",
+                    "skinIcon": "191-smallskin-1.jpg",
+                    "keyHD": "1jF_BlOClR1T1U8-NsNUPZdhDYsKc1HJ2"
+                },
+                {
+                    "skinID": "19102",
+                    "skinName": "Y Thế Vu Nữ",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-2.jpg",
+                    "skinIcon": "191-smallskin-2.jpg",
+                    "keyHD": "1M8UsMq11DAK25IK-KxLU9pVO09LAA1aY"
+                },
+                {
+                    "skinID": "19103",
+                    "skinName": "Năng Lực Bảo Hộ",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-3.jpg",
+                    "skinIcon": "191-smallskin-3.jpg",
+                    "keyHD": "10v1UwogaV-96cYXbCcsomcsSLf999AgN"
+                },
+                {
+                    "skinID": "19104",
+                    "skinName": "Nhật Ký Chó Mèo",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19104",
+                            "starID": "1910401",
+                            "starName": "Hoa Hồng Ban Mai",
+                            "starImage": "19104-bigstar-1.jpg",
+                            "starIcon": "19104-smallstar-1.jpg",
+                            "starKeyHD": "1AcR4H3CJp3m-n9RPpAQVpGlYozrJR8mI",
+                            "starTag": "StarEpic"
+                        },
+                        {
+                            "skinID": "19104",
+                            "starID": "1910402",
+                            "starName": "Mộng Ấm Đêm Sao",
+                            "starImage": "19104-bigstar-2.jpg",
+                            "starIcon": "19104-smallstar-2.jpg",
+                            "starKeyHD": "1YKOS1xaIZvmySBhUIoQgiTG351qJx2qv",
+                            "starTag": "StarEpic"
+                        },
+                        {
+                            "skinID": "19104",
+                            "starID": "1910403",
+                            "starName": "Người Yêu Đỏ Tía",
+                            "starImage": "19104-bigstar-3.jpg",
+                            "starIcon": "19104-smallstar-3.jpg",
+                            "starKeyHD": "1GwvowUKcTqY-XMNG1X3FAuOuQmphKIPH",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "191-bigskin-4.jpg",
+                    "skinIcon": "191-smallskin-4.jpg",
+                    "keyHD": "1hSDBgEIY6K5ee_ZM0Im4bKcy7WS29acL"
+                },
+                {
+                    "skinID": "19105",
+                    "skinName": "Thanh Xà",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-5.jpg",
+                    "skinIcon": "191-smallskin-5.jpg",
+                    "keyHD": "18Y2-ED5U7sqjNEgkzU0lpUMNXeGXtqLt"
+                },
+                {
+                    "skinID": "19106",
+                    "skinName": "Bạch Hạc Lương Thần Nữ",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-6.jpg",
+                    "skinIcon": "191-smallskin-6.jpg",
+                    "keyHD": "1fRb8tKhwZhwbLDtsrgb9Du4NUkYcHwLR"
+                },
+                {
+                    "skinID": "19107",
+                    "skinName": "Chân Ái Hoa Giá",
+                    "skinQuality": "Legend",
+                    "skinTag": "Valentine1",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-7.jpg",
+                    "skinIcon": "191-smallskin-7.jpg",
+                    "keyHD": "1OacILXzAygGwdxU-uwNllkX5sJHQtIuC"
+                },
+                {
+                    "skinID": "19108",
+                    "skinName": "Thời Chi Kỳ Lữ",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-8.jpg",
+                    "skinIcon": "191-smallskin-8.jpg",
+                    "keyHD": "1fId1yNYx2GHWxKsUuoyNM07vq_RZBw8B"
+                },
+                {
+                    "skinID": "19109",
+                    "skinName": "Thừa Long - Ức Thanh Đan",
+                    "skinQuality": "Epic",
+                    "skinTag": "2024",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-9.jpg",
+                    "skinIcon": "191-smallskin-9.jpg",
+                    "keyHD": "1THyhfKr_wSh-yuoWeVZmMdBfO78_G8hL"
+                },
+                {
+                    "skinID": "19110",
+                    "skinName": "Nhung Ngữ Tâm Ước",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "191-bigskin-10.jpg",
+                    "skinIcon": "191-smallskin-10.jpg",
+                    "keyHD": "1P_IxbkPv6JYjDc_a5jkpYYZDn03z9Mnu"
+                }
+            ]
+        },
+        "192": {
+            "idHero": 192,
+            "heroName": "Hoàng Trung",
+            "globalName": "Huang Zhong",
+            "defaultSkin": "Pháo Đốt Linh Hồn",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19200.png",
+                        "skillName": "Pháo Thủ Thiêu Hồn",
+                        "skillDescription": "Đòn đánh thường của Hoàng Trung giúp tăng 6~12 Công vật lý và 0.75%~1.5% tỷ lệ chí mạng (tăng theo cấp độ anh hùng), kéo dài trong 1.5s,  cộng dồn tối đa 5 lần. Hoàng Trung khi dựng tháp pháo thì hiệu ứng trên sẽ được tăng gấp đôi. Khi vào hoặc thoát khỏi dạng tháp pháo, thời gian hiệu ứng còn lại trên anh ta sẽ được làm mới và hệ số được thay thế bằng bội số của dạng hiện tại.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19210.png",
+                        "skillName": "Truy Kích Tiềm Năng",
+                        "skillDescription": "Hoàng Trung tăng tốc bản thân thêm 30/36/42/48/54/60% giảm dần trong 3.5s, nếu ở dạng tháp pháo sẽ trực tiếp thoát khởi dạng tháp pháo ngay lập tức.</br>Nội tại: Tăng 20/24/28/32/36/40 Công vật lý, tăng gấp đôi ở dạng tháp pháo",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19220.png",
+                        "skillName": "Mìn Cảnh Giới",
+                        "skillDescription": "Hoàng Trung đặt mìn ở vị trí chỉ định có được tầm nhìn ở khu vực đó, gây 200/240/280/320/360/400 (+60% Công vật lý) sát thương vật lý lên mục tiêu đạp phải và làm mục tiêu lộ tầm nhìn trong 3s</br>Mìn nổ cũng làm chậm 25/30/35/40/45/50% và giảm 10/12/14/16/18/20% giáp lên kẻ đó trong 2s. Cũng nhận được lá chắn hấp thụ 320/384/448/512/576/640 (+4.5% Máu cộng thêm) sát thương trong 3s. Tối đa 2 mìn.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "8/7.7/7.4/7.1/6.8/6.5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19230.png",
+                        "skillName": "Tháp Pháo Hạng Nặng",
+                        "skillDescription": "Hoàng Trung nhảy đến vị trí chỉ định và dựng tháp pháo trở nên bất động và tăng song giáp thêm 200/300/400 trong 15s. Mỗi đòn đánh thường gây thêm 300/450/600 sát thương vật lý lên kẻ địch ở tủng tâm phạm vi và gây 60% sát thương lên kẻ địch ở rìa.</br>Tháp pháo cho phép bắn từ 5~9 đòn đánh thường (thay đổi khi lên cấp skill), tháp pháo sẽ tự động thoát ra. Sát thương khi tấn công công tình giảm 50%.</br>Nội tại: Hoàng Trung vào dạng tháp pháo sẽ hồi lại [Truy Kích Tiềm Năng]",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "80",
+                        "skillCD": "15/13.5/12s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19201",
+                    "skinName": "Pháo Đốt Linh Hồn",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "192-bigskin-1.jpg",
+                    "skinIcon": "192-smallskin-1.jpg",
+                    "keyHD": "16ANkWN2OTm7mGPNt7bsyfxDqWNLA2hz_"
+                },
+                {
+                    "skinID": "19202",
+                    "skinName": "Bố Già Chicago",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "192-bigskin-2.jpg",
+                    "skinIcon": "192-smallskin-2.jpg",
+                    "keyHD": "1AZfNZeX1eYqIhg095qsXTxKXNRA2CB8l"
+                },
+                {
+                    "skinID": "19203",
+                    "skinName": "Liệt Hồn",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "192-bigskin-3.jpg",
+                    "skinIcon": "192-smallskin-3.jpg",
+                    "keyHD": "1JShhCWK53aTrLTP8Ur4JrHpXvXs_sd-U"
+                },
+                {
+                    "skinID": "19204",
+                    "skinName": "Quý Ông Hoả Pháo",
+                    "skinQuality": "Epic",
+                    "skinTag": "HonorPass",
+                    "starSkin": false,
+                    "skinImage": "192-bigskin-4.jpg",
+                    "skinIcon": "192-smallskin-4.jpg",
+                    "keyHD": "1fawB4VXfMJrM4FROUNLxtvLDlzffRIXY"
+                },
+                {
+                    "skinID": "19205",
+                    "skinName": "Thuyền Trưởng Thần Công",
+                    "skinQuality": "Epic",
+                    "skinTag": "Worldly3",
+                    "starSkin": false,
+                    "skinImage": "192-bigskin-5.jpg",
+                    "skinIcon": "192-smallskin-5.jpg",
+                    "keyHD": "1jkFqcv-73_rmMIEaBmEsD_sATc7Qg0M_"
+                }
+            ]
+        },
+        "193": {
+            "idHero": 193,
+            "heroName": "Khải",
+            "globalName": "Kaizer",
+            "defaultSkin": "Nhẫn Phong Sụp Đổ",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19300.png",
+                        "skillName": "Linh Hồn Tu La",
+                        "skillDescription": "Khi đòn đánh thường và [Cực Đao Phong Bạo] của Khải chỉ tấn công một mục tiêu chúng sẽ gây thêm 50% sát thương.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19310.png",
+                        "skillName": "Đao Quay Vòng",
+                        "skillDescription": "Khải ném kiếm theo hướng chỉ định kiếm sẽ nảy qua lại giữa các mục tiêu mỗi mục tiêu chỉ trúng 1 lần, gây 280/336/392/448/504/560 (+85% Công vật lý cộng thêm) sát thương vật lý lên mục tiêu và làm chậm mục tiêu đi 15/18/21/24/27/30% trong 2s. Mục tiêu đầu tiên trúng phải bị làm chậm 90% trong 1s</br>Sau khi kiếm nảy xong sẽ thu về tay Khải giúp bản thân hồi 350/420/490/560/630/700 (+7% Máu cộng thêm) Máu và giảm thời gian hồi chiêu của kỹ năng đi 30%, đồng thời tăng 15/18/21/24/27/30% tốc chạy và 15/18/21/24/27/30% tốc đánh trong 3s",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "9/8.6/8.2/7.8/7.4/7s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19320.png",
+                        "skillName": "Cực Đao Phong Bạo",
+                        "skillDescription": "Khải chém hai lần theo hướng chỉ định, mỗi lần gây 150/180/210/240/270/300 (+55% Công vật lý cộng thêm) sát thương vật lý. Đòn chém thứ hai sẽ hất tung kẻ địch lên không trung trong 1s và cường hoá đòn đánh tiếp theo đột kích mục tiêu và gây thêm 125/150/175/200/225/250 (+32% Công vật lý cộng thêm) sát thương vật lý.</br>Nội tại: Sau khi rời khỏi giao tranh, Khải hồi phục 1% Máu tối đa và Năng lượng tối đa mỗi giây, đồng thời tăng 10/12/14/16/18/20 tốc chạy.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "40",
+                        "skillCD": "6/5.8/5.6/5.4/5.2/5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19330.png",
+                        "skillName": "Bất Diệt Ma Khu",
+                        "skillDescription": "Khải triệu hồi ma giáp, sau 1s sẽ gây thêm 250/375/500 (+25% Công vật lý cộng thêm) sát thương phép cho kẻ địch xung quanh, đồng thời tăng 100/150/200 Công vật lý, 400/600/800 Máu tối đa, 50 Tốc chạy, 60/90/120 Miễn thương.</br>Đồng thời mỗi 0.5s sẽ gây 50/75/100 (+16% Công vật lý cộng thêm) sát thương phép cho kẻ địch xung quanh, duy trì trong 8s.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "60/55/50s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19301",
+                    "skinName": "Nhẫn Phong Sụp Đổ",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-1.jpg",
+                    "skinIcon": "193-smallskin-1.jpg",
+                    "keyHD": "1aRYUMby72wBQ6AAJef5FFGwmKsoiB5of"
+                },
+                {
+                    "skinID": "19302",
+                    "skinName": "Lãnh Chúa Rồng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-2.jpg",
+                    "skinIcon": "193-smallskin-2.jpg",
+                    "keyHD": "1K4yWr6wlr6Q9BHVE3vX1jiyidbYIflTI"
+                },
+                {
+                    "skinID": "19303",
+                    "skinName": "Người Bảo Vệ Bình Minh",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19303",
+                            "starID": "1930301",
+                            "starName": "Người Phòng Ngự Bình Minh",
+                            "starImage": "19303-bigstar-1.jpg",
+                            "starIcon": "19303-smallstar-1.jpg",
+                            "starKeyHD": "1dGHyrUARv_Xwr6_ktyjcamCsYpOroUTI",
+                            "starTag": "StarEpic"
+                        },
+                        {
+                            "skinID": "19303",
+                            "starID": "1930302",
+                            "starName": "Ám Ảnh Niết Tinh",
+                            "starImage": "19303-bigstar-2.jpg",
+                            "starIcon": "19303-smallstar-2.jpg",
+                            "starKeyHD": "12X9Kf7bfY_Zav-T4CVAx620JXHCkGHTY",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "193-bigskin-3.jpg",
+                    "skinIcon": "193-smallskin-3.jpg",
+                    "keyHD": "19A7iHrdVO9uL2optGz84hc3pQ1OYWm6i"
+                },
+                {
+                    "skinID": "19304",
+                    "skinName": "Ý Chí Thanh Long",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-4.jpg",
+                    "skinIcon": "193-smallskin-4.jpg",
+                    "keyHD": "1WfHVUQlhy5F85_BHLkWEPWuvTPFW9bQU"
+                },
+                {
+                    "skinID": "19305",
+                    "skinName": "Chiến Giáp Giáng Thiên",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-5.jpg",
+                    "skinIcon": "193-smallskin-5.jpg",
+                    "keyHD": "1wIVwE9cfVRiMA8uBLpMAESsFPzF9HKcM"
+                },
+                {
+                    "skinID": "19306",
+                    "skinName": "Điêu Vịnh Thán Ngân Bạch",
+                    "skinQuality": "Mythic",
+                    "skinTag": "Mythic",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-6.jpg",
+                    "skinIcon": "193-smallskin-6.jpg",
+                    "keyHD": "1udrEFLns_y5Ib0mOv1DeKiMFiDEEK9a6"
+                },
+                {
+                    "skinID": "19307",
+                    "skinName": "Kỷ Nguyên Hổ Phách",
+                    "skinQuality": "Legend",
+                    "skinTag": "Limited",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-7.jpg",
+                    "skinIcon": "193-smallskin-7.jpg",
+                    "keyHD": "1oEyIKm-RoKblKlaU-s5UVPZovvzxwFwJ"
+                },
+                {
+                    "skinID": "19308",
+                    "skinName": "Minh Vương Hades",
+                    "skinQuality": "Legend",
+                    "skinTag": "SaintSeiya",
+                    "starSkin": false,
+                    "skinImage": "193-bigskin-8.jpg",
+                    "skinIcon": "193-smallskin-8.jpg",
+                    "keyHD": "12QoGDrvm6fb-pUTuxpG8CqN1OVNvYb5h"
+                }
+            ]
+        },
+        "194": {
+            "idHero": 194,
+            "heroName": "Tô Liệt",
+            "globalName": "",
+            "defaultSkin": "Thiết Bích Bất Khuất",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19400.png",
+                        "skillName": "Bất Khuất Thiết Bích",
+                        "skillDescription": "Khi Tô Liệt tử vong, hắn sẽ hồi lại 70% Máu tối đa nhưng rơi vào trạng thái suy yếu bị đứng yên tại chỗ không được phép hoạt động. Giảm 50 giavs vật lý và 25 giáp phép, duy trì trong 4.5s</br>Đồng thời, thắp 3 ngọn đèn xung quanh bản thân, đồng đội có thể chạm vào chúng giúp hồi lại 12% Máu tối đa. Khi cả 3 ngọn đèn đều được thắp lên trạng thái suy yếu sẽ kết thúc Khi kết thúc sẽ bùng nổ gây 150 (+100% Công vật lý) sát thương phép và làm chậm 50% kẻ địch trong 2s. Đồng thời tăng 50% Tốc đánh và 30% Tốc chạy cho bản thân trong 5s, tăng 60% tốc chạy cho đồng minh giảm dần theo thời gian trong 3s.</br>Nội tại có thời gian hồi chiêu là 120s. Khi không trong thời gian hồi chiêu Tô Liệt sẽ tăng 90 giáp vật lý và giáp phép.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19410.png",
+                        "skillName": "Khói Lửa Đạp Phá",
+                        "skillDescription": "Tô Liệt cường hoá 3 đòn đánh thường tiếp theo, mỗi đòn gây 115/138/161/184/207/230 (+100% Công vật lý) sát thương vật lý. Đòn đánh thứ ba sẽ hất tung kẻ địch trong phạm vi lên không trung trong 0.75s</br>Sau khi đòn đánh hoàn tất hoặc hiệu ứng cường hóa kết thúc, nó sẽ vào thời gian hồi chiêu.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19420.png",
+                        "skillName": "Đánh Đâu Thắng Đó",
+                        "skillDescription": "Tô Liệt lao tới theo hướng chỉ định, gây 180/216/252/288/324/360 (+55% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi và đẩy lùi chúng. Đẩy lùi mục tiêu vào tường sẽ gây thêm 50% sát thương và làm choáng 0.75s (Sát thương có hiệu lực với công trình)",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "80",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19430.png",
+                        "skillName": "Hào Liệt Vạn Quân",
+                        "skillDescription": "Tô Liệt vận lực lao tới và đập mạnh xuống đất, gây 250/375/500/(+150% Công vật lý) ~ 750/1125/1500 (+150% Công vật lý) sát thương vật lý lên kẻ địch và hất tung chúng trong 1s.</br>Khi kẻ địch rơi xuống đất, chúng sẽ gây ra một đợt sóng xung kích gây thêm 80% sát thương cho những kẻ địch gần đó và sát thương lên các đơn vị không phải anh hùng sẽ giảm một nửa.</br>Nội tại: Tô Liệt cộng hưởng với đất. Khi tung ra kỹ năng hoặc cường hoá các đòn đánh thường, anh ta gây 30/45/60 (+25% Công vật lý) sát thương phép lên kẻ địch xung quanh trong 3s. Khi lao tới, bạn sẽ nhận được hiệu ứng tăng tốc dần dần, với tốc chạy tăng tối đa là 20%. Thời gian vận lực sẽ ảnh hưởng đến sát thương và phạm vi của kỹ năng. 70% thời gian hồi chiêu của kỹ năng sẽ được hoàn lại khi quá trình vận lực bị hủy hoặc gián đoạn",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "45/40/35s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19401",
+                    "skinName": "Thiết Bích Bất Khuất",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "194-bigskin-1.jpg",
+                    "skinIcon": "194-smallskin-1.jpg",
+                    "keyHD": "1SYLEt89ce205p67y_tvYDHTU-LytLrNq"
+                },
+                {
+                    "skinID": "19402",
+                    "skinName": "Tình Yêu và Hoà Bình",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "194-bigskin-2.jpg",
+                    "skinIcon": "194-smallskin-2.jpg",
+                    "keyHD": "1hYlzh2cMs3I2WMRi6cBJgqr9d55Tp7KM"
+                },
+                {
+                    "skinID": "19403",
+                    "skinName": "Năng Lực Vững Chắc",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "194-bigskin-3.jpg",
+                    "skinIcon": "194-smallskin-3.jpg",
+                    "keyHD": "1EUIUFMDWvLKZYyGluOd15HQiwJKIobUz"
+                },
+                {
+                    "skinID": "19404",
+                    "skinName": "Ý Chí Huyền Vũ",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "194-bigskin-4.jpg",
+                    "skinIcon": "194-smallskin-4.jpg",
+                    "keyHD": "1_YlIvUPIAwcNwKHB1bo8a0o3qx4vxFQW"
+                },
+                {
+                    "skinID": "19405",
+                    "skinName": "Thiên Quân Phá Trận",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "194-bigskin-5.jpg",
+                    "skinIcon": "194-smallskin-5.jpg",
+                    "keyHD": "1qYzWw2b-7jqrhT8SPAGiLL4wHFQbNt1G"
+                }
+            ]
+        },
+        "195": {
+            "idHero": 195,
+            "heroName": "Huyền Sách",
+            "globalName": "XuanCe",
+            "defaultSkin": "Liềm Điên Cuồng",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19500.png",
+                        "skillName": "Tự Chương Cuồng Nhiệt",
+                        "skillDescription": "Huyền Sách sử dụng liềm xích để tấn công kẻ địch. Liềm gây thêm 25% Công vật lý sát thương vật lý cho kẻ địch ở xa và làm chậm 15% mục tiêu. Đồng thời cũng tăng 15% tốc chạy cho bản thân kéo dài trong 0.75~1.5s",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19510.png",
+                        "skillName": "Liềm Sắt Câu Thần",
+                        "skillDescription": "Huyền Sách lao về hướng chỉ định và cường hoá đòn đánh thường tiếp theo, gây sát thương vật lý tương đương 4% Máu tối đa (Mỗi 10 Công vật lý cộng thêm sẽ tăng 0.05% chỉ số sát thương).</br>Khi Huyền Sách đã móc mục tiêu bằng liềm nó sẽ kéo kẻ địch kẻ địch về phía bản thân một khoảng cách nhất định sau khi quá trình lướt kết thúc. Mỗi lần lên cấp kỹ năng hiệu ứng tăng tốc và làm chậm của kỹ năng 2 sẽ tăng 15/18/21/24/27/30%",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "40",
+                        "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19520.png",
+                        "skillName": "Móc Kéo Ác Mộng",
+                        "skillDescription": "Huyền Sách quay móc, tăng dần 30% tốc chạy và dần dần tăng phạm vi của móc. Khi nhả liềm sẽ phóng móc câu ra theo đường thằng, gây 300/360/420/480/540/600 (+140% Công vật lý cộng thêm) sát thương vật lý và khống chế kẻ địch ngắn hạn, móc sẽ bị thu lại khi đến điểm xa nhất.</br>Đánh dấu mục tiêu đầu tiên là mục tiêu săn đuổi, sát thương của Huyền Sách lên mục tiêu đó sẽ tăng 10/12/14/16/18/20% và sát thương của mục tiêu lên bản thân sẽ giảm 15/18/21/24/27/30%.</br>Trong thời gian dây xích khống chế tồn tại. có thể tung kỹ năng lần nữa, tiêu hao dấu vết săn bắt để hất mục tiêu ra phía sau lưng và gây 300/360/420/480/540/600 (+140% Công vật lý cộng thêm) sát thương vật lý, đồng thời tăng thêm 50% sát thương lên quái rừng.</br>Huỷ bỏ việc quăng xích sẽ giảm thời gian hồi chiêu kỹ năng đi 50%. Khi mục tiêu săn mồi chết hoặc móc câu móc phải, 40/48/56/64/72/80% thời gian hồi chiêu của kỹ năng sẽ được trả lại.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19530.png",
+                        "skillName": "Lưỡi Hái Tức Thời",
+                        "skillDescription": "Huyền Sách lao về phía sau mục tiêu bị xích móc phải, gây 360/540/720 (+200% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi. Nếu xích xa, bản thân sẽ lướt về phía trước theo móc một khoảng cách nhất định.</br>Khi không có mục tiêu nào bị móc, Huyền Sách sẽ lao vào mục tiêu và móc liềm vào mục tiêu gây 90/135/180 (+50% Công vật lý cộng thêm) sát thương vật lý cho mục tiêu. Huyền Sách giảm 50% sát thương phải chịu trong quá trình lướt.</br>Nội tại: Khi Huyền Sách hạ hoặc hỗ trợ, bản thân nhận 30% tốc chạy (giảm dần theo thời gian) và 25% tốc đánh kèo dài trong 5s. Hiệu ứng cộng dồn tối đa 3 lần.</br> Có thể tích luỹ kỹ năng sau mỗi 6/5.5/5s và có thể tích tối đa 3.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "35",
+                        "skillCD": "2/1.75/1.5s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19501",
+                    "skinName": "Liềm Điên Cuồng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "195-bigskin-1.jpg",
+                    "skinIcon": "195-smallskin-1.jpg",
+                    "keyHD": "12wg9dQGELH5gQ7JFaXp4Ycs9kxuHl2jd"
+                },
+                {
+                    "skinID": "19502",
+                    "skinName": "Lễ Hội Venice",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "195-bigskin-2.jpg",
+                    "skinIcon": "195-smallskin-2.jpg",
+                    "keyHD": "1xgsCFKDaKLdWRMA8SIWrHuiswGUOV8h8"
+                },
+                {
+                    "skinID": "19503",
+                    "skinName": "Ý Chí Bạch Hổ",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "195-bigskin-3.jpg",
+                    "skinIcon": "195-smallskin-3.jpg",
+                    "keyHD": "1f8tqOBNsCP10J1Km4CelpXkNxDuPK6_f"
+                },
+                {
+                    "skinID": "19504",
+                    "skinName": "Nhà Truy Đuổi Nguyên Sinh",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "195-bigskin-4.jpg",
+                    "skinIcon": "195-smallskin-4.jpg",
+                    "keyHD": "1KM-dECQaLaXMQ94Fc6Vbx70fSVLqvotY"
+                },
+                {
+                    "skinID": "19505",
+                    "skinName": "Sức Sống Tràn Đầy",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19505",
+                            "starID": "1950501",
+                            "starName": "Sói Mực Rừng Xám",
+                            "starImage": "19505-bigstar-1.jpg",
+                            "starIcon": "19505-smallstar-1.jpg",
+                            "starKeyHD": "12scKxQdz1E-2VgXV9rJpEORUSa8uxmia",
+                            "starTag": "StarEpic"
+                        },
+                        {
+                            "skinID": "19505",
+                            "starID": "1950502",
+                            "starName": "Sức Nóng Quay Vòng",
+                            "starImage": "19505-bigstar-2.jpg",
+                            "starIcon": "19505-smallstar-2.jpg",
+                            "starKeyHD": "12m7mpuou6Mxxe0m6spR-yVi74VA_0AsQ",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "195-bigskin-5.jpg",
+                    "skinIcon": "195-smallskin-5.jpg",
+                    "keyHD": "1vGyYcvAEf4I-n034ax2STDYTvcBNjkbw"
+                },
+                {
+                    "skinID": "19506",
+                    "skinName": "Siêu Nguyên Liệp Vực",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "195-bigskin-6.jpg",
+                    "skinIcon": "195-smallskin-6.jpg",
+                    "keyHD": "12gurLjge7exHRHlTqxKxeWQl1rqW6o_2"
+                }
+            ]
+        },
+        "196": {
+            "idHero": 196,
+            "heroName": "Thủ Ước",
+            "globalName": "Shouyue",
+            "defaultSkin": "Đôi Mắt Tĩnh Lặng",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19600.png",
+                        "skillName": "Ngắm Chuẩn",
+                        "skillDescription": "Thủ Ước nhận 1 lớp Phục Kích mỗi 2s khi ở rời khỏi giao tranh, tối đa 5 lớp. Mỗi lớp Phục Kích giúp Thủ Ước nhận 20% Xuyên Giáp Vật Lý và 70~140 (+15% Công vật lý cộng thêm) sát thương đòn đánh thường. Mỗi đòn đánh thường trúng sẽ tiêu thụ 1 lớp Phục Kích, kỹ năng trúng mục tiêu sẽ tiêu thụ 5 lớp Phục Kích. Chuẩn xác: Mỗi 1% Tỉ lệ chí mạng, sẽ gây thêm 4 sát thương cho kỹ năng 2 và 2 sát thương cho kỹ năng 3",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19610.png",
+                        "skillName": "Cặp Mắt Tĩnh Lặng",
+                        "skillDescription": "Đặt rada định vị tại vị chí bản thân đang đứng nhận được tầm nhìn trong phạm vi 600 - 1000 (tăng theo cấp kỹ năng) trong 300s. Bản thân sẽ tích lũy 1 rada mỗi 35/34/33/32/31/30s, tối đa tích lũy 3. Rada có thể bị phá hủy bởi kẻ địch đứng trên nó, càng nhiều kẻ địch đạp vào rađa thời gian phá hủy càng nhanh. Nội tại: Khi rời khỏi giao tranh và đứng gần địa hình tự nhiên hoặc khu vực rada chiếu sáng, Thủ Ước sẽ tiến hành ẩn thân nhận 15/18/21/24/27/30% Tốc chạy và 15/18/21/24/27/30% Tốc đánh, khi thoát khỏi trạng thái ẩn thân, tốc đánh tăng thêm sẽ tồn tại trong 3s.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "30",
+                        "skillCD": "1.5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19620.png",
+                        "skillName": "Đạn Cuồng Phong",
+                        "skillDescription": "Thủ Ước bắn tỉa theo hướng chỉ định gây 600/720/840/960/1080/1200 (+250% Công vật lý cộng thêm) sát thương vật lý kèm theo sát thương vật lý bằng 8% Máu tối đa của mục tiêu lên kẻ trúng phải và làm chậm 90% trong 0.5s. Ngắm bắn sẽ mất 2s để đạt tầm ngắm tối đa.</br>Tích trữ 1 viện đạn mỗi 15/14.4/13.8/13.2/12.6/12s. Tối đa 3 viên, đòn đánh thường trúng giúp giảm thời gian tích đi 4%. Khi tốc đánh đạt 40/80/120/160%, thời gian nhắm giảm đi 0.25/0.5/0.75/1s. Thời gian thoát khỏi trạng thái nhắm cũng đồng thời được giảm tương tự.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "1.5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19630.png",
+                        "skillName": "Tẩu Thoát",
+                        "skillDescription": "Thủ Ước nhảy về phía sau và bắn theo hướng đã định, gây 400/600/800 (+150% Công vật lý) sát thương vật lý và giảm 15/22.5/30% Tốc chạy của mục tiêu trong 2s. Sau khi tiếp đất, bản thân sẽ tăng 15/22.5/30% Tốc chạy trong 2s, đòn đánh thường hoặc kỹ năng sẽ ngay lập tức ngừng tăng Tốc chạy.</br>Nội tại: Mỗi khi nâng cấp kỹ năng, Thủ Ước sẽ được tăng 30 tầm đánh thường. Số lượng đạn của kỹ năng này được đồng bộ với kỹ năng 2",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "100",
+                        "skillCD": "1.5s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19601",
+                    "skinName": "Đôi Mắt Tĩnh Lặng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "196-bigskin-1.jpg",
+                    "skinIcon": "196-smallskin-1.jpg",
+                    "keyHD": "12zFRSCkwrIs7WuwCZJu8g8_uShYkOkYG"
+                },
+                {
+                    "skinID": "19602",
+                    "skinName": "Tuyệt Ảnh Thần Súng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "196-bigskin-2.jpg",
+                    "skinIcon": "196-smallskin-2.jpg",
+                    "keyHD": "183rSOwyX4Y6SIRU74pxOZu0zrbvWOzMn"
+                },
+                {
+                    "skinID": "19603",
+                    "skinName": "Đặc Công Mị Ảnh",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19603",
+                            "starID": "196031",
+                            "starName": "Phản Quang Tân Sinh",
+                            "starImage": "19603-bigstar-1.jpg",
+                            "starIcon": "19603-smallstar-1.jpg",
+                            "starKeyHD": "1okOBPHrMA-2bbnqDMfGp5LGPxK9O6NB0",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "196-bigskin-3.jpg",
+                    "skinIcon": "196-smallskin-3.jpg",
+                    "keyHD": "1Obp0vgDwi4V3fMy5_P3KHHNYzvlXjXda"
+                },
+                {
+                    "skinID": "19604",
+                    "skinName": "Ý Chí Chu Tước",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "196-bigskin-4.jpg",
+                    "skinIcon": "196-smallskin-4.jpg",
+                    "keyHD": "14wLoGGKnFs_7U-H20oDp0LuKvoRipiyV"
+                },
+                {
+                    "skinID": "19605",
+                    "skinName": "Toái Vân",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "196-bigskin-5.jpg",
+                    "skinIcon": "196-smallskin-5.jpg",
+                    "keyHD": "1YycWMeckwnHoC4NY6JgKZQYtFQR8PAUN"
+                },
+                {
+                    "skinID": "19606",
+                    "skinName": "True Hertz",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "196-bigskin-6.jpg",
+                    "skinIcon": "196-smallskin-6.jpg",
+                    "keyHD": "1hYOwADqaaQidCr5jK76zuqfyB19Oav2C"
+                },
+                {
+                    "skinID": "19607",
+                    "skinName": "Bá Tướng Thủ Mộng",
+                    "skinQuality": "Epic",
+                    "skinTag": "HonorPass",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19607",
+                            "starID": "1960701",
+                            "starName": "Bá Tướng Hộ Tâm",
+                            "starImage": "19607-bigstar-1.jpg",
+                            "starIcon": "19607-smallstar-1.jpg",
+                            "starKeyHD": "13-gOjh2A1hH9f-4rN4Pac2Wdb3t_H2xA",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "196-bigskin-7.jpg",
+                    "skinIcon": "196-smallskin-7.jpg",
+                    "keyHD": "1H_3NR5qPqvUnEYPI-bThujptbZyOO4mE"
+                }
+            ]
+        },
+        "197": {
+            "idHero": 197,
+            "heroName": "Dịch Tinh",
+            "globalName": "Yi Xing",
+            "defaultSkin": "Đệ Nhất Cờ Vây",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19700.png",
+                        "skillName": "Khí Hợp",
+                        "skillDescription": "Đòn đánh thường của Dịch Tinh gây sát thương phép. Bất kỳ kỹ năng nào đánh trúng mục tiêu sẽ để lại 1 ấn. Khi đủ 4 ấn sẽ tạo một quân cờ dưới chân kẻ địch gây 100 (+10% Công phép) sát thương phép và tích luỹ một cờ cho bản thân. Khi hạ hoặc hỗ trợ bản thân sẽ nhận 5 cờ trong mỗi 60s. Mỗi quân cơ sẽ tăng 1 Công phép cho Dịch Tinh. Các quân cờ tạo bởi nội tại sẽ bị hút vào trung tâm của [Trấn Thần] gây 170 (+11% Công phép) sát thương phép cho kẻ địch đường đường nó đi qua.</br>Nếu nhận phải sát thương chí tử, bản thân sẽ hoà vào hư không và đặt 1 quân cờ dưới chân, miễn nhiễm với mọi loại sát thương tăng 30% tốc chạy trong 1s. Hiệu ứng này có thời gian hồi chiêu là 150s.</br>Kẻ địch bị tấn công bởi cờ nhiều lần trong thời gian ngắn sát thương tiếp theo sẽ giảm 50%.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19710.png",
+                        "skillName": "Phi Công",
+                        "skillDescription": "Dịch Tinh đặt cờ tại vị trí chỉ định có được tầm nhìn tại khu vực thi triển trong 3s gây 100/120/140/160/180/200 (+18% Công phép) sát thương phép và giảm thời gian hồi chiêu của [Trấn Thần] đi 0.5s. Quân cờ tồn tại trong 12s, nếu quân cờ nằm trong phạm vi của [Trấn Thần] nó sẽ gây 180/216/252/288/324/360 (+36% Công phép) sát thương phép và làm chậm 25/30/35/40/45/50% trong 1s cho kẻ địch nó va phải.</br>Sau khi đánh trúng, sẽ được cường hoá đòn đánh thường gây 120 (+60% Công vật lý) (+18% Công phép) sát thương phép.</br> Khi số cờ bản thân ở hữu đạt 50/110/181, có thể nhấp vào kỹ năng cường hoá để cường hoá đánh thường đồng thời nhận được gia tốc bùng nổ trong 5s. Sau khi cường hoá đòn đánh sẽ nhận được đòn đánh lan/tăng 17% sát thương/tăng 34% sát thương tuỳ thuộc vào số cờ bản thân đang có.</br>Mỗi 6s sẽ tích cho kỹ năng 1 quân cờ, tối đa 2 cờ. Nếu sát thương tấn công kẻ địch liên tục trong vòng 0.5s sát thương giảm còn 50% và hiệu ứng đòn đánh giảm còn 30%.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "30",
+                        "skillCD": "1.5/1.4/1.3/1.2/1.1/1s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19720.png",
+                        "skillName": "Trấn Thần",
+                        "skillDescription": "Dịch Tinh mở ma trận cờ tại vị trí chỉ định gây 160/192/224/256/288/320 (+25% Công phép) sát thương phép lên khu vực chỉ định sau đó mở phạm vi của ma trận cờ ra. Đồng thời kẻ địch ở trung tâm sẽ bị hút vào giữa gây thêm 160/192/224/256/288/320 (+25% Công phép) sát thương phép</br>Ma trận cờ sẽ tồn tại trong 10s, mỗi khi bản thân hoặc kẻ địch đi qua phạm vi của ma trận cờ sẽ được tăng tốc hoặc làm chậm 50%, hiệu ứng này kích hoạt nhiều nhất 1 lần.</br>Khi ở khoảng cách quá xa, ma trận cờ sẽ biến mất. Kỹ năng này tăng 180% sát thương lên đơn vị không phải anh hùng.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "65",
+                        "skillCD": "11/10.6/10.2/9.8/9.4/9s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19730.png",
+                        "skillName": "Bàn Cờ Vạn Biến",
+                        "skillDescription": "Dịch Tinh dùng bản thân làm 1 góc để vẽ bàn cờ. Sau 1.5s bàn cờ sẽ được vẽ hoàn chỉnh và kẻ địch trong bàn cờ sẽ bị hất tung 0.5s</br>Bàn cờ tồn tại trong 4s, trong thời gian đó kẻ địch trong bàn cờ không thể rời khỏi bàn cờ. Bàn cờ liên tục chồng 3 dấu ấn nội tại lên tướng địch và làm lộ tầm nhìn của chúng. Nếu bẫy được đối phương, Dịch Tinh nhận được tích luỹ [Phi Công], diện tích bàn cờ càng nhỏ thời gian hồi chiêu của kỹ năng càng ngắn, có thể giảm tới 25%.</br>Trong lúc hình thành bàn cờ, Dịch Tinh sẽ nhận 30~70% tốc chạy giảm dần theo thời gian.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "100",
+                        "skillCD": "60/57.5/55s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19701",
+                    "skinName": "Đệ Nhất Cờ Vây",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "197-bigskin-1.jpg",
+                    "skinIcon": "197-smallskin-1.jpg",
+                    "keyHD": "1pT6AJdmYxHeV4stF-ZJluOm8kwOqaSFM"
+                },
+                {
+                    "skinID": "19702",
+                    "skinName": "Đạp Tuyết Tìm Mai",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "197-bigskin-2.jpg",
+                    "skinIcon": "197-smallskin-2.jpg",
+                    "keyHD": "16aEy-MJ50qqil7EEN9IhDD1Lc6D86wKC"
+                },
+                {
+                    "skinID": "19703",
+                    "skinName": "Hỗn Độn Kỳ",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "197-bigskin-3.jpg",
+                    "skinIcon": "197-smallskin-3.jpg",
+                    "keyHD": "1FYGf7huq-Ki7dRXVQB2qHWxmlv_ujXZu"
+                },
+                {
+                    "skinID": "19704",
+                    "skinName": "Đằng Vương Các Tự",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "197-bigskin-4.jpg",
+                    "skinIcon": "197-smallskin-4.jpg",
+                    "keyHD": "1OL-1-WI3dERNFRMF3gBef-Kl_dnwCFDw"
+                },
+                {
+                    "skinID": "19705",
+                    "skinName": "Sí Dực Liệu Nguyên",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "197-bigskin-5.jpg",
+                    "skinIcon": "197-smallskin-5.jpg",
+                    "keyHD": "19dk0oA00MTv4LXNgLesRaGRfB7A_vLIi"
+                },
+                {
+                    "skinID": "19706",
+                    "skinName": "Con Đường Vạn Vật",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "197-bigskin-6.jpg",
+                    "skinIcon": "197-smallskin-6.jpg",
+                    "keyHD": "1AECVGj_CQ3lZSs3awdbA9Ul_xPPWYT9_"
+                }
+            ]
+        },
+        "198": {
+            "idHero": 198,
+            "heroName": "Mộng Kỳ",
+            "globalName": "Menki",
+            "defaultSkin": "Linh Hồn Vào Mộng",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19800.png",
+                        "skillName": "Thực Mộng",
+                        "skillDescription": "Mộng Kỳ sẽ tăng kích thước cơ thể và nhận điểm mộng mị mỗi khi dùng kỹ năng. Mỗi 10 điểm mộng mị sẽ tăng 6 Công vật lý và 8 Giáp vật lý và giáp phép. Mộng Kỳ tiêu thụ 5/15 điểm mộng mị mỗi giây trong trạng thái giao tranh/không giao tranh",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19810.png",
+                        "skillName": "Mộng Cảnh Vương Vấn",
+                        "skillDescription": "Mộng Kỳ tạo lá chắn mơ mộng giúp hấp thụ 175/210/245/280/315/350 (+150% Công vật lý) sát thương tồn tại trong 4s đồng thời gây 250/300/350/400/450/500 (+60% Công vật lý) sát thương phép và tăng 30 điểm mộng mị.</br>Đòn đánh thường trúng kẻ địch giúp giảm thời gian hồi chiêu kỹ năng đi 0.5~1s",
+                        "skillPreview": "",
+                        "skillCD": "6s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19820.png",
+                        "skillName": "Bong Bóng Mộng Lực",
+                        "skillDescription": "Mộng Kỳ ném ra 1 bóng bóng giấc mơ và tăng 30% Tốc chạy trong 2s. Khi bong bóng lần đầu bay về bản thân. Mộng Kỳ sẽ ném nó 1 lần nữa vào kẻ địch gần đó. Bong bóng gây ra 130/152/174/196/218/240 (+20% Công phép) sát thương phép và làm chậm đối phương (1% cho mỗi 25 Công vật lý) trên đường bay, kéo dài 2s. Hiệu ứng làm chậm có thể cộng dồn tối đa 4 lớp.</br>Mông Kỳ nhận được 30 điểm mộng mị sau khi thu hồi bong bóng, và bong bóng biến thành Bom Mộng Lực sẽ gây 100 (+24% Công phép) ~ 550 (+132% Công phép) sát thương phép cho kẻ địch trúng phải sau khi bị ném.</br>Bong Bóng Mộng Lực bay càng lâu sát thương càng cao. Tích lũy tối đa 5.5s",
+                        "skillPreview": "",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19830.png",
+                        "skillName": "Bay Vòng Mộng Cảnh",
+                        "skillDescription": "Mộng Kỳ thực hiện 1 chuyến du hành trong mơ, trong thời gian này tiếp tục tăng thêm năng lượng, gây 150/225/300 (+30% Công vật lý)(+30% Công phép) sát thương phép lên kẻ địch trên bay.</br>Khi bắt đầu bay sẽ nhận được hiệu ứng miễn nhiễm. Tái kích hoạt sẽ ngừng chuyến bay, gây 150 (+30% Công vật lý)(+30% Công phép) sát thương phép và hất tung kẻ địch trong phạm vi 0.75s",
+                        "skillPreview": "",
+                        "skillCD": "40/35/30s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19801",
+                    "skinName": "Linh Hồn Vào Mộng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "198-bigskin-1.jpg",
+                    "skinIcon": "198-smallskin-1.jpg",
+                    "keyHD": "13jMhfOnZ5JGlfN_txZgovBZVcbBOTKuV"
+                },
+                {
+                    "skinID": "19802",
+                    "skinName": "Giấc Mộng Thành Thật",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "198-bigskin-2.jpg",
+                    "skinIcon": "198-smallskin-2.jpg",
+                    "keyHD": "1lXXMDVMIvxnFq0o4ERnMMT30nqpfbIw9"
+                },
+                {
+                    "skinID": "19803",
+                    "skinName": "Gấu Trúc Vinh Vinh",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "198-bigskin-3.jpg",
+                    "skinIcon": "198-smallskin-3.jpg",
+                    "keyHD": "1P2ZSjQc0mXGHK9xmOy0mJs8nf7X8s-XZ"
+                },
+                {
+                    "skinID": "19804",
+                    "skinName": "Phúc Tinh Từ Trời",
+                    "skinQuality": "Epic",
+                    "skinTag": "Limited",
+                    "starSkin": false,
+                    "skinImage": "198-bigskin-4.jpg",
+                    "skinIcon": "198-smallskin-4.jpg",
+                    "keyHD": "1siknc34QJg1LvQXrnp2GGybXQH8cn5_e"
+                },
+                {
+                    "skinID": "19805",
+                    "skinName": "Nghịch Ngợm",
+                    "skinQuality": "Epic",
+                    "skinTag": "Grandmaster",
+                    "starSkin": false,
+                    "skinImage": "198-bigskin-5.jpg",
+                    "skinIcon": "198-smallskin-5.jpg",
+                    "keyHD": "1yUa4ocnWpmFsBrwJ6u_A0FZnPC6d9WNZ"
+                }
+            ]
+        },
+        "199": {
+            "idHero": 199,
+            "heroName": "Công Tôn Ly",
+            "globalName": "Arli",
+            "defaultSkin": "Ảo Vũ Linh Lung",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "19900.png",
+                        "skillName": "Mây Muộn Đáp Xuống",
+                        "skillDescription": "Đòn đánh thường để lại dấu ấn lá phong lên mục tiêu, khi đủ 4 lớp lá phong sẽ kích nổ gây 110~220 (+30% Công vật lý) sát thương vật lý lên kẻ địch xung quanh và để lại thêm 1 dấu ấn lá phong lên các đơn vị xung quanh. Sau ném ô ra hoặc thu ô lại, đòn đánh thường tiếp theo sẽ tung ra một đòn đánh thường khác gây ra 10~20 (+30% Công vật lý) sát thương vật lý.</br>Sau khi tung kỹ năng, tái kích hoạt sẽ dịch chuyển bản thân đến vị trí của ô. Khi không có ô trong tay, bản thân sẽ nhận thêm 30~60 tốc chạy và tăng 10~20% tốc đánh (tăng theo cấp độ).</br>Các đòn đánh cường hoá có thể trữ tối đa 2 lần, kèo dài 4s.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19910.png",
+                        "skillName": "Đạp Núi Lên Trăng",
+                        "skillDescription": "A Ly lướt nhanh đến theo hướng chỉ định và để lại ô ở vị trí cũ (nếu ô đang trong tay A Ly)",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19920.png",
+                        "skillName": "Sương Diệp Vũ",
+                        "skillDescription": "A Ly xoay vòng và điều khiển ô bay (nếu ô trong tay A Ly), bắn hạ các vật thể bay và gây 2 lần sát thương trong phạm vi mỗi lần gây 180/240/300/360/420/480 (+65% Công vật lý) sát thương phép.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "12/11.6/11.2/10.8/10.4/10s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "19930.png",
+                        "skillName": "Chim Cô Mây Màu",
+                        "skillDescription": "A Ly đẩy lùi kẻ địch trước mặt, gây 250/375/500 (+80% Công vật lý) sát thương phép và ném ô theo hướng chỉ định (nếu ô nằm trong tay A Ly)",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "90",
+                        "skillCD": "25/20/15s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "19901",
+                    "skinName": "Ảo Vũ Linh Lung",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-1.jpg",
+                    "skinIcon": "199-smallskin-1.jpg",
+                    "keyHD": "10G_B1B1ozpZp1FZvkLW_wlQMpaA5YvFc"
+                },
+                {
+                    "skinID": "19902",
+                    "skinName": "Vũ Điêu Hoa Gian",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-2.jpg",
+                    "skinIcon": "199-smallskin-2.jpg",
+                    "keyHD": "1PnAuiszylexw_QMuOinMctx6aOFhyfbr"
+                },
+                {
+                    "skinID": "19903",
+                    "skinName": "Vô Hạn Tinh Thưởng Quan",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19903",
+                            "starID": "1990301",
+                            "starName": "Trục Tinh Truy Lạc",
+                            "starImage": "19903-bigstar-1.jpg",
+                            "starIcon": "19903-smallstar-1.jpg",
+                            "starKeyHD": "10FoIMCuXcmTyZQnZY-hKBJP8pw4V27Hi",
+                            "starTag": "StarEpic"
+                        },
+                        {
+                            "skinID": "19903",
+                            "starID": "1990302",
+                            "starName": "Bạch Ngọc Mộng Ảnh",
+                            "starImage": "19903-bigstar-2.jpg",
+                            "starIcon": "19903-smallstar-2.jpg",
+                            "starKeyHD": "13AnmbH2xFRV2YNttruI-5iGoU27VYXrs",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "199-bigskin-3.jpg",
+                    "skinIcon": "199-smallskin-3.jpg",
+                    "keyHD": "13AKf8jkAqoXAx1aKpWyc6yjIdTyamqgK"
+                },
+                {
+                    "skinID": "19904",
+                    "skinName": "Quýt Ngọt Mùa Hạ",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "19904",
+                            "starID": "1990401",
+                            "starName": "Hello Kitty",
+                            "starImage": "19904-bigstar-1.jpg",
+                            "starIcon": "19904-smallstar-1.jpg",
+                            "starKeyHD": "101zr7mBShz2sZkp40Z-hP4fFnrogkvHF",
+                            "starTag": "HelloKitty"
+                        }
+                    ],
+                    "skinImage": "199-bigskin-4.jpg",
+                    "skinIcon": "199-smallskin-4.jpg",
+                    "keyHD": "1JmVfe4P3IKjI3gWkSR4J6TeDpbW7GrzJ"
+                },
+                {
+                    "skinID": "19905",
+                    "skinName": "Kỳ Tuyết Linh Chúc",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-5.jpg",
+                    "skinIcon": "199-smallskin-5.jpg",
+                    "keyHD": "1A6ftBDRZA8TuR7moHuDzX24NmUveGDw9"
+                },
+                {
+                    "skinID": "19906",
+                    "skinName": "Ngọc Thố Công Chúa",
+                    "skinQuality": "Epic",
+                    "skinTag": "JourneyToTheWest",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-6.jpg",
+                    "skinIcon": "199-smallskin-6.jpg",
+                    "keyHD": "13dlxqF6-TAgTxmxZmwwOu1j5VZD8xJ02"
+                },
+                {
+                    "skinID": "19907",
+                    "skinName": "Lõi Ký Ức",
+                    "skinQuality": "Legend",
+                    "skinTag": "Limited",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-7.jpg",
+                    "skinIcon": "199-smallskin-7.jpg",
+                    "keyHD": "1kpCQs9-7AgagTPJVaa5q-LoKtmb65DbV"
+                },
+                {
+                    "skinID": "19908",
+                    "skinName": "Ly Hận Yên",
+                    "skinQuality": "Flawless",
+                    "skinTag": "Flawless",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-8.jpg",
+                    "skinIcon": "199-smallskin-8.jpg",
+                    "keyHD": "13GTnNgiyzf2zbyEWWr0aFxrpILQqzuI3"
+                }
+            ]
+        },
+        "312": {
+            "idHero": 312,
+            "heroName": "Thẩm Mộng Khê",
+            "globalName": "CatBoom",
+            "defaultSkin": "Bom Mèo Quái Dị",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "31200.png",
+                        "skillName": "Tiết Tấu Táo Bạo",
+                        "skillDescription": "Kỹ năng của mèo sẽ đốt cháy mục tiêu, kẻ địch bị đốt sẽ lộ tầm nhìn trong 3s. Sử dụng đòn đánh thường đánh vào kẻ địch bị đốt cháy sẽ kích hoạt vụ nổ gây 100 (+16% Công phép) sát thương phép cho kẻ địch gần đó. Mộng Khê sẽ hồi lại 3 quả bom khi hồi sinh sau khi chết",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "31210.png",
+                        "skillName": "Bom Mèo",
+                        "skillDescription": "Mộng Khê vận lực để ném bom tới vị trí mục tiêu sau mỗi 0.75s gây 325/390/455/520/585/650 (+60% Công phép) sát thương phép.</br>Trạng thái tự bốc cháy: Mộng Khê sẽ ném 1 quả bom vào mục tiêu chỉ định đẩy lùi chúng và gây 25/390/455/520/585/650 (+60% Công phép) sát thương phép. Đồng thời, quả bom sẽ rơi xuống mặt đất sau khi trúng mục tiêu và phát nổ gây ra sát thương tương đương.</br>Thời gian hồi chiêu khi sử dụng kỹ năng ở trạng thái tự bốc cháy là 5s. Mộng Khê có tổng 10 quả bom, mỗi lần ném bom sẽ tiêu hao 1 quả có thể ném liên tiếp 5 quả bom. Mỗi 5s sẽ tự động tích luỹ 1 quả bom, bị ảnh hưởng bởi cơ chế hồi chiêu.",
+                        "skillPreview": "",
+                        "manaType": "Bom",
+                        "manaCost": "1",
+                        "skillCD": "3s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "31220.png",
+                        "skillName": "Thao Tác Thông Thường",
+                        "skillDescription": "Mộng Khê tự đốt đuôi của bản thân tăng 50/60/70/80/90/100% tốc chạy giảm dần theo thời gian. Trong 5s, có thể chủ động kích nổ quả bom và lướt theo hướng chỉ định. Đồng thời, kẻ địch trên đường lướt sẽ bị choáng trong 0.75s và gây 500/560/620/680/740/800 (+65% Công phép) sát thương phép. Nếu không tự kích nổ, lửa sẽ tắt sau 5s và bom sẽ được hoàn trả lại.</br>Kỹ năng và hồi chiêu của [Bom Mèo] sẽ thay đổi khi bốc cháy",
+                        "skillPreview": "",
+                        "manaType": "Bom",
+                        "manaCost": "1",
+                        "skillCD": "12/11.5/11/10.5/10/9.5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "31230.png",
+                        "skillName": "Bom Nổ Tổng Hợp",
+                        "skillDescription": "Sau khi chuẩn bị, Mộng Khê sẽ ném một quả bom tổng hợp lên không trung tại vị trí chỉ định rồi rơi xuống đất gây 500/700/900 (+50% Công phép) sát thương phép cho kẻ địch và gây 250/350/450 (+25% Công phép) sát thương phép trong vòng 2s.</br> Đồng thời, bom tách ra 3 quả bom nhỏ phân tán xung quanh gây 250/350/450 (+25% Công phép) sát thương phép lên kẻ địch.</br>Mỗi 50/45/40s sẽ tích luỹ một quả bom tổng hợp. Tích luỹ tối đa 2 quả, tốc độ tích luỹ bị ảnh hưởng bởi cơ chế hồi chiêu.",
+                        "skillPreview": "",
+                        "manaType": "Bom",
+                        "manaCost": "0",
+                        "skillCD": "5s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "31201",
+                    "skinName": "Bom Mèo Quái Dị",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-1.jpg",
+                    "skinIcon": "312-smallskin-1.jpg",
+                    "keyHD": "10QbV7SoIZuDt2mo7m97FYkxwI9K-ZTx0"
+                },
+                {
+                    "skinID": "31202",
+                    "skinName": "Thiên Tài Bóng Chày",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-2.jpg",
+                    "skinIcon": "312-smallskin-2.jpg",
+                    "keyHD": "1c0tr_O6gTVCFOue7XsLw3DsY_GV0Pqqm"
+                },
+                {
+                    "skinID": "31203",
+                    "skinName": "Cướp Biển Mèo Cá Mập",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-3.jpg",
+                    "skinIcon": "312-smallskin-3.jpg",
+                    "keyHD": "1nWDs-fVZj3yFTSGojtOKovcoSEEc49sO"
+                },
+                {
+                    "skinID": "31204",
+                    "skinName": "Lười Hứa Tinh Không",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-4.jpg",
+                    "skinIcon": "312-smallskin-4.jpg",
+                    "keyHD": "1s5yTRwkP8mMivd8k-aVi0E4dpm1jz2gR"
+                },
+                {
+                    "skinID": "31205",
+                    "skinName": "Nguyệt Đoàn Ký Tư",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-5.jpg",
+                    "skinIcon": "312-smallskin-5.jpg",
+                    "keyHD": "1UC4o02lZKuVz5He-mZsVtDHPcoDyDtx0"
+                },
+                {
+                    "skinID": "31206",
+                    "skinName": "Thương Nhân Sa Mạc",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-6.jpg",
+                    "skinIcon": "312-smallskin-6.jpg",
+                    "keyHD": "13lhDD2ilOFo_vhYE99_HPtgT_6MBKJZb"
+                },
+                {
+                    "skinID": "31207",
+                    "skinName": "Nạc Quang Phá Giải Giả",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-7.jpg",
+                    "skinIcon": "312-smallskin-7.jpg",
+                    "keyHD": "13i8i0RmQv6-S0zUmr347EQtjsllgOmda"
+                },
+                {
+                    "skinID": "31208",
+                    "skinName": "Múa Rồng Thịnh Niên",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "312-bigskin-8.jpg",
+                    "skinIcon": "312-smallskin-8.jpg",
+                    "keyHD": "1BDJYRvuVaDAhAxVifnCnXyqXc_G1SwXR"
+                }
+            ]
+        },
+        "501": {
+            "idHero": 501,
+            "heroName": "Minh Thế Ẩn",
+            "globalName": "Ming",
+            "defaultSkin": "Bặc Kiếp Linh Hồn",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50100.png",
+                        "skillName": "Đại Cát Đại Lợi",
+                        "skillDescription": "Mỗi 5s, đòn đánh thường tiếp theo sẽ được cường hoá gây 70~140 (+20% Công phép) sát thương phép, đồng thời hồi phục cho bản thân và đòng minh được liên kết 225~450 (+40% Công phép) (+4% Máu cộng thêm của bản thân) Máu. Nếu đơn vị trúng đòn không phải là tướng, hồi phục chỉ còn 50%",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50110.png",
+                        "skillName": "Lâm Quái - Vô Ưu",
+                        "skillDescription": "Tiểu Minh tung ma pháp liên kết với 1 đồng minh, nếu trượt nó sẽ tự động tìm kiếm đồng minh trong phạm vi để liên kết. Liên kết thành công sẽ tăng thuộc tính tấn công chính thêm 20/24/28/32/36/40(+10% Công phép) và 10/12/14/16/18/20% tốc đánh.</br>Kẻ địch chạm phải dây liên kết sẽ phải chịu 25/30/35/40/45/50(+25% Công phép) sát thương phép mỗi 0.5s</br>Nội tại: Tăng 30/36/42/48/54/60 Công vật lý, 65/78/91/104/117/130 Công phép, 7.5/9/10.5/12/13.5/15% Tốc chạy",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "3s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50120.png",
+                        "skillName": "Sư Quái - Phi Dực",
+                        "skillDescription": "Tiểu Minh ném ma pháp liên kết với 1 kẻ địch, nếu trượt nó sẽ tự động tìm kiếm kẻ địch trong phạm vi để liên kết. Liên kết thành công sẽ làm giảm giáp phép và giáp vật lý đi 10/12/14/16/18/20%. Kẻ địch chạm phải dây liên kết sẽ phải chịu 25/30/35/40/45/50(+25% Công phép) sát thương phép mỗi 0.5s</br>Nội tại: Tăng giáp vật lý và giáp phép thêm 15/18/21/24/27/30%. Kẻ địch bị liên kết sẽ lộ tầm nhìn",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "3s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50130.png",
+                        "skillName": "Thái Quái - Trường Sinh",
+                        "skillDescription": "Sau khi niệm chú một thời gian ngắn, bản thân sẽ phóng cầu năng lượng vào mục tiêu bị liên kết, nó sẽ gây sát thương chuẩn lên kẻ địch hoặc hồi phục máu cho đồng minh.</br>Tiểu Minh sẽ hiến tế 600/900/1200 (+125% Công phép) Máu của bản thânđể gây sát thương chuẩn tương đương cho kẻ địch được liên kết hoặc hồi lại máu tương đương. Nếu đang liên kết với 2 mục tiêu, Tiểu Minh sẽ rút 600/900/1200 (+125% Công phép) Máu từ kẻ địch để truyền cho đồng minh.</br>Nếu mục tiêu liên kết bị chết trong khi niệm chú, 705 hồi chiêu được trả lại. Đồng thời lượng máu và Tiểu Minh đã tiêu hao sẽ phục hồi từ từ trong 5s",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "40/35/30s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50101",
+                    "skinName": "Bặc Kiếp Linh Hồn",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-1.jpg",
+                    "skinIcon": "501-smallskin-1.jpg",
+                    "keyHD": "1Q0lIfXqWXVSCnLaYypp2Iw2AtVNbMsj-"
+                },
+                {
+                    "skinID": "50102",
+                    "skinName": "Chiêm Tinh Sư",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-2.jpg",
+                    "skinIcon": "501-smallskin-2.jpg",
+                    "keyHD": "1AXvU_m2SwlAWTBsrYMB77ugOe0np2FLd"
+                },
+                {
+                    "skinID": "50103",
+                    "skinName": "Hồng Vân Tinh Quân",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-3.jpg",
+                    "skinIcon": "501-smallskin-3.jpg",
+                    "keyHD": "1R356vMJ60FrCxhYbd-CGYc73_DaC4W1W"
+                },
+                {
+                    "skinID": "50104",
+                    "skinName": "Quỷ Nghi Quyết",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-4.jpg",
+                    "skinIcon": "501-smallskin-4.jpg",
+                    "keyHD": "1HFoCsJqzJn0SEZmGF-7ptfW8ST4Nty8f"
+                },
+                {
+                    "skinID": "50105",
+                    "skinName": "Ma Pháp Ngâm Du",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-5.jpg",
+                    "skinIcon": "501-smallskin-5.jpg",
+                    "keyHD": "1-UZnJGBVTvRr2-S0U7l-Pwt-B3EZxzKa"
+                },
+                {
+                    "skinID": "50106",
+                    "skinName": "Đài Phát Thanh Đêm Muộn",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-6.jpg",
+                    "skinIcon": "501-smallskin-6.jpg",
+                    "keyHD": "13oJ-78PjzhaEIuFhQUggYOhCComVGmeh"
+                },
+                {
+                    "skinID": "50107",
+                    "skinName": "Ảnh Thiều Lạc Đô",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-7.jpg",
+                    "skinIcon": "501-smallskin-7.jpg",
+                    "keyHD": "14D1tzuvbreBsb6oBixWiIcFWGDG9KVGj"
+                },
+                {
+                    "skinID": "50108",
+                    "skinName": "Ký Ức Rực Rỡ",
+                    "skinQuality": "Rare",
+                    "skinTag": "Worldly1",
+                    "starSkin": false,
+                    "skinImage": "501-bigskin-8.jpg",
+                    "skinIcon": "501-smallskin-8.jpg",
+                    "keyHD": "15GghLQ15fvJR8RVLD8ccFlKlQPMXDOEo"
+                }
+            ]
+        },
+        "502": {
+            "idHero": 502,
+            "heroName": "Bùi Cẩm Hổ",
+            "globalName": "Pei",
+            "defaultSkin": "Lực Hợp Hổ Quyền",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50200.png",
+                        "skillName": "Thốn Kình",
+                        "skillDescription": "Phạm vi đánh thường được tăng lên và đòn đánh thường gây thêm 16 sát thương phép. Các đòn đánh thường liên tục vào cùng một mục tiêu trong vào 3s có thể cộng dồn lượng sát thương này, lên tới gấp 3 lần giá trị cơ bản.</br>Đòn đánh thường hồi phục lại 5 nội năng",
+                        "skillPreview": ""
+                    },
+                    {
+                        "skillIcon": "50201.png",
+                        "skillName": "Bản Năng Dã Thú",
+                        "skillDescription": "Nhận thêm 20 Công vật lý, 60 Song giáp và 30 Tốc chạy",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50210.png",
+                        "skillName": "Xung Quyền Thức",
+                        "skillDescription": "Bùi Cầm Hổ bắn ra một luồng khí gây 250/300/350/400/450/500 (+115% Công vật lý cộng thêm) (+8% Máu hiện tại mục tiêu) sát thương phép lên kẻ địch trên đường đi đồng thời làm chậm 25/30/35/40/45/50% mục tiêu trong 1.5s</br>Kỹ năng này hồi lại 20 nội năng khi đánh trúng một đơn vị địch",
+                        "skillPreview": "",
+                        "manaType": "Nội năng",
+                        "manaCost": "40",
+                        "skillCD": "8/7.6/7.2/6.8/6.4/6s"
+                    },
+                    {
+                        "skillIcon": "50211.png",
+                        "skillName": "Thế Hổ Gầm",
+                        "skillDescription": "Cắn xé mục tiêu gây 300/360/420/480/540/600 (+130% Công vật lý cộng thêm) sát thương vật lý mỗi 1% Máu đã mất của mục tiêu sẽ chịu thêm 1% sát thương kỹ năng này. Nếu tiêu diệt mục tiêu sẽ hồi lại 20 nội năng",
+                        "skillPreview": "",
+                        "manaType": "Nội năng",
+                        "manaCost": "50",
+                        "skillCD": "3s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50220.png",
+                        "skillName": "Khí Thủ Thức",
+                        "skillDescription": "Vận khí bao quanh bản thân gây 100/150/200/250/300/350(+70% Công vật lý cộng thêm) sát thương phép lên kẻ địch gần đó, tạo lá chắn hấp thụ 400 (+150% Công vật lý cộng thêm) sát thương và tăng tốc đánh thêm 30/34/38/42/46/50% trong 5s.</br>Khi lá chắn có hiệu lực, nó cũng sẽ gây 20/30/40/50/60/70 (+14% Công vật lý cộng thêm) sát thương phép lên kẻ địch gần đó mỗi 0.5s",
+                        "skillPreview": "",
+                        "manaType": "Nội năng",
+                        "manaCost": "50",
+                        "skillCD": "8s"
+                    },
+                    {
+                        "skillIcon": "50221.png",
+                        "skillName": "Thế Hổ Nhảy",
+                        "skillDescription": "Nhảy vồ về phía trước gây 160/190/220/250/280/310 (+70% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch, nếu trong lúc nhảy chạm vào địa hình trong 1s có thể sử dụng phím di chuyển để chính hướng nhảy tiếp theo gây 320/385/450/515/580/645 (+140% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch</br>Nấy nhảy vồ lần 2 trúng kẻ địch hồi phục lại 20 nội năng và hoàn trả 50% hồi chiêu",
+                        "skillPreview": "",
+                        "manaType": "Nội năng",
+                        "manaCost": "50",
+                        "skillCD": "8/7.4/6.8/6.2/5.6/5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50230.png",
+                        "skillName": "Hóa Hổ",
+                        "skillDescription": "Chuyển dang dạng hổ, tăng 15/22.5/30% tốc chạy trong 1s và cường hoá 2 đòn đánh thường tiếp theo trong 7s. Đòn đánh đầu tiên gây 20/110/200/290 (+100% Công vật lý) sát thương vật lý và làm chậm 90% mục tiêu trong 1s. Đòn đánh thứ 2 có thể dùng trong vòng 5s sau gây 20/110/200/290 (+100% Công vật lý) sát thương phép lên kẻ địch phía trước",
+                        "skillPreview": "",
+                        "manaType": "Nội năng",
+                        "manaCost": "0",
+                        "skillCD": "6.4/5.6/4.8/4s"
+                    },
+                    {
+                        "skillIcon": "50231.png",
+                        "skillName": "Hóa Người",
+                        "skillDescription": "Chuyển sang dạng người, tăng 15/22.5/30% tốc chạy trong 1s và cường hoá đòn đánh tiếp theo thành bắn 1 viên đạn khí về phía trước gây 100/300/500/700 (+100% Công vật lý) sát thương phép lên kẻ địch và hình quạt phía sau.",
+                        "skillPreview": "",
+                        "manaType": "Nội năng",
+                        "manaCost": "0",
+                        "skillCD": "6.4/5.6/4.8/4s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50201",
+                    "skinName": "Lực Hợp Hổ Quyền",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-1.jpg",
+                    "skinIcon": "502-smallskin-1.jpg",
+                    "keyHD": "1x-D5THJ8diaDs4ALcpk_lpSsqH9vvUQv"
+                },
+                {
+                    "skinID": "50202",
+                    "skinName": "Gió Lốc Đường Phố",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-2.jpg",
+                    "skinIcon": "502-smallskin-2.jpg",
+                    "keyHD": "100UKCJ74G-MZyt0-7dZnPqSRSO1cT9jm"
+                },
+                {
+                    "skinID": "50203",
+                    "skinName": "Messi",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-3.jpg",
+                    "skinIcon": "502-smallskin-3.jpg",
+                    "keyHD": "1TzcEvQ_gPLqNG7ktU3jtCt5O9B6EcSBK"
+                },
+                {
+                    "skinID": "50204",
+                    "skinName": "Thiên Lang Thú Liệp Giả",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-4.jpg",
+                    "skinIcon": "502-smallskin-4.jpg",
+                    "keyHD": "1LwJf2uW_WGNIhLztZW8uIpIRqM3fkRoi"
+                },
+                {
+                    "skinID": "50205",
+                    "skinName": "Lý Tiểu Long",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-5.jpg",
+                    "skinIcon": "502-smallskin-5.jpg",
+                    "keyHD": "1J6p45Ap0G8waMXCNVe9jrLK-zIEZj1oB"
+                },
+                {
+                    "skinID": "50206",
+                    "skinName": "Dần Hổ - Xích Quyền",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-6.jpg",
+                    "skinIcon": "502-smallskin-6.jpg",
+                    "keyHD": "13olyvzbQAQc7c-2KEiH4OSuWdKspL7mP"
+                },
+                {
+                    "skinID": "50207",
+                    "skinName": "Cầm Sóng Giữ Gió",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-7.jpg",
+                    "skinIcon": "502-smallskin-7.jpg",
+                    "keyHD": "13pGIzI5ktNjZwYvy3rv9dubQ0Owkm34z"
+                },
+                {
+                    "skinID": "50208",
+                    "skinName": "Tường Thuỵ Hanh Thông",
+                    "skinQuality": "Legend",
+                    "skinTag": "FMVP",
+                    "starSkin": false,
+                    "skinImage": "502-bigskin-8.jpg",
+                    "skinIcon": "502-smallskin-8.jpg",
+                    "keyHD": "1AGyYMj8EdJuvFL5upbRs8c00cMtukMyi"
+                }
+            ]
+        },
+        "503": {
+            "idHero": 503,
+            "heroName": "Cuồng Thiết",
+            "globalName": "Biron",
+            "defaultSkin": "Chiến Xa Ý Chí",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50300.png",
+                        "skillName": "Chiến Xa Không Sợ Hãi",
+                        "skillDescription": "Đòn đánh thường và các kỹ năng dạng cơ bản của Cuồng Thiết đánh trúng mục tiêu sẽ sạc năng lượng cho vũ khí của anh ta.</br>Khi sạc được mức năng lượng từ 30 trở lên thì mỗi đòn đánh thường sau đó gây 40~80 (+12% Công vật lý) sát thương vật lý và hồi lại 60~120 (+1.5% Máu cộng thêm) Máu đồng thời cường hóa các kỹ năng của anh, đem đến các hiệu ứng cường hóa khác nhau và không tiếp tục sạc năng lượng nữa khi đánh trúng mục tiêu.</br>Đánh thường mỗi đòn sạc 5~10 điểm năng lượng, kỹ năng trúng 1 đơn vị sạc 8~16điểm năng lượng, tối đa tích trữ 90 điểm năng lượng",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50310.png",
+                        "skillName": "Lưỡi Đao Vụn Vỡ",
+                        "skillDescription": "Cuồng Thiết vung vũ khí về phía trước 2 lần, mỗi lần gây 260/312/364/416/468/520 (+100% Công vật lý) sát thương vật lý và hồi phục 80/96/112/128/144/160 (+1% Máu cộng thêm) Máu kèm theo 2% Máu đã mất.</br>Sạc điện cường hóa: Sát thương tăng lên đến 390/468/546/624/702/780 (+150% Công vật lý) sát thương vật lý, hồi phục tăng lên đến 160/192/224/256/288/320 (+2% Máu cộng thêm) Máu kèm theo 4% Máu đã mất",
+                        "skillPreview": "",
+                        "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50320.png",
+                        "skillName": "Cường Kích Phong Bạo",
+                        "skillDescription": "Cuồng Thiết lao về phía trước, gây 150/180/210/240/270/300 (+75% Công vật lý) sát thương vật lý lên các mục tiêu trên đường đi. Sau khi dừng lại đòn đánh thường tiếp theo được cường hóa, gây 200/240/280/320/360/400 (+100% Công vật lý) sát thương vật lý kèm theo 25/30/35/40/45/50% giảm tốc trong 2s.</br>Sạc điện cường hóa: Đánh đòn cường hóa khi năng lượng đạt đến tối thiểu 30 điểm, sát thương tăng lên đến 300/360/420/480/540/600 (+150% Công vật lý) sát thương vật lý, kèm theo hất tung và choáng mục tiêu trong 1s, sau đó làm chậm 25/30/35/40/45/50% trong 1s</br>30 điểm năng lượng sẽ được tiêu thị khi tung đòn đánh cường hoá đầu tiên",
+                        "skillPreview": "",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50330.png",
+                        "skillName": "Trường Lực Áp Chế",
+                        "skillDescription": "Cuồng Thiết đập mạnh vũ khí của mình xuống mặt đất, gây 420/630/840 (+110% Công vật lý) sát thương vật lý kèm theo làm chậm kẻ địch 30/45/60% trong 1.5s, đồng thời tạo một lớp lá chắn giúp hấp thụ 900/1350/1800 (+18% Máu cộng thêm) sát thương trong 6s.</br>Sạc điện cường hóa: Sát thương tăng lên đến 600/900/1200 (+150% Công vật lý) sát thương vật lý. Lá chắn tăng lên 1500 (+18% Máu cộng thêm) và sẽ tăng theo cấp độ kỹ năng. Đồng thời tạo thành một trường điện từ được tạo ra, gây 200 (+70% Công vật lý) sát thương vật lý và đánh cắp 25 tốc chạy mỗi tướng địch trúng chiêu.</br>Phạm vi của trường điện từ sẽ mở rộng theo cấp kỹ năng",
+                        "skillPreview": "",
+                        "skillCD": "15/13/11s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50301",
+                    "skinName": "Chiến Xa Ý Chí",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-1.jpg",
+                    "skinIcon": "503-smallskin-1.jpg",
+                    "keyHD": "1482XXVATrq1j57wUunKR3zL4sJr8HM5C"
+                },
+                {
+                    "skinID": "50302",
+                    "skinName": "Đấu Trường Vận Mệnh",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-2.jpg",
+                    "skinIcon": "503-smallskin-2.jpg",
+                    "keyHD": "13vPYCQrZCOJfHshhLXTDjSKH-WtS7T02"
+                },
+                {
+                    "skinID": "50303",
+                    "skinName": "Ngự Sư",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-3.jpg",
+                    "skinIcon": "503-smallskin-3.jpg",
+                    "keyHD": "13uj2S9FzieMH0sekd3vWaCyedUoQn5uv"
+                },
+                {
+                    "skinID": "50304",
+                    "skinName": "Đặc Công Chiến Ảnh",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-4.jpg",
+                    "skinIcon": "503-smallskin-4.jpg",
+                    "keyHD": "1dJf_fdQCbIdtw88C4PRsLLKp3RuT7Vyq"
+                },
+                {
+                    "skinID": "50305",
+                    "skinName": "Cao Thủ Trò Chơi",
+                    "skinQuality": "Epic",
+                    "skinTag": "HonorPass",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-5.jpg",
+                    "skinIcon": "503-smallskin-5.jpg",
+                    "keyHD": "13uA4ZxKgNj4C6oYaVYp6Or4-FKdMYTOY"
+                },
+                {
+                    "skinID": "50306",
+                    "skinName": "Yuji Itadori",
+                    "skinQuality": "Legend",
+                    "skinTag": "JujutsuKaisen",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-6.jpg",
+                    "skinIcon": "503-smallskin-6.jpg",
+                    "keyHD": "15ZiRblsRwLzdD-LlqrEmwOTBwPyBB6wQ"
+                }
+            ]
+        },
+        "504": {
+            "idHero": 504,
+            "heroName": "Mễ Lai",
+            "globalName": "Milady",
+            "defaultSkin": "Trúc Thành Giả",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50400.png",
+                        "skillName": "Tay Sai Máy Móc",
+                        "skillDescription": "Mỗi khi hạ một kẻ địch, một tay sai máy móc sẽ được triệu hồi, tay sai máy có khả năng tự động tấn công kẻ địch trong 6s. Sau khi kết thúc thời gian trên nó sẽ tự tìm kiếm một tay sai gần đó để hợp thể và nâng cấp (tối đa nấng cấp đến cấp 3). Nếu không có tay sai nào khác để hợp thể nó sẽ tự huỷ gây 200/305/410 (+30% Công phép) sát thương phép lên kẻ địch gần đó (bán kính nổ tăng theo cấp độ hợp thể của tay sai).</br>Tay sai máy móc: Đòn đánh thường gây 120 (+25% Công phép) sát thương phép, Máu: 500 (+110% Công phép), Tốc chạy: 450 (+10% Công phép). Tay sai gây 75% sát thương cơ bản lên công trình, mỗi lần hợp thể sẽ tăng sát thương đánh thường và tự huỷ thêm 30% và máu thêm 20%. Có tối đa 4/2/1 tay sai cấp 1/2/3 có thể tồn tại. Khi vượt quá số lượng đó các tay sai được triệu hồi ra trước sẽ cố gắng hợp nhất hoặc tự huỷ",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50410.png",
+                        "skillName": "Lực Lượng Trên Không",
+                        "skillDescription": "Ra lệnh cho máy bay bắn phá trong phạm vi theo hướng bay đã chỉ định trên đường nó bay qua gây 65/78/91/104/117/130 (+10% Công phép) sát thương phép. Sau khi bắn phá 2 lần, lần thứ 3 sẽ bắn một viên đạn lớn gây 140/168/196/224/252/280 (+20% Công phép) sát thương phép.</br>Tái kích hoạt kỹ năng một lần nữa có thể tách máy bày thành 2 máy bay nhỏ nếu kẻ địch bị hai máy bay lớn và nhỏ sẽ bị làm chậm 25/30/35/40/45/50% trong 1.5s",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "60",
+                        "skillCD": "8/7.6/7.2/6.8/6.4/6s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50420.png",
+                        "skillName": "Cưỡng Chế Xâm Phạm",
+                        "skillDescription": "Triệu hồi tay sai máy móc tại khu vực chỉ định gây 100/120/140/160/180/200 (+20% Công phép) sát thương phép. Tay sai máy móc được kích hoạt sau 1s và có thể tự động tấn công mục tiêu gần đó.</br>Có thể tích luỹ triệu hồi tay sai máy móc sau mỗi 15/14.4/13.8/13.2/12.6/12s, tối đa tích luỹ 3 (ảnh hưởng bởi cơ chế hồi chiêu)",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "25",
+                        "skillCD": "3s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50430.png",
+                        "skillName": "Đại Nạn Từ Trường",
+                        "skillDescription": "Phóng một máy phát tín hiệu vào mục tiêu chỉ định, đánh dáu kẻ đó trong 3s và làm choáng trong 0.75s gây 80/120/160 (+4% Công phép) sát thương phép mỗi 0.5s và làm chậm 15/22.5/30%. Khi thời gian đánh dấu kết thúc nó sẽ phát nổ gây 25/37.5/50% tổng sát thương gây ra cho mục tiêu trong thời gian đánh dấu.</br>Khi kỹ năng được kích hoạt, tay sai trong phạm vi sẽ tăng tốc đánh và tốc chạy thêm 100% và ngay lập tức lao về phía mục tiêu để tấn công. Nếu mục tiêu bị chết khi bị đánh dấu, 3 tay sai sẽ triệu hồi ngay lập tức. Máy phát tín hiệu cũng có thể sử dụng với công trình nhưng không mang lại hiệu ứng choáng.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "100",
+                        "skillCD": "30/27/24s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50401",
+                    "skinName": "Trúc Thành Giả",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-1.jpg",
+                    "skinIcon": "504-smallskin-1.jpg",
+                    "keyHD": "19MTfW48hG8Wmz2smmkFgZl3vN1JLvlD4"
+                },
+                {
+                    "skinID": "50402",
+                    "skinName": "Thám Tử Tinh Chuẩn",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-2.jpg",
+                    "skinIcon": "504-smallskin-2.jpg",
+                    "keyHD": "15rT0ZbChIjU9zNV6ixIVPdTbwkGbdvJu"
+                },
+                {
+                    "skinID": "50403",
+                    "skinName": "Ngự Tiêu",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-3.jpg",
+                    "skinIcon": "504-smallskin-3.jpg",
+                    "keyHD": "1BJ6yO0tD08Hp8tY19f-hscZT7Tu2JYjh"
+                },
+                {
+                    "skinID": "50404",
+                    "skinName": "Hồ Đào Dị Tưởng Quốc",
+                    "skinQuality": "Epic",
+                    "skinTag": "HonorPass",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-4.jpg",
+                    "skinIcon": "504-smallskin-4.jpg",
+                    "keyHD": "16MZAQgEhBdKEkEuJpjSIv49VO-50zbwI"
+                },
+                {
+                    "skinID": "50405",
+                    "skinName": "Khế Ước Ma Pháp",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-5.jpg",
+                    "skinIcon": "504-smallskin-5.jpg",
+                    "keyHD": "1cbkeC8uKLKBSiTc-1uGvgIG2L7g9brJ4"
+                },
+                {
+                    "skinID": "50406",
+                    "skinName": "Kỳ Nghỉ Hoãn Mỹ",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-6.jpg",
+                    "skinIcon": "504-smallskin-6.jpg",
+                    "keyHD": "1YJ6KxKeFp1C7uyfLGfLV9SeahsFwebWs"
+                },
+                {
+                    "skinID": "50407",
+                    "skinName": "Đêm Kỳ Quái",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "504-bigskin-7.jpg",
+                    "skinIcon": "504-smallskin-7.jpg",
+                    "keyHD": "14ABOZFWQl_hARzHtgG9YfTRVjssu3gRh"
+                }
+            ]
+        },
+        "505": {
+            "idHero": 505,
+            "heroName": "Yao",
+            "globalName": "Yaria",
+            "defaultSkin": "Lộc Linh Thủ Tâm",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50500.png",
+                        "skillName": "Sơn Quỷ - Hươu Trắng",
+                        "skillDescription": "Khi Yao trúng khống chế cứng sẽ ngay lập tức giải trừ khống chế và biến thành linh hươu, duy trì trong 4s. Trạng thái linh hươu sẽ làm mới hồi chiêu của kỹ năng, khiến cô miễn nhiếm với mọi hiệu ứng nhưng cũng mất khả năng tấn công. Hào quang của linh hươu sẽ làm chậm kẻ địch 15~30%. Hiệu ứng này kích hoạt mỗi 60~48s một lần.",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50510.png",
+                        "skillName": "Tia Sáng Lang Thang",
+                        "skillDescription": "Yao giơ gậy tạo một tia sáng nhảy về phía trước để đẩy lùi kẻ địch, gây 250/300/350/400/450/500 (+30% Công phép) sát thương phép. Trong khi tia sáng bay, nó sẽ phát hiện tầm nhìn của kẻ địch trong phạm vi phía trước sau đó theo dõi và tấn công kẻ đó gây 250/300/350/400/450/500 (+30% Công phép) sát thương phép và đảy lùi kẻ địch trong 0.5s kèm theo lộ diện tầm nhìn trong 5s.</br>Trạng thái bảo vệ: Tăng phạm vi phát hiện thêm 20%</br>Trạng thái linh hươu: Kết thúc sớm trạng thái linh hươu sớm, đặt lại hồi chiêu của các kỹ năng đã sử dụng.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50520.png",
+                        "skillName": "Gỗ Tiêu Gió Ào",
+                        "skillDescription": "Yao sẽ tự động tấn công kẻ địch gần đó trong 5s, tối đa 3 mục tiêu. Mỗi đòn tấn công sẽ gây 200/240/280/320/360/400 (+30% Công phép) sát thương phép. Không thể đánh thường khi kỹ năng đang hoạt động.</br>Trạng thái bảo vệ: Tăng khoảng cách tấn công thêm 20%.</br>Trạng thái linh hươu: Di chuyển và nhảy một khoảng cách nhất định",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "12/11.6/11.2/10.8/10.4/10s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50530.png",
+                        "skillName": "Núi Rừng Bảo Hộ",
+                        "skillDescription": "Yao chiếm lấy một tướng đồng minh để bảo vệ cấp cho mục tiêu 1000/1500/2000 (+60% Công phép) (+8% Máu cộng thêm mục tiêu) lá chắn thực.</br>Trạng thái bảo vệ: Ngay lập tức cường hoá kỹ năng và giảm thời gian hồi chiêu kỹ năng đi 30%. Khi khiên vị vỡ lá chắn sẽ nhảy khởi mục tiêu và đưa kỹ năng vào trạng thái hồi chiêu. Chủ động tách khỏi mục tiêu sẽ trả lại 50% hồi chiêu kỹ năng</br>Trạng thái linh hươu: Ngồi lại và mở rộng phạm vi giảm tốc.</br>Khi đồng minh Yao chiếm hữu sử dụng kỹ năng dịch chuyển tức thời (không gồm biến về) để dịch chuyển với khoảng cách hơn 2000, Yao sẽ không đi theo mục tiêu",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "15s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50501",
+                    "skinName": "Lộc Linh Thủ Tâm",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "505-bigskin-1.jpg",
+                    "skinIcon": "505-smallskin-1.jpg",
+                    "keyHD": "14BJDKbTUk9k8UpGhCfzzD_xs9g8ipkXu"
+                },
+                {
+                    "skinID": "50502",
+                    "skinName": "Rừng Rậm",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "505-bigskin-2.jpg",
+                    "skinIcon": "505-smallskin-2.jpg",
+                    "keyHD": "1iPL5ak2xVbTVie-XRInNtPfVLaqz7gtn"
+                },
+                {
+                    "skinID": "50503",
+                    "skinName": "Ngộ Kiến Thần Lộc",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "505-bigskin-3.jpg",
+                    "skinIcon": "505-smallskin-3.jpg",
+                    "keyHD": "14wZq8KkeNxEPaF9xD4edBJvl3HH9TIUa"
+                },
+                {
+                    "skinID": "50504",
+                    "skinName": "Thời Chi Kỳ Nguyện",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "50504",
+                            "starID": "5050401",
+                            "starName": "Thời Chi Nguyệt Cảnh",
+                            "starImage": "50504-bigstar-1.jpg",
+                            "starIcon": "50504-smallstar-1.jpg",
+                            "starKeyHD": "1_vwG8RXIivE7fjMwBtlsxXicwZjR-6am",
+                            "starTag": "StarLegend"
+                        }
+                    ],
+                    "skinImage": "505-bigskin-4.jpg",
+                    "skinIcon": "505-smallskin-4.jpg",
+                    "keyHD": "1ipiYGgMjXgsyqertsgek6DDySXqujxJR"
+                },
+                {
+                    "skinID": "50505",
+                    "skinName": "Sơn Hải - Bích Thuỷ Hàng",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "505-bigskin-5.jpg",
+                    "skinIcon": "505-smallskin-5.jpg",
+                    "keyHD": "128NaGWpbQOmm4cLsSRxlZvv2jGO_coEQ"
+                },
+                {
+                    "skinID": "50506",
+                    "skinName": "True Hertz",
+                    "skinQuality": "Flawless",
+                    "skinTag": "Flawless",
+                    "starSkin": false,
+                    "skinImage": "505-bigskin-6.jpg",
+                    "skinIcon": "505-smallskin-6.jpg",
+                    "keyHD": "15phP9ruhCPnJqWpPzZMsWwFcG8iaDLd1"
+                },
+                {
+                    "skinID": "50507",
+                    "skinName": "Thập Quang Phản Chiếu",
+                    "skinQuality": "Mythic",
+                    "skinTag": "Mythic",
+                    "starSkin": false,
+                    "skinImage": "505-bigskin-7.jpg",
+                    "skinIcon": "505-smallskin-7.jpg",
+                    "keyHD": "14BaHxiPu3TTuib1xoNgLwIWWDQzWE-CV"
+                }
+            ]
+        },
+        "506": {
+            "idHero": 506,
+            "heroName": "Vân Trung Quân",
+            "globalName": "Cirrus",
+            "defaultSkin": "Cánh Chim Mây Trôi",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50600.png",
+                        "skillName": "Vân Thần - Dang Cánh",
+                        "skillDescription": "Khi đạt cấp 4, Vân Trung Quân sẽ cất cánh bay vĩnh viên chấp chấp địa hình. Đòn đánh thường có thể tích lũy khí tức, giúp Vân Trung Quân tăng thêm 0~60 tốc chạy dừng đánh thường giá trị khí tức sẽ giảm nhanh. Các đòn đánh thường và kỹ năng lên mục tiêu sẽ để lại dấu ấn Vuốt xếp chồng lên nhau, tối đa 5 lớp, kéo dài 2s.</br>Vuốt sẽ gây sát thương vật lý tương đương 0.24% Máu tối đa kẻ địch khi di chuyển (Mỗi 50 Công vật lý cộng thêm tăng tỉ lệ thêm 0.02%). Càng nhiều lớp Vuốt được xếp chồng, sát thương gây ra càng cao, tối đa gấp 10 lần.</br>Tướng địch cũng nhận 50% sát thương từ ấn vuốt kể cả khi không di chuyển. Lính và quái rừng vẫn sẽ kích hoạt hiệu ứng Vuốt kể cả khi không di chuyển gây 2.7% Công vật lý sát thương vật lý mỗi 0.2s",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50610.png",
+                        "skillName": "Bay Lượn Ngao Du",
+                        "skillDescription": "Vân Trung Quân vận khí với gia tốc thêm 60/72/84/96/108/120%, sau đó lao về phía trước, nhận được lá chắn hấp thụ 300/360/420/480/540/600(+100% Công vật lý cộng thêm) sát thương. Khi đạp vào mục tiêu sẽ làm choáng 0.5s và gây 200/240/280/320/360/400 (+80% Công vật lý cộng thêm) sát thương vật lý cho mục tiêu bị trúng đòn.</br>Sau khi tấn công trúng 1 tướng địch có thể nhảy lùi lại một khoảng cách theo hướng bất kỳ. Kỹ năng sẽ đẩy lùi các đơn vị không phải anh hùng và việc hủy bỏ kỹ năng sẽ trả lại 20% thời gian hồi chiêu.",
+                        "skillPreview": "",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50620.png",
+                        "skillName": "Táp Gió Phi Lông",
+                        "skillDescription": "Vân Trung Quân dang cánh vung kiếm gió theo hình vòng cung gây 150/180/210/240/270/300 (+50% Công vật lý cộng thêm) sát thương vật lý hai lần về phía trước và làm chậm mục tiêu trúng phải 12.5/15/17.5/20/22.5/25% trong 1s.</br>Sau đó, Vân Trung Quân được tăng 20/24/28/32/36/40% Tốc đánh trong 4s và được cường hóa thành đánh xa. Đòn đánh thường lúc này sẽ vung 3 lưỡi kiếm lông vũ theo thứ tự gây (+20% Công vật lý), (+30% Công vật lý), (+50% Công vật lý) sát thương vật lý tương ứng",
+                        "skillPreview": "",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50630.png",
+                        "skillName": "Giông Tố Lên Mây",
+                        "skillDescription": "Vân Trung Quân được giảm 30/45/60% sát thương trong thời gian ngắn, đồng thời được tăng tốc và cuốn lấy tướng địch bay lên bầu trời, xoá bỏ không chế trên bản thân, trong khoảng thời gian nay không thể bị chọn làm mục tiêu và có thể di chuyển. Khi vứt mục tiêu xuống đất sẽ gây 360/540/720 (+120% Công vật lý cộng thêm) sát thương vật lý và 0.5s hất tung.</br>Với mỗi ấn Vuốt, sát thương khi vứt mục tiêu xuống sẽ tăng thêm 10%. Kẻ địch cuộn tròn trên không sẽ chỉ nhận sát thương từ Vân Trung Quân và Tốc chạy trên không bị ảnh hưởng bởi cấp độ của Vân Trung Quân.  Nếu không có kẻ thù trong vòng tròn tại thời điểm bay, Vân Trung Quân sẽ chỉ bay lên và gây sát thương tương tự một lần khi tiếp đất.",
+                        "skillPreview": "",
+                        "skillCD": "45/40/35s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50601",
+                    "skinName": "Cánh Chim Mây Trôi",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "506-bigskin-1.jpg",
+                    "skinIcon": "506-smallskin-1.jpg",
+                    "keyHD": "14HAkSzNQ8a_nFB9X-bcjHp9Lho1mVdef"
+                },
+                {
+                    "skinID": "50602",
+                    "skinName": "Mắt của Horus",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "506-bigskin-2.jpg",
+                    "skinIcon": "506-smallskin-2.jpg",
+                    "keyHD": "14Npf-79BtLgV1agHJl-nuelxSBf6dDHs"
+                },
+                {
+                    "skinID": "50603",
+                    "skinName": "Tiệm Vân Lộng Xảo",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "506-bigskin-3.jpg",
+                    "skinIcon": "506-smallskin-3.jpg",
+                    "keyHD": "1AqqRKZINyo5334pOBcPPhPIAi1REzbhW"
+                },
+                {
+                    "skinID": "50604",
+                    "skinName": "Thời Chi Kỳ Nguyện",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "506-bigskin-4.jpg",
+                    "skinIcon": "506-smallskin-4.jpg",
+                    "keyHD": "1ipiYGgMjXgsyqertsgek6DDySXqujxJR"
+                },
+                {
+                    "skinID": "50605",
+                    "skinName": "Đoàn Ma Thuật Ngôi Sao",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "506-bigskin-5.jpg",
+                    "skinIcon": "506-smallskin-5.jpg",
+                    "keyHD": "14I7YVghX1Tkzs8XogaVr8b3Lp6bdWct2"
+                }
+            ]
+        },
+        "507": {
+            "idHero": 507,
+            "heroName": "Lý Tín",
+            "globalName": "Li Xin",
+            "defaultSkin": "Mưu Thế Chi Chiến",
+            "numberSkill": 4,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50700.png",
+                        "skillName": "Lưỡi Đao U Ám",
+                        "skillDescription": "Lý Tín dần dần giải phóng sức mạnh, đòn đánh thường và kỹ năng 2 trúng tướng địch giúp nhận thêm 10 kinh nghiệm",
+                        "skillPreview": ""
+                    },
+                    {
+                        "skillIcon": "50701.png",
+                        "skillName": "Lưỡi Đao Chiếu Sáng",
+                        "skillDescription": "Khoảng cách đòn đánh thường tiếp theo được tăng lên sau khi sử dụng kỹ năng và gây thêm 50% sát thương, đòn đánh cường hoá và kỹ năng trúng kẻ địch sẽ giảm 1s thời gian hồi chiêu tất cả kỹ năng",
+                        "skillPreview": ""
+                    },
+                    {
+                        "skillIcon": "50702.png",
+                        "skillName": "Lưỡi Đao Cuồng Bạo",
+                        "skillDescription": "Đòn đánh thường của Lý Tín sẽ gây thêm 65~205 sát thương vật lý. Đồng thời bản thân được tăng thêm 30 Tốc chạy",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50710.png",
+                        "skillName": "Đột Tiến Cấp Tốc",
+                        "skillDescription": "Lý Tín lướt đến vị trí chỉ định",
+                        "skillPreview": "",
+                        "skillCD": "7/6.2/5.4/4.6/3.8/3s"
+                    },
+                    {
+                        "skillIcon": "50711.png",
+                        "skillName": "Ước Vọng Nhảy Vọt",
+                        "skillDescription": "Tích luỹ năng lượng nhận 25% miễn thương kèm theo hiệu ứng miễn khống chế. Sau đó lướt theo hướng chỉ định, duy trì khả năng miễn khống chế khi lướt gây 50/60/70/80/90/100 (+50% Công vật lý) - 150/180/210/240/270/300 (+150% Công vật lý) sát thương vậy lý cho kẻ địch trên đường đi (gây sát thương tối đa khi tích luỹ năng lượng đủ 1s) đồng thời gây thêm sát thương vật lý tương đương 12% Máu đã mất của mục tiêu.</br>Nếu quá trình tích luỹ bị gián đoạn 40% thời gian hồi chiêu sẽ được hoàn trả",
+                        "skillPreview": "",
+                        "skillCD": "8s"
+                    },
+                    {
+                        "skillIcon": "50712.png",
+                        "skillName": "Xung Phong Không Hãi",
+                        "skillDescription": "Lý Tín vận sức trong thời gian vận được tăng 100/110/120/130/140/150 Tốc chạy và hồi 65/78/91/104/117/130 (+1% Máu cộng thêm) Máu mỗi 0.5s đồng thời nhận thêm hiệu ứng miễn khống chế.</br>Nếu vận được 1s trở lên, khi kết thúc sẽ nhận thêm 40/46/52/58/64/70% Tốc đánh trong 3s, tốc chạy sẽ giảm dần trong 2s. Mỗi khi đòn đánh thường trúng kẻ địch thời gian hồi chiêu kỹ năng giảm đi 1s.",
+                        "skillPreview": "",
+                        "skillCD": "10s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50720.png",
+                        "skillName": "Cường Lực Trảm Kích",
+                        "skillDescription": "Lý Tín chém ra kiếm khí theo hướng chỉ định, gây 300/360/420/480/540/600 (+100% Công vật lý) sát thương vật lý đồng thời làm chậm kẻ địch đi 25/30/35/40/45/50% trong 2s",
+                        "skillPreview": "",
+                        "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+                    },
+                    {
+                        "skillIcon": "50721.png",
+                        "skillName": "Lưỡi Kiếm Kích Động",
+                        "skillDescription": "Lý Tín xông dần về phía trước vung chém kiếm khí từ 1 - 4 lần tuỳ theo thời gian giữ kỹ năng và gây 100/120/140/160/180/200 (+150% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi. Nếu chém trúng sẽ hồi lại cho bản thân 120/144/168/192/216/240 (+1.5% Máu cộng thêm) Máu",
+                        "skillPreview": "",
+                        "skillCD": "8s"
+                    },
+                    {
+                        "skillIcon": "50722.png",
+                        "skillName": "Xé Nứt Tàn Bạo",
+                        "skillDescription": "Lý Tín vung kiếm chém theo hướng chỉ định, gây 280/330/380/430/480/530 (+80% Công vật lý) sát thương vật lý cho kẻ địch trong phạm vi và làm chậm 25/30/35/40/45/50% trong 2s, nếu kỹ năng đánh trúng kẻ địch đòn đánh thường lên kẻ đó sẽ gây thêm 90 sát thương vật lý đồng thời mỗi đòn đánh thường cũng giúp bản thân hồi phục 50/60/70/80/90/100 (0.75% Máu cộng thêm) Máu.",
+                        "skillPreview": "",
+                        "skillCD": "6.5/6.2/5.9/5.6/5.3/5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50730.png",
+                        "skillName": "Lực Lượng Giác Ngộ - Ánh Sáng",
+                        "skillDescription": "Khi Lý Tín học được kỹ năng tối thượng, anh ta sẽ giải phóng sức mạnh trong chốc lát, thay đổi sang dạng Thống Trị",
+                        "skillPreview": "",
+                        "skillCD": "30s"
+                    },
+                    {
+                        "skillIcon": "50731.png",
+                        "skillName": "Quang Dực Liên Trảm",
+                        "skillDescription": "Lý Tín tiến hành tích lũy năng lượng, trong lúc này sẽ nhận 25% miễn thương và nhận hiệu ứng miễn nhiễm. Sau đó tung ra 3 luồng kiếm khí theo hướng quạt đã chỉ định khi giải phóng vẫn sẽ được miễn nhiễm và gây 150/200/250 (+75% Công vật lý) - 450/600/750 (+225% Công vật lý) sát thương vật lý lên kẻ địch trung chiêu (sát thương tối đa sau 1s).</br>Khi nhiều trúng cùng một mục tiêu, các kiếm khí tiếp theo sẽ chỉ gây ra 30% sát thương, nếu quá trình tích luỹ bị gián đoạn 40% thời gian hồi chiêu sẽ được hoàn trả",
+                        "skillPreview": "",
+                        "skillCD": "30/27/24s"
+                    },
+                    {
+                        "skillIcon": "50732.png",
+                        "skillName": "Bóng Tối Bộc Phát",
+                        "skillDescription": "Lý Tín giải phóng năng lượng tạo thành 1 vòng tròn ma thuật tại vị trí hiện tại, gây 600/900/1200 (+120% Công vật lý) sát thương vật lý cho kẻ địch trong phạm vi và hất tung 0.75s",
+                        "skillPreview": "",
+                        "skillCD": "25/20/15s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50740.png",
+                        "skillName": "Lực Lượng Giác Ngộ - Bóng Tối",
+                        "skillDescription": "Khi Lý Tín học được kỹ năng tối thượng, anh ta sẽ giải phóng sức mạnh trong chốc lát, thay đổi sang dạng Báo Thù",
+                        "skillPreview": "",
+                        "skillCD": "30s"
+                    },
+                    {
+                        "skillIcon": "50741.png",
+                        "skillName": "Lực Lượng Giải Phóng",
+                        "skillDescription": "Lý Tín chuyển hóa sức mạnh sang dạng Báo Thù, Trong thời gian chuyển đổi sẽ không bị gián đoạn bởi hiệu ứng khống chế</br>Nội tại: Mỗi 1% Tốc đánh cộng thêm bản thân nhận thêm 0.15% Xuyên giáp vật lý",
+                        "skillPreview": "",
+                        "skillCD": "0s"
+                    },
+                    {
+                        "skillIcon": "50742.png",
+                        "skillName": "Lực Lượng Chưởng Khống",
+                        "skillDescription": "Lý tín chuyển sang dạng Thống Trị, trong thời gian này sẽ không bị gián đoạn bởi hiệu ứng khống chế</br>Nội tại: Mỗi 1.5 Công vật lý cộng thêm bản thân nhận them 0.1% Tốc đánh",
+                        "skillPreview": "",
+                        "skillCD": "0s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50701",
+                    "skinName": "Mưu Thế Chi Chiến",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "507-bigskin-1.jpg",
+                    "skinIcon": "507-smallskin-1.jpg",
+                    "keyHD": "1pfUe-B8SqXnHrwWxrnePgoU2mF_W616n"
+                },
+                {
+                    "skinID": "50702",
+                    "skinName": "Thanh Đao Rực Nóng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "507-bigskin-2.jpg",
+                    "skinIcon": "507-smallskin-2.jpg",
+                    "keyHD": "1rNxU8gdAivvpvfplsSwHrxZpPB1kWL0g"
+                },
+                {
+                    "skinID": "50703",
+                    "skinName": "Nhất Niệm Thần Ma",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "507-bigskin-3.jpg",
+                    "skinIcon": "507-smallskin-3.jpg",
+                    "keyHD": "18E5LYTuToYFsWAlONBwWbwxFiS6ipP8S"
+                },
+                {
+                    "skinID": "50704",
+                    "skinName": "Sơn Hải - Sí Sương Trảm",
+                    "skinQuality": "Legend",
+                    "skinTag": "ShanHai",
+                    "starSkin": false,
+                    "skinImage": "507-bigskin-4.jpg",
+                    "skinIcon": "507-smallskin-4.jpg",
+                    "keyHD": "1b__f9A2cVWZhp3vlIgqgTJz3KEOmCsMH"
+                }
+            ]
+        },
+        "508": {
+            "idHero": 508,
+            "heroName": "Già La",
+            "globalName": "Garo",
+            "defaultSkin": "Tiễn Phá Quỷ",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50800.png",
+                        "skillName": "Tiễn Phá Quỷ",
+                        "skillDescription": "Đòn đánh thường và sát thương kỹ năng của Già La sẽ gây thêm 50% sát thương lên lá chắn của mục tiêu",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50810.png",
+                        "skillName": "Tiễn Độ Linh",
+                        "skillDescription": "Giương cung tăng tầm bắn thường thêm 125 và giãn cách đánh thường thêm 25%. Đồng thời, mỗi đòn đánh thường tiêu tốn 50 năng lượng và gây thêm 25/30/35/40/45/50 (+5% Công vật lý) sát thương phép lên mục tiêu mỗi 0.5s trong 2s.</br>Hạ cung: Tái kích hoạt để hạ cung tăng 20 tốc chạy, phục hồi giãn cách đánh thường và phạm vi đánh thường, mỗi đòn đánh thường hồi 5% (+1% Công vật lý) năng lượng, lượng năng lượng hồi phục thêm 200% khi bắn trúng tướng địch.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "0",
+                        "skillCD": "1s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50820.png",
+                        "skillName": "Tiễn Tĩnh Lặng",
+                        "skillDescription": "Bắn tên ma thuật theo hướng chỉ định gây 250/280/310/340/370/400 (+40% Công vật lý) sát thương phép, làm kẻ địch câm lặng trong 0.5s và làm chậm 25/30/35/40/45/50% trong 1s. Khu vực mũi tên bắn qua sẽ phát nổ gây 500/560/620/680/740/800 (+80% Công vật lý) sát thương phép lên kẻ địch trong phạm vi. Mỗi 1.5% Tốc đánh sẽ tăng tốc thi triển kỹ năng thêm 1% tối đa 100% tốc độ thi triển.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "75",
+                        "skillCD": "12/11.5/11/10.5/10/9.5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50830.png",
+                        "skillName": "Lãnh Vực Thuần Khiết",
+                        "skillDescription": "Mở lãnh địa trên mặt đất tồn tại trong 8s. Khi ở trong lãnh địa sẽ tăng 30% tỉ lệ chí mạng và 20% tốc chạy. Lãnh địa sẽ gây 250/350/450 (+75% Công vật lý) sát thương phép cho kẻ địch trong phạm vi tại thời điểm mở và đóng. Khi đóng lãnh địa sẽ nhận 30% tỉ lệ chí mạng và 20% tốc chạy trong 3s. Khi đóng bên ngoài lãnh địa sẽ chỉ nhận được một nửa tỉ lệ chí mạng và tốc chạy</br>Nội tại: Đòn chí mạng sẽ làm chậm mục tiêu 30% trong 0.5s. Nếu hiệu ứng kích hoạt lại trong vòng 1s, làm chậm tăng lên 50%",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "100",
+                        "skillCD": "40/35/30s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50801",
+                    "skinName": "Tiễn Phá Quỷ",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-1.jpg",
+                    "skinIcon": "508-smallskin-1.jpg",
+                    "keyHD": "1tKRnbeGuc6whUhIeB7mXbxK6WEG16G_n"
+                },
+                {
+                    "skinID": "50802",
+                    "skinName": "Hanami Miko",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-2.jpg",
+                    "skinIcon": "508-smallskin-2.jpg",
+                    "keyHD": "10KK-1U40xbeKAPqY3F3g-RkeC28G5b7F"
+                },
+                {
+                    "skinID": "50803",
+                    "skinName": "Tiễn Vũ Phong Tức",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "50803",
+                            "starID": "5080301",
+                            "starName": "Sập Thắng Vô Giới",
+                            "starImage": "50803-bigstar-1.jpg",
+                            "starIcon": "50803-smallstar-1.jpg",
+                            "starKeyHD": "14QpsKBq65yUXtKBO81UMHrh9Bi94ph9q",
+                            "starTag": "StarEpic"
+                        }
+                    ],
+                    "skinImage": "508-bigskin-3.jpg",
+                    "skinIcon": "508-smallskin-3.jpg",
+                    "keyHD": "18k_IcHwv6o95mROhsoAE6nxjgr2i-Z6h"
+                },
+                {
+                    "skinID": "50804",
+                    "skinName": "Thái Hoa",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": true,
+                    "starList": [
+                        {
+                            "skinID": "50804",
+                            "starID": "5080401",
+                            "starName": "Lá Phong Đỏ",
+                            "starImage": "50804-bigstar-1.jpg",
+                            "starIcon": "50804-smallstar-1.jpg",
+                            "starKeyHD": "17OVcosptyI6ewNZPyX9tHk7U7IHyE7w3",
+                            "starTag": "StarLegend"
+                        }
+                    ],
+                    "skinImage": "508-bigskin-4.jpg",
+                    "skinIcon": "508-smallskin-4.jpg",
+                    "keyHD": "1wLTNLdKnjVZiL83_3uQEiIQYnaCPSBCt"
+                },
+                {
+                    "skinID": "50805",
+                    "skinName": "Thiên Lang Tố Quang Giả",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-5.jpg",
+                    "skinIcon": "508-smallskin-5.jpg",
+                    "keyHD": "1V1f7iALSym8gAqQink5f4iMXuiAoJzc3"
+                },
+                {
+                    "skinID": "50806",
+                    "skinName": "Sí Dực Quang Huy",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-6.jpg",
+                    "skinIcon": "508-smallskin-6.jpg",
+                    "keyHD": "1E7E62uQL_s625f08moi2aaM-gA1jjoIL"
+                },
+                {
+                    "skinID": "50807",
+                    "skinName": "Kỷ Nguyên Hổ Phách",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-7.jpg",
+                    "skinIcon": "508-smallskin-7.jpg",
+                    "keyHD": "1m2_6qmeTZv6vXDWJesCq6B5xamraW_rS"
+                },
+                {
+                    "skinID": "50808",
+                    "skinName": "Vòng Sáng Thần Quang",
+                    "skinQuality": "Rare",
+                    "skinTag": "JujutsuKaisen",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-8.jpg",
+                    "skinIcon": "508-smallskin-8.jpg",
+                    "keyHD": "187bup0onsh7K8ISh-A3Pq95lI-GHrZjP"
+                },
+                {
+                    "skinID": "50809",
+                    "skinName": "Bản Giao Hưởng Đầu Tiên",
+                    "skinQuality": "Mythic",
+                    "skinTag": "Mythic",
+                    "starSkin": false,
+                    "skinImage": "508-bigskin-9.jpg",
+                    "skinIcon": "508-smallskin-9.jpg",
+                    "keyHD": "14yv6ufk0nIJ3_b6fa-KF6c9PA3zopWTU"
+                }
+            ]
+        },
+        "509": {
+            "idHero": 509,
+            "heroName": "Thuẫn Sơn",
+            "globalName": "",
+            "defaultSkin": "Thuẫn Vô Hạn",
+            "numberSkill": 4,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "50900.png",
+                        "skillName": "Lá Chắn Đất Trời",
+                        "skillDescription": "Thuẫn Sơn khi ở trạng thái phòng ngự sẽ có thể chặn lượng lớn các nguồn sát thương dạng đạn bay và nhận thêm 30% Miễn thương. Đòn đánh thường của Thuẫn Sơn sẽ gây thêm (4% Máu tối đa) sát thương vật lý.</br>Khiên ban đầu có độ bền là 300 và nó sẽ nhận được phần thưởng là 10% Máu tối đa của Thuẫn Sơn. Mỗi khi Thuẫn Sơn nâng Khiên để chống đạn, sát thương của kỹ năng sẽ tiêu hao độ bền của khiên theo tỷ lệ 1:1. Mỗi khi Thuẫn Sơn nâng cấp độ bền sẽ tăng thêm 180",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50910.png",
+                        "skillName": "Đơn Thân Canh Giữ",
+                        "skillDescription": "Thuẫn Sơn nâng khiên trước mặt làm giảm 50/45/40/35/30/25% Tốc chạy của bản thân và chuyển sang trạng thái phòng ngự. Kẻ địch chạm vào lá chắn sẽ chịu 250/300/350/400/450/500 (+50% Công vật lý) sát thương vật lý và bị đẩy lùi.</br>Chống đạn trong quá trình này sẽ tiêu hao độ bền, khi hết độ bền hoặc trang thái dựng khiên kết thúc, Thuẫn Sơn lập tức khôi phục toàn bộ độ bền",
+                        "skillPreview": "",
+                        "skillCD": "6s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50920.png",
+                        "skillName": "Khai Mở Mặc Người",
+                        "skillDescription": "Thuẫn Sơn lao về phía trước để đẩy lùi lũ quái rừng trước mặt và gây 550/620/690/760/830/900 (+100% Công vật lý) sát thương vật lý. Đồng thời hất ngược tướng địch trúng đòn đầu tiên.</br>Tướng địch sẽ bị choáng trong 1s và nhận 550/620/690/760/830/900 (+100% Công vật lý) sát thương vật lý cho khu vực xung quanh khi tiếp đất. Có thể được sử dụng trong thời gian của kỹ năng [Bất Động Như Núi], sử dụng nó sẽ ngay lập tức thu hồi tấm khiên khổng lồ đã mở rộng.",
+                        "skillPreview": "",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50930.png",
+                        "skillName": "Bất Động Như Núi",
+                        "skillDescription": "Thuẫn Sơn gât sát thương 300/400/500 (+60% Công vật lý) sát thương vật lý xung quanh, đồng thời hình thành một lá chắn khổng lồ đập lên mặt đất gây 300/400/500 (+60% Công vật lý) sát thương vật lý và đẩy lùi kẻ địch. Kẻ địch bị đẩy lùi sẽ giảm 50% Tốc chạy kéo dài 1s. Dòng năng lượng còn lại tiếp tục đẩy lùi kẻ địch trước mặt lá chắn, sát thương giảm còn 50%.</br>Kỹ năng sẽ cường hóa khiên Thuẫn Sơn, do đó độ bền của khiên khi sử dụng kỹ năng này sẽ tăng lên 150% so với ban đầu. Chống đạn trong quá trình này sẽ tiêu hao độ bền, khi hết độ bền hoặc trang thái dựng khiên kết thúc, Thuẫn Sơn lập tức khôi phục toàn bộ độ bền",
+                        "skillPreview": "",
+                        "skillCD": "40/35/30s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "50940.png",
+                        "skillName": "Cố Thủ Thành Quy",
+                        "skillDescription": "Thuẫn sơn và Tháp phòng thủ hợp thành 1, giúp Tháp phòng thủ tăng 600 Giáp vật lý và Giáp phép. Mỗi 1s Thuẫn Sơn hồi 1 điểm năng lượng, đồng thời Thuẫn Sơn và Tháp phòng thủ cùng hồi 100 Máu/s, kéo dài 7s.",
+                        "skillPreview": "",
+                        "skillCD": "15s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "50901",
+                    "skinName": "Thuẫn Vô Hạn",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "509-bigskin-1.jpg",
+                    "skinIcon": "509-smallskin-1.jpg",
+                    "keyHD": "1cmKIY4s-CdGRMuiKDZ7jClf2c-zi_576"
+                },
+                {
+                    "skinID": "50902",
+                    "skinName": "Tuyến Phòng Thủ Cực Băng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "509-bigskin-2.jpg",
+                    "skinIcon": "509-smallskin-2.jpg",
+                    "keyHD": "1AQjJ_5vrWFDrAHJ8TvVUYv-XU6hR622h"
+                },
+                {
+                    "skinID": "50903",
+                    "skinName": "Ngự Loan",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "509-bigskin-3.jpg",
+                    "skinIcon": "509-smallskin-3.jpg",
+                    "keyHD": "1sycAjfnjFqCPbUvRExnCkXu3HHyJif38"
+                },
+                {
+                    "skinID": "50904",
+                    "skinName": "Hiệp Sĩ Bàn Tròn",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "509-bigskin-4.jpg",
+                    "skinIcon": "509-smallskin-4.jpg",
+                    "keyHD": "1oV1nnyeSmqu8WAoA33HUEXMjNzjdbdmc"
+                },
+                {
+                    "skinID": "50905",
+                    "skinName": "Mộng Viên Phồn Tinh",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "509-bigskin-5.jpg",
+                    "skinIcon": "509-smallskin-5.jpg",
+                    "keyHD": "1H4uqLTeYfMAC-xuJmeDd1ORTLt8UeOUR"
+                }
+            ]
+        },
+        "510": {
+            "idHero": 510,
+            "heroName": "Tôn Sách",
+            "globalName": "Sun Ce",
+            "defaultSkin": "Hải Dương Ánh Sáng",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "51000.png",
+                        "skillName": "Sóng Dữ",
+                        "skillDescription": "Sau 6s, đòn đánh thường tiếp theo gây thêm 110 (+60% Công vật lý) sát thương vật lý và hồi 55 (+30% Công vật lý) (+3% Máu đã mất) Máu.</br>Mỗi lần bản thân nhận sát thương vật lý/chuẩn hoặc kỹ năng đánh trúng mục tiêu, bản thân sẽ nhận 1 Bất Khuất. Bất Khuất: Nhận 16~32 giáp vật lý, duy trì 6s, tối đa 10 Bất Khuất",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "51010.png",
+                        "skillName": "Chém Sóng Phá Gió",
+                        "skillDescription": "Lao về phía trước gây 110/132/154/176/198/220(+45% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi, gây 220/264/308/352/396/440(+90% Công vật lý) sát thương vật lý trong phạm vi tại điểm cuối. Sau một thời gian ngắn nó sẽ phát nổ gây sát thương tương đương và hất tung mục tiêu trong 1s.</br>Kỹ năng tấn công kẻ địch nhận 1 Bất Khuất",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "50",
+                        "skillCD": "8/7.8/7.6/7.4/7.2/7s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "51020.png",
+                        "skillName": "Sóng To Gió Lớn",
+                        "skillDescription": "Tiến dần về phía trước chém 3 lần liên tiếp, tăng dần sát thương mỗi lần thêm 25%, sát thương cơ bản là 180/242/304/366/428/490(+70% Công vật lý) sát thương vật lý. Mỗi lần làm chậm kẻ địch 15/18/21/24/27/30% và hiệu ứng làm chậm có thể tích luỹ.</br>Sử dụng kỹ năng sẽ thiết lập lại thời gian hồi chiêu của đòn đánh nội tại. Kỹ năng trúng kẻ địch sẽ nhận 1 Bất Khuất",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "70",
+                        "skillCD": "9/8.4/7.8/7.2/6.6/6s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "51030.png",
+                        "skillName": "Phá Sóng Căng Buồm",
+                        "skillDescription": "Tôn Sách phá sóng lướt thuyền trong 12s, tăng dần dần tốc chạy và nhận trạng thái miễn khống chế. Khi va phải địa hình cản trở, va vào tướng địch hoặc hết thời gian, thuyền sẽ phát nổ gây 300/450/600 (+120% Công vật lý) sát thương vật lý và hất tung mục tiêu trong phạm vi lên trong 1s ~ 1.5s (tùy thuộc vào thời gian lái thuyền).</br>Trong khi lái thuyền, sử dụng kỹ năng này 1 lần nữa, Tôn Sách sẽ nhảy khỏi thuyền, thuyền sẽ di chuyển thêm 1 đoạn cố định nữa. Trong khi thuyền chạy, đồng đội gần đó có thể nhấn nút lên thuyền, tối đa 1 đồng đội. Khi thuyền chạy bị kỹ năng khống chế sẽ tự động rời thuyền; đồng đội cũng có thể sử dụng các kỹ năng dịch chuyển chủ động rời thuyền.</br>Khi Tôn Sách xuống thuyền thì đồng đội cũng sẽ xuống theo. Thuyền va trúng tướng địch, Tôn Sách sẽ nhận được 5 tầng Bất Khuất",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "100",
+                        "skillCD": "40/35/30s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "51001",
+                    "skinName": "Hải Dương Ánh Sáng",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-1.jpg",
+                    "skinIcon": "510-smallskin-1.jpg",
+                    "keyHD": "19os9-wlPdsTc5LWjDpsfZ9R9I28rPIJH"
+                },
+                {
+                    "skinID": "51002",
+                    "skinName": "Hành Trình Hải Dương",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-2.jpg",
+                    "skinIcon": "510-smallskin-2.jpg",
+                    "keyHD": "1rLPHY2feLP4sA2tNllqlyNHGCDKGwYaB"
+                },
+                {
+                    "skinID": "51003",
+                    "skinName": "Nhật Ký Chó Mèo",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-3.jpg",
+                    "skinIcon": "510-smallskin-3.jpg",
+                    "keyHD": "1aPphgYmOB0jQuAWipbODyak18JqOq7ws"
+                },
+                {
+                    "skinID": "51004",
+                    "skinName": "Cơ Giáp Tận Thế",
+                    "skinQuality": "Legend",
+                    "skinTag": "Legend",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-4.jpg",
+                    "skinIcon": "510-smallskin-4.jpg",
+                    "keyHD": "1U9xzFd2gYuM3JdLyDTQmBGXZdf8ixxYG"
+                },
+                {
+                    "skinID": "51005",
+                    "skinName": "Chân Ái Chi Ước",
+                    "skinQuality": "Legend",
+                    "skinTag": "Valentine",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-5.jpg",
+                    "skinIcon": "510-smallskin-5.jpg",
+                    "keyHD": "1OacILXzAygGwdxU-uwNllkX5sJHQtIuC"
+                },
+                {
+                    "skinID": "51006",
+                    "skinName": "Thừa Long - Thối Ngô Câu",
+                    "skinQuality": "Legend",
+                    "skinTag": "2024",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-6.jpg",
+                    "skinIcon": "510-smallskin-6.jpg",
+                    "keyHD": "1bIMKu-Z5Ln2sr9IPikkX-fNHrnEhxiEC"
+                },
+                {
+                    "skinID": "51007",
+                    "skinName": "Lái Xe Vong Linh",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-7.jpg",
+                    "skinIcon": "510-smallskin-7.jpg",
+                    "keyHD": "1oltnziMkB37hA6IRN7gqBBHnyjMouLTz"
+                },
+                {
+                    "skinID": "51008",
+                    "skinName": "Thời Chi Kỳ Lữ",
+                    "skinQuality": "Blessed",
+                    "skinTag": "Blessed",
+                    "starSkin": false,
+                    "skinImage": "510-bigskin-8.jpg",
+                    "skinIcon": "510-smallskin-8.jpg",
+                    "keyHD": "14ZFr0juaEMY-EtvHtyuAwHxJDjiTBY_L"
+                }
+            ]
+        },
+        "511": {
+            "idHero": 511,
+            "heroName": "Trư Bát Giiớ",
+            "globalName": "",
+            "defaultSkin": "Vô Ưu Mãnh Sĩ",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "51100.png",
+                        "skillName": "Hào Phát Vô Thương",
+                        "skillDescription": "Máu đã mất của Bát Giới sẽ được trữ tạm thời. Trong thời gian này, 40%/15% sát thương gây ra cho tướng/đơn vị không phải tướng sẽ được chuyển đổi lại thành máu. Mỗi 1000 Máu cộng thêm tỉ lệ chuyển đổi khi gây sát thương lên tướng/đơn vị không phải tướng sẽ tăng lên 1%/0.5%. Đòn đánh thường gây 70~140 9+35% Công vật lý cộng thêm) sát thương vật lý",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "51110.png",
+                        "skillName": "Nhục Đạn Bảng Sàng",
+                        "skillDescription": "Trư Bát Giới nhảy lên, khi tiếp đất sẽ gây 350/420/490/560/630/700 (+12% Máu cộng thêm)sát thương vật lý lên kẻ địch trúng phải. Sau đó sẽ bật lên cao lần nữa, gây sát thương tương tự khi tiếp đất, đồng thời gây choáng trong 0.5s.</br>Khi tấn công nhiều tướng địch cùng lúc, mỗi kẻ địch thêm sẽ bị giảm 20% sát thương, giảm xuống 60% sát thương ban đầu, gây thêm 30% lên lính (một nửa lên quái rừng). Khi tiếp đất trở lại, do quán tính lớn, Trư Bát Giới sẽ lăn nhanh trên một khoảng cách nhất định. </br>Trong lúc nhảy, Trư Bát Giới miễn khống chế",
+                        "skillPreview": "",
+                        "skillCD": "8/7.7/7.4/7.1/6.8/6.5s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "51120.png",
+                        "skillName": "Quật Ngược Lại",
+                        "skillDescription": "Trư Bát Giới vung cào về phía trước, gây 225/270/315/360/405/450 (+70% Công vật lý thêm)sát thương vật lý và làm chậm 30/36/42/48/54/60% trong 1.5s. Nếu cây cào bám vào địa hình, Trư Bát Giới sẽ lướt tới địa hình và lôi theo toàn bộ những kẻ trên đường lướt. Khi Trư Bát Giới đụng phải địa hình, nó gây 250/300/350/400/450/500 (+10% Máu cộng thêm) sát thương vật lý và làm choáng trong 0.5s</br>Nội tại: Sau khi sử dụng cào ngược, đòn đánh cơ bản tiếp theo trong vòng 3s sẽ sử dụng cào để kéo kẻ địch về.",
+                        "skillPreview": "",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "51130.png",
+                        "skillName": "Khoảnh Khắc Bắt Nhốt",
+                        "skillDescription": "Trư Bát Giới dựng chiếc cào tồn tại trong 4s khiến anh hùng không thể di chuyển qua  và ngay lập tức gây 350/525/700 (+120% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch trước mặt. Trong khi kích hoạt Trư Bát Giới sẽ miễn khống chế",
+                        "skillPreview": "",
+                        "skillCD": "36/32/28s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "51101",
+                    "skinName": "Vô Ưu Mãnh Sĩ",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "511-bigskin-1.jpg",
+                    "skinIcon": "511-smallskin-1.jpg",
+                    "keyHD": "15OfA_pXCiUz_fV6wf2amGAtBDLKTg0MN"
+                },
+                {
+                    "skinID": "51102",
+                    "skinName": "Niên Niên Hữu Dư",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "511-bigskin-2.jpg",
+                    "skinIcon": "511-smallskin-2.jpg",
+                    "keyHD": "15Xu7lLLX_fPRxYVXniuNIJerXoX9c-0v"
+                },
+                {
+                    "skinID": "51103",
+                    "skinName": "Tây Bộ Đại Phiêu Khách",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "511-bigskin-3.jpg",
+                    "skinIcon": "511-smallskin-3.jpg",
+                    "keyHD": "15SovcfMPnoiW60JdP1GNLS87jsH7l2Hf"
+                },
+                {
+                    "skinID": "51104",
+                    "skinName": "Trư Ngộ Năng",
+                    "skinQuality": "Epic",
+                    "skinTag": "JourneyToTheWest",
+                    "starSkin": false,
+                    "skinImage": "511-bigskin-4.jpg",
+                    "skinIcon": "511-smallskin-4.jpg",
+                    "keyHD": "15T3rNQc9_6RB9ST-ww7OKbqguKDN3sPA"
+                },
+                {
+                    "skinID": "51105",
+                    "skinName": "Đồ Chơi Thám Mặt Trăng",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "511-bigskin-5.jpg",
+                    "skinIcon": "511-smallskin-5.jpg",
+                    "keyHD": "15ZLv2G6WEOqW4pk9Xq3vcAFXP7RncDMG"
                 }
             ]
         }
