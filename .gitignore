@@ -5,6 +5,12 @@
 admin/
 esports.html
 # match/
+node_modules/
+tests/
+tests-examples/
+package-lock.json
+package.json
+playwright.config.js
 
 # Basic Jekyll gitignores (synchronize to Jekyll.gitignore)
 _site/
@@ -21,3 +27,10 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

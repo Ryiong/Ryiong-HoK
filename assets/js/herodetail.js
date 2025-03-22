@@ -95,7 +95,7 @@ function renderSkills(data) {
         })
     })
     document.querySelector(".list-skills").innerHTML = htmlCodeIcon;
-    document.querySelector(".list-skills").style.height = `${(6 * oSkLength) + 2}rem`;
+    document.querySelector(".list-skills").style.height = `${(6.5 * oSkLength) + 2}rem`;
     document.querySelector(".description-list").innerHTML = htmlCode;
 }
 

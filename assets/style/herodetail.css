@@ -193,14 +193,12 @@ h2.title-content {
 
 .skins {
     margin: 1.25rem auto;
-    width: 90%;
+    width: 80%;
 }
 
 .list-smallskin {
-    height: 6rem;
     margin: 1rem 0;
-    overflow-x: scroll;
-    overflow-y: hidden;
+    flex-wrap: wrap;
 }
 
 .list-smallskin::-webkit-scrollbar {
@@ -223,6 +221,7 @@ h2.title-content {
     position: relative;
     padding: 0.25rem;
     cursor: pointer;
+    height: 6rem;
 }
 
 .staricon.active-skin > img, .skinicon.active-skin > img {
