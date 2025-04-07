@@ -1,5 +1,12 @@
 [
     {
+        "idHero": "550",
+        "nameHero": "Không Không Nhi",
+        "globalName": "",
+        "role": [
+            "roamer"
+        ]
+    },{
         "idHero": "577",
         "nameHero": "Thiếu Tư Duyên",
         "globalName": "Dyadia",

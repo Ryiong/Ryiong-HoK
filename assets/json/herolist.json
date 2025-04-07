@@ -1,5 +1,13 @@
 [
     {
+        "idHero": "550",
+        "nameHero": "Không Không Nhi",
+        "globalName": "",
+        "role": [
+            "roamer"
+        ]
+    },
+    {
         "idHero": "646",
         "nameHero": "Butterfly",
         "globalName": "Butterfly",
