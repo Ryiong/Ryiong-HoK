@@ -1,5 +1,5 @@
 {
-    "version": "25.3.22.1",
+    "version": "25.4.7.1",
     "data": {
         "105": {
             "idHero": 105,
@@ -135,7 +135,7 @@
                         "skillName": "Quạt Hoa Nở",
                         "skillIcon": "10610.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 45,
+                        "manaCost": 35,
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s",
                         "skillDescription": "Tiểu Kiều ném quạt bay theo hướng chỉ định khi bay đến khoảng cách xa nhất sẽ quay quay trở lại vị trí hiện tại của bản thân gây sát thương cho những kẻ chạm phải quạt, gây 585/635/685/735/785/835 (+80% Công phép) sát thương phép lên kẻ địch đầu tiên trúng phải.</br>Từ kẻ địch thứ hai sẽ giảm đi 20% sát thương, giảm tối đa 50%.",
                         "skillPreview": "https://www.youtube.com/embed/XPjA__rWpQQ?si=KOdvxk7b3vA6nHMa"
@@ -157,7 +157,7 @@
                         "skillName": "Sao Sáng Hồn Loạn",
                         "skillIcon": "10630.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 140,
+                        "manaCost": 120,
                         "skillCD": "35/31.5/28s",
                         "skillDescription": "Tiểu Kiều triệu hồi mưa sao băng tồn tại trong 6s và liên tục rơi ngẫu nhiên vào những kẻ địch trong phạm vi. Mỗi sao băng sẽ gây ra 400/500/600 (+100% Công phép) sát thương phép.</br>Mỗi kẻ địch có thể chịu tối đa 4 sao băng. Khi nhiều ngôi sao băng trúng cùng một mục tiêu, nó sẽ chỉ gây ra 50% sát thương từ ngôi sao băng thứ hai. Trong thời gian mưa sao băng tồn tại bản thân sẽ nhận hiệu ứng tăng tốc chạy.",
                         "skillPreview": "https://www.youtube.com/embed/NbXbjh74ppQ?si=mvTWVrwDJ7p6zLnB"
@@ -282,6 +282,16 @@
                     "skinQuality": "Flawless",
                     "keyHD": "1v5xRw4W3D0KnIxMbxJYRLWAIm9L9Pmy9",
                     "skinTag": "Flawless"
+                },
+                {
+                    "skinID": 10611,
+                    "skinName": "Tìm Kiếm Bí Mật",
+                    "skinImage": "106-bigskin-11.jpg",
+                    "skinIcon": "106-smallskin-11.jpg",
+                    "starSkin": false,
+                    "skinQuality": "Rare",
+                    "keyHD": "1rzXfehqt4WUKce4iTIRbnFhFFZsY1L5p",
+                    "skinTag": "Rare"
                 }
             ]
         },
@@ -328,7 +338,7 @@
                         "skillName": "Long Thiên Tường",
                         "skillIcon": "10730.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 75,
+                        "manaCost": 65,
                         "skillCD": "18/16.5/15s",
                         "skillDescription": "Triệu Vân nhảy lên không trung và lao vào khu vực gây 550/825/1100 (+150% Công vật lý cộng thêm) sát thương vật lý và hất tung kẻ địch vòng tròn trung tâm 1s.</br>Nếu nhảy không trúng tướng địch, 50% thời gian hồi chiêu sẽ được trả lại. Thời gian hồi chiêu cũng sẽ trừ đi thời gian ở trên không",
                         "skillPreview": ""
@@ -506,7 +516,7 @@
                         "skillName": "Cơ Quan Đại Bác",
                         "skillIcon": "10820.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 55,
+                        "manaCost": 40,
                         "skillCD": "7s",
                         "skillDescription": "Mặc Tử phóng một quả pháo thần công theo hướng xác định. Pháo thần công sẽ phát nổ khi va phải kẻ địch hoặc đến vùng xa nhất để vại một vũng nhiễm điện.</br>Vụ nổ gây 525/575/625/675/725/775 (+45% Công phép) sát thương phép lên kẻ địch và làm choáng chúng trong 1s.</br>Vùng nhiễm điện sẽ tồn tại trong 4s và gây 50/56/62/68/74/80 (+5% Công phép) sát thương phép mỗi 0.5s",
                         "skillPreview": "https://www.youtube.com/embed/ODjUilPi000?si=M_yyLnfj8Bdj9VSn"
@@ -517,7 +527,7 @@
                         "skillName": "Mặc Thủ Thành Quy",
                         "skillIcon": "10830.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 150,
+                        "manaCost": 100,
                         "skillCD": "50/45/40s",
                         "skillDescription": "Mặc Tử triển khai một kết giới năng lượng cao trong 3.3s. Mỗi 0.5s sẽ gây 200/250/300 (+45% Công phép) sát thương phép lên những kẻ địch trong phạm vi và làm choáng chúng",
                         "skillPreview": "https://www.youtube.com/embed/Ea7nlauwmnk?si=GCYT4cQzGKfcKpH9"
@@ -618,7 +628,7 @@
                         "skillName": "Xung Kích Linh Hồn",
                         "skillIcon": "10910.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 60,
+                        "manaCost": 40,
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s",
                         "skillDescription": "Đát Kỷ vẫy một làn sóng xung kích theo hướng chỉ định, gây 570/635/700/765/830/895 (+120% Công phép) sát thương phép lên kẻ địch trúng chiêu",
                         "skillPreview": "https://www.youtube.com/embed/pon1rfgm-ko?si=LYQFyY_lefrQDxoc"
@@ -629,7 +639,7 @@
                         "skillName": "Mị Lực Thần Tượng",
                         "skillIcon": "10920.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 80,
+                        "manaCost": 70,
                         "skillCD": "9/8.6/8.2/7.8/7.4/7s",
                         "skillDescription": "Đát Kỷ chọn một mục tiêu thả trái tim tình yêu, gây 285/320/355/390/425/460 (+66% Công phép) sát thương phép lên kẻ địch trúng phải đồng thời làm choáng kẻ đó trong 1.5s",
                         "skillPreview": "https://www.youtube.com/embed/ND8u4tTrZZk?si=l19Tcbp0C02spLp7"
@@ -640,7 +650,7 @@
                         "skillName": "Sùng Bài Nữ Vương",
                         "skillIcon": "10930.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 120,
+                        "manaCost": 90,
                         "skillCD": "15/13.5/12s",
                         "skillDescription": "Đát Kỷ thả ra 5 trái tim tự động tấn công những kẻ địch xung quanh. Mỗi trái tim gây ra 325/405/485 (+75% Công phép) sát thương phép.</br>Khi nhiều trái tim bắn trúng cùng một mục tiêu, chúng sẽ chỉ gây 50% sát thương.",
                         "skillPreview": "https://www.youtube.com/embed/He7wkI_vJ3s?si=Hjj4JVVl9fv0BCK_"
@@ -825,7 +835,7 @@
                         "skillName": "Vương Giả Trừng Trị",
                         "skillIcon": "11010.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 70,
+                        "manaCost": 55,
                         "skillCD": "8/7.8/7.6/7.4/7.2/7s",
                         "skillDescription": "Doanh Chính triệu hồi mưa kiếm vàng rơi xuống tại vị trí chỉ định trong 2.5s, mỗi 0.5s gây 140/168/196/224/252/280 (+27% Công phép) sát thương phép đồng thời giảm 15/18/21/24/27/30% Tốc chạy của kẻ địch, kéo dài 1s.",
                         "skillPreview": ""
@@ -847,7 +857,7 @@
                         "skillName": "Chí Tôn Vương Quyền",
                         "skillIcon": "11030.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 120,
+                        "manaCost": 100,
                         "skillCD": "35/32.5/30s",
                         "skillDescription": "Doanh Chính thể hiện vương quyền phóng 90 thanh kiếm về phía trước trong 5s. Mỗi thanh kiếm sẽ gây 54/81/108 (+10% Công phép) sát thương phép.</br>Trong quá trình phí kiếm sẽ được nhận 20% Tốc chạy và các kỹ năng khác vẫn có thể sử dụng khi phóng kiếm. Tái kích hoạt kỹ năng sẽ dừng phóng kiếm.",
                         "skillPreview": ""
@@ -938,7 +948,7 @@
                         "skillName": "Pháo Đạn Đột Kích",
                         "skillIcon": "11110.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 25,
+                        "manaCost": 20,
                         "skillCD": "5s",
                         "skillDescription": "Tôn Thượng Hương lăn lộn theo hướng chỉ định đồng thời cường hóa đòn đánh thường kế tiếp, gây 270/290/310/330/350/370 (+100% Công vật lý) sát thương vật lý lên kẻ địch trên đường thẳng.</br>Nếu có kẻ địch ở gần Hương Hương sau khi lộn cô được tăng 80% Tốc chạy trong 2s.</br>Sau khi sử dụng đạn cường hóa, đòn đánh thường tiếp theo sẽ được thiết lập lại và khoảng cách tấn công sẽ được tăng lên.",
                         "skillPreview": ""
@@ -960,7 +970,7 @@
                         "skillName": "Đạn Pháo Tối Thượng",
                         "skillIcon": "11130.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 100,
+                        "manaCost": 80,
                         "skillCD": "25/20/15s",
                         "skillDescription": "Tôn Thượng Hương bắn một viên đạn tối tượng theo hướng chỉ định. Đạn phát nổ khi chạm phải kẻ địch hoặc bay đến khoảng cách xa nhất gây 500/750/1000 (+185% Công vật lý) sát thương vật lý, gây 75% sát thương cho kẻ địch trong vụ nổ.",
                         "skillPreview": ""
@@ -1154,7 +1164,7 @@
                     {
                         "skillName": "Hỏa Lực Áp Chế",
                         "skillIcon": "11200.png",
-                        "skillDescription": "Đòn đánh thường thứ 5 của Lỗ Ban hoặc đòn đánh thường sau khi dùng kỹ năng sẽ bắn oanh tạc, gây 3 lần sát thương cho kẻ địch. Mỗi lần gây 70~140 (+4.5% Máu tối đa lên mục tiêu) sát thương vật lý cho tướng địch (Mỗi 100 Công vật lý cộng thêm sẽ tăng sát thương thêm 0.01%), gây 120 (+50% Công vật lý) sát thương vật lý lên đơn vị không phải anh hùng.",
+                        "skillDescription": "Đòn đánh thường thứ 5 của Lỗ Ban hoặc đòn đánh thường sau khi dùng kỹ năng sẽ bắn oanh tạc, gây 3 lần sát thương cho kẻ địch. Mỗi lần gây 70~140 (+4.5% Máu tối đa lên mục tiêu) sát thương vật lý cho tướng địch (Mỗi 100 Công vật lý cộng thêm sẽ tăng sát thương thêm 0.01%), gây 120~240 (+50% Công vật lý) sát thương vật lý lên đơn vị không phải anh hùng.",
                         "skillPreview": ""
                     }
                 ],
@@ -1163,8 +1173,8 @@
                         "skillName": "Thủ Pháo Cá Nóc",
                         "skillIcon": "11210.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 50,
-                        "skillCD": "7/6.8/6.6/6.4/6.2/6s",
+                        "manaCost": 40,
+                        "skillCD": "7.5/7.2/6.9/6.6/6.3/6s",
                         "skillDescription": "Lỗ Ban ném một quả lựu đạn, gây 450/540/630/720/810/900 (+75% Công vật lý) sát thương vật lý và làm chậm 25/30/35/40/45/50% mục tiêu trong 2s, đồng thời cũng có được tầm nhìn của kẻ địch.",
                         "skillPreview": ""
                     }
@@ -1175,8 +1185,8 @@
                         "skillIcon": "11220.png",
                         "manaType": "Năng lượng",
                         "manaCost": 70,
-                        "skillCD": "15/13.8/12.6/11.4/10.2/9s",
-                        "skillDescription": "Lỗ Ban ném một quả tên lửa theo hướng chỉ định đẩy lùi kẻ địch trước mặt. Sau kh trúng tướng địch nó sẽ phát nổ gây 400/450/500/550/600/650 (+70% Công vật lý cộng thêm) sát thương vật lý và gây sát thương phép tương đương 5/6/7/8/9/10% Máu đã mất của mục tiêu",
+                        "skillCD": "16/15.4/14.8/14.2/13.6/13s",
+                        "skillDescription": "Lỗ Ban ném một quả tên lửa theo hướng chỉ định đẩy lùi kẻ địch trước mặt. Sau kh trúng tướng địch nó sẽ phát nổ gây 350/420/490/560/630/700 (+70% Công vật lý cộng thêm) sát thương vật lý và gây sát thương phép tương đương 5/6/7/8/9/10% Máu đã mất của mục tiêu",
                         "skillPreview": ""
                     }
                 ],
@@ -1185,7 +1195,7 @@
                         "skillName": "Chi Viện Trên Không",
                         "skillIcon": "11230.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 100,
+                        "manaCost": 80,
                         "skillCD": "40/30/20s",
                         "skillDescription": "Lỗ Ban triệu hồi tri viện trên không theo hướng chỉ định, tri viện sẽ thả một quả bom và một kẻ địch ngẫu nhiên trong phạm vi mỗi 1s, gây 500/625/750 (+75% Công vật lý) sát thương vật lý.</br>Kẻ địch trúng bom sẽ bị làm chậm 25/37.5/50% trong 1s. Tri viện sẽ cung cấp tầm nhìn trong 14s",
                         "skillPreview": ""
@@ -1380,7 +1390,7 @@
                         "skillName": "Hóa Bướm",
                         "skillIcon": "11310.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 80,
+                        "manaCost": 60,
                         "skillCD": "8s",
                         "skillDescription": "Trang Chu tiến vào giấc mơ và hoá bướm bay theo hướng chỉ định gây 400/480/560/640/720/800 (+80% Công phép) sát thương phép và làm chậm 30/36/42/48/54/60% cho kẻ địch trên đường đi trong 2s",
                         "skillPreview": ""
@@ -1391,7 +1401,7 @@
                         "skillName": "Hiệu Ứng Cánh Bướm",
                         "skillIcon": "11320.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 40,
+                        "manaCost": 30,
                         "skillCD": "5/4.6/4.2/3.8/3.4/3s",
                         "skillDescription": "Trang Chi tiến hoá bướm tiến vào giấc mơ, gây 250/320/390/460/530/600 (+30% Công phép) sát thương phép lên kẻ địch xung quanh và tăng Tốc chạy của đồng minh trong phạm vi thêm 3% trong 5s.</br>Kỹ năng có thể xếp cồng hiệu ứng, mỗi lớp tăng thêm 125/160/195/230/265/300 (+15% Công phép) át thương phép mỗi lớp tăng thêm 3% Tốc chạy, tối đa 5 lớp.</br>Nội tại: Khi hiệu ứng của [Ý Chí Tự Nhiên] kết thúc, Trang Chu sẽ tự động giải phóng [Hiệu Ứng Cánh Bướm] một lần.",
                         "skillPreview": ""
@@ -1534,7 +1544,7 @@
                         "skillName": "Cơ Quan Ma Chảo",
                         "skillIcon": "11420.png",
                         "manaType": "Năng lượng",
-                        "manaCost": 55,
+                        "manaCost": 40,
                         "skillCD": "7.5/7.2/6.9/6.6/6.3/6s",
                         "skillDescription": "Lưu Thiện điều khiển gấu trúc mở rộng móng vuốt của nó theo hướng xác định để tấn công, gây 400/480/560/640/720/800 (+100% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch trong phạm vi và làm choáng kẻ địch trong phạm vi trong 1s",
                         "skillPreview": ""
@@ -1648,7 +1658,7 @@
                         "skillDescription": "Cao Tiệm Ly chơi 2 nốt nhạc, khóa 2 kẻ địch xung quanh để gây ra 350/410/470/530/590/650 (+47% Công phép) sát thương phép.</br>Sau khi nốt nhạc chạm vào kẻ địch, nó sẽ nảy về phía những kẻ địch xung quanh, lưu ý nảy nhiều nhất 2 lần.</br>Khi nhiều nốt trúng cùng một mục tiêu, nốt thứ 2 chỉ gây 30% sát thương.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "55",
                         "skillCD": "8/7.8/7.6/7.4/7.2/7s"
                     }
                 ],
@@ -1924,7 +1934,7 @@
                         "skillDescription": "Vô Diệm lướt về phía trước, cường hoá đòn đánh thường tiếp theo thành đập búa gây thêm 250/300/350/400/450/500 (+50% Công vật lý cộng thêm) sát thương vật lý và làm chậm 25/30/35/40/45/50% mục tiêu trong 2s. Nếu dùng kỹ năng này khi đang dùng kỹ năng 3, tốc chạy sẽ bị giảm đi đôi chút.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "30",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -1935,7 +1945,7 @@
                         "skillDescription": "Vô Diệm dùng búa tạ đập xuống đất, gây 700/840/980/1120/1260/1400 (+ 200% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trong phạm vi và gấp đôi cho kẻ địch ở giữa phạm vi",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "55",
+                        "manaCost": "40",
                         "skillCD": "7/6.7/6.4/6.1/5.8/5.5s"
                     }
                 ],
@@ -1946,7 +1956,7 @@
                         "skillDescription": "Chung Vô Diệm cầm búa tạ và tiếp tục quay, tăng Tốc chạy thêm 10/15/20% trong 3,2s, gây ra 300/450/600 (+100% Công vật lý cộng thêm) sát thương vật lý mỗi 0.4s và gây thêm 50% sát thương cho kẻ địch trong vòng tròn bên ngoài.</br>Trong quá trình xoay, sẽ nhận được 5% Tốc chạy và 80/120/160 (+3% Máu cộng thêm) lá chắn sau mỗi 0.4s có thể chồng tối đa 4 lớp.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "70",
                         "skillCD": "40/35/30s"
                     }
                 ]
@@ -2047,7 +2057,7 @@
                         "skillDescription": "Tôn Tẫn ném một quả bom theo hướng chỉ định, quả bom này sẽ dính vào kẻ địch sau khi trúng mục tiêu, gây 200/240/280/320/360/400 (+20% Công phép) sát thương phép. Quả bom phát nổ sau 3 giây, gây 550/660/770/880/990/1100 (+55% Công phép) sát thương phép và làm chậm 15/18/21/24/27/30% cho kẻ địch trong phạm vi trong 2s.</br>Việc gỡ bom sẽ kích hoạt một vụ nổ ngay lập tức.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
                     }
                 ],
@@ -2058,7 +2068,7 @@
                         "skillDescription": "Tôn Tẫn điều khiển sức mạnh thời không, tăng Tốc chạy của đồng minh trong phạm vi thêm 30/36/42/48/54/60% trong 2s. Sau khi thời gian kết thúc, thời gian sẽ quay ngược lại và 25/30/35/40/45/50% sát thương phải chịu trong thời gian đó sẽ được trả lại thành Máu. Đồng thời, 25/30/35/40/45/50% lượng năng lượng đã tiêu thụ trong thời gian đó cũng sẽ được trả lại.</br>Nội tại: Tôn Tẫn nhận được 7.5/9/10.5/12/13.5/15% Giảm hồi chiêu.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "55",
                         "skillCD": "13/12.4/11.8/11.2/10.6/10s"
                     }
                 ],
@@ -2211,7 +2221,7 @@
                         "skillDescription": "Biển Thước phóng độc theo hướng chỉ định, gây 100/120/140/160/180/200 (+30% Công phép) sát thương phép lên kẻ địch trên đường đi của độc. Nếu là tướng đồng minh sẽ hồi phục 50/60/70/80/90/100 (+15% Công phép) Máu",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -2222,7 +2232,7 @@
                         "skillDescription": "Biển Thước kích nổ tất cả các Dấu Độc gần đó, gây 150/225/300 (+40% Công phép) sát thương phép cho kẻ địch và hồi 70/105/140 (+20% Công phép) Máu cho các anh hùng đồng minh. Mỗi Dấu Độc tăng thêm 50% sát thương và hiệu ứng hồi phục. Ngoài ra, Biển Thước còn tự phục hồi cho bản thân thêm 400/600/800 (+30% Công phép) (+5% Máu cộng thêm) Máu",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "130",
+                        "manaCost": "120",
                         "skillCD": "15/13.5/12s"
                     }
                 ]
@@ -2287,6 +2297,16 @@
                     "skinIcon": "119-smallskin-6.jpg",
                     "keyHD": "1GChDO4YUGJdE3dLQE-cDKIMt2m3ibeRu",
                     "skinTag": "Rare"
+                },
+                {
+                    "skinID": "11907",
+                    "skinName": "Linh Cổ Thực Tâm",
+                    "skinQuality": "Epic",
+                    "starSkin": false,
+                    "skinImage": "119-bigskin-7.jpg",
+                    "skinIcon": "119-smallskin-7.jpg",
+                    "keyHD": "1cMhurYTkpAu33g0mn1IfwNDIN_1VapVJ",
+                    "skinTag": "Epic"
                 }
             ]
         },
@@ -2696,7 +2716,7 @@
                     "skinImage": "123-bigskin-8.jpg",
                     "skinIcon": "123-smallskin-8.jpg",
                     "keyHD": "1gyZ3qASMe3wWAcbrppQpE1hg3rIS0AIA",
-                    "skinTag": "FMVP"
+                    "skinTag": "CFMVP"
                 },
                 {
                     "skinID": "12309",
@@ -2753,7 +2773,7 @@
                         "skillDescription": "Chu Du triệu hồi một cơn gió mạnh thổi 1 chiều. Đồng minh trong phạm vi được tăng 5/6/7/8/9/10% Tốc chạy (tối đa 5 anh hùng, hiệu ứng gấp đôi đối với bản thân) trong khi tướng địch bị làm chậm 10/12/14/16/18/20% trong 3s. Khi triệu hồi cơn gió, Kẻ địch ở gần sẽ bị đẩy lùi theo hướng gió và nhận 200/240/280/320/360/400 (+30% Công phép) sát thương phép.</br>Nếu gió thổi trùm qua vùng lửa trong 1s, vùng lửa mới sẽ xuất hiện một vùng lửa mới theo hướng gió gây 100/120/140/160/80/200 (+25% Công phép) sát thương phép mỗi 0.5s. Sát thương này cộng dồn với vùng cháy hiện tại",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -2775,7 +2795,7 @@
                         "skillDescription": "Chu Du vung bụi gió lửa theo hướng xác định, gây 200/300/400 (+40% Công phép) sát thương phép. Bụi lửa phóng qua các vùng lửa sẽ kích hoạt một trận gió lửa, gió lửa sẽ gây thêm 200/300/400 (+40% Công phép) sát thương phép và làm choáng kẻ địch 1s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "70",
                         "skillCD": "10/9/8s"
                     }
                 ]
@@ -2875,13 +2895,13 @@
                     {
                         "skillIcon": "12500.png",
                         "skillName": "Bí Thuật - Thao Khống",
-                        "skillDescription": "Con rối sẽ thừa hường tất cả các trang bị của Nguyên Ca (ngoại trừ các nội tại Phục Sinh, Cuồng Nộ Máu, Bóng Tối Che Phủ, Khiên Năng Lượng) và một số buff khác.</br>Đòn đánh thường của con rối có thể sẽ gây 0~195 (+100% Công vật lý) sát thương vật lý, sát thương cơ bản sẽ tăng dần theo cấp của kỹ năng 1.</br>Kinh nghiệm, vàng và một số buff mà con rối nhận được cũng sẽ được chia sẻ với Nguyên Ca.</br>Khi con rối bị phá hủy, Nguyên Ca sẽ không thể triệu hồi con rối trong 20s đồng thời Nguyên Ca bị lộ vị trí và bị choáng trong 2s</br>Bất cứ khi nào con rối được thu về, Nguyên Ca sẽ xóa bỏ mọi khống chế, tăng 40% Tốc chạy kéo dài 1s và nhận lá chắn 200 (+62% Công vật lý) ",
+                        "skillDescription": "Khi Nguyên Ca và con rối (đòn đánh thường từ cơ thể chính có tỉ lệ nhận) và kỹ năng đánh trúng tướng địch sẽ nhận được mảnh tướng và hồi phục 70~140 (+1.2% Máu cộng thêm) Máu. Các mảnh tướng mà nhận được từ đòn đánh thường của rối không hồi phục máu cho Nguyên Ca. Số lượng mảnh rối thu được sẽ tăng theo thời gian.</br>Con rối của Nguyên Ca sẽ kế thừa toàn bộ hiệu ứng trang bị của bản thân (ngoại trừ các nội tại Phục Sinh, Cuồng Nộ Máu, Bóng Tối Che Phủ, Khiên Năng Lượng) và một số buff khác, đồng thời king nghiệm, vàng và buff của con rối có cũng sẽ chia sẻ với Nguyên Ca. Đòn đánh thường của con rối sẽ gây 165 sát thương vật lý, sát thương cơ bản của rối sẽ tăng theo cấp độ của [Bí Thuật - Ảnh]. Khi con rối ở trong phạm vi 900 cạnh Nguyên Ca, Nguyên Ca sẽ tự động đánh thường. Bất cứ khi nào con rối trở về với cơ thể chính, cơ thể chính sẽ xóa hiệu ứng khống chế và tăng 40% tốc chạy trong 1s cùng với nhận lá chắn hấp thụ 200 (+62% Công vật lý) sát thương</br>Con rối anh hùng sẽ tiêu thụ 50 mảnh tướng để triệu hồi tướng tương ưng, con rối anh hùng có thuộc tính cơ bản, cấp độ va trang bị như anh hùng tương ứng và có thể sử dụng kỹ năng. Con rối anh hùng sẽ trở lại thành rối thường sau 10s. Ở trạng thái ban đầu, rối anh hùng gây 50% (+1% mỗi 15 Công vật lý cộng thêm) sát thương và chịu 200% (-2% mỗi 80 Máu tối đa cộng thêm) sát thương so với bản thể gốc.</br>Kỹ năng hồi phục của Nguyên Ca được thay thế bằng ba lô mảnh tướng, có thể dùng để xem số lượng mảnh vỡ anh hùng hiện tại. Mỗi tướng địch có thể tích lũy tối đa 100 mảnh. Có thể sử dụng 50 mảnh để triệu hồi một tướng địch, kéo dài tối đa 10s",
                         "skillPreview": ""
                     },
                     {
                         "skillIcon": "12500.png",
                         "skillName": "Bí Thuật - Thao Khống",
-                        "skillDescription": "Con rối sẽ thừa hường tất cả các trang bị của Nguyên Ca (ngoại trừ các nội tại Phục Sinh, Cuồng Nộ Máu, Bóng Tối Che Phủ, Khiên Năng Lượng) và một số buff khác.</br>Đòn đánh thường của con rối có thể sẽ gây 0~195 (+100% Công vật lý) sát thương vật lý, sát thương cơ bản sẽ tăng dần theo cấp của kỹ năng 1.</br>Kinh nghiệm, vàng và một số buff mà con rối nhận được cũng sẽ được chia sẻ với Nguyên Ca.</br>Khi con rối bị phá hủy, Nguyên Ca sẽ không thể triệu hồi con rối trong 20s đồng thời Nguyên Ca bị lộ vị trí và bị choáng trong 2s</br>Bất cứ khi nào con rối được thu về, Nguyên Ca sẽ xóa bỏ mọi khống chế, tăng 40% Tốc chạy kéo dài 1s và nhận lá chắn 200 (+62% Công vật lý) ",
+                        "skillDescription": "Khi Nguyên Ca và con rối (đòn đánh thường từ cơ thể chính có tỉ lệ nhận) và kỹ năng đánh trúng tướng địch sẽ nhận được mảnh tướng và hồi phục 70~140 (+1.2% Máu cộng thêm) Máu. Các mảnh tướng mà nhận được từ đòn đánh thường của rối không hồi phục máu cho Nguyên Ca. Số lượng mảnh rối thu được sẽ tăng theo thời gian.</br>Con rối của Nguyên Ca sẽ kế thừa toàn bộ hiệu ứng trang bị của bản thân (ngoại trừ các nội tại Phục Sinh, Cuồng Nộ Máu, Bóng Tối Che Phủ, Khiên Năng Lượng) và một số buff khác, đồng thời king nghiệm, vàng và buff của con rối có cũng sẽ chia sẻ với Nguyên Ca. Đòn đánh thường của con rối sẽ gây 165 sát thương vật lý, sát thương cơ bản của rối sẽ tăng theo cấp độ của [Bí Thuật - Ảnh]. Khi con rối ở trong phạm vi 900 cạnh Nguyên Ca, Nguyên Ca sẽ tự động đánh thường. Bất cứ khi nào con rối trở về với cơ thể chính, cơ thể chính sẽ xóa hiệu ứng khống chế và tăng 40% tốc chạy trong 1s cùng với nhận lá chắn hấp thụ 200 (+62% Công vật lý) sát thương</br>Con rối anh hùng sẽ tiêu thụ 50 mảnh tướng để triệu hồi tướng tương ưng, con rối anh hùng có thuộc tính cơ bản, cấp độ va trang bị như anh hùng tương ứng và có thể sử dụng kỹ năng. Con rối anh hùng sẽ trở lại thành rối thường sau 10s. Ở trạng thái ban đầu, rối anh hùng gây 50% (+1% mỗi 15 Công vật lý cộng thêm) sát thương và chịu 200% (-2% mỗi 80 Máu tối đa cộng thêm) sát thương so với bản thể gốc.</br>Kỹ năng hồi phục của Nguyên Ca được thay thế bằng ba lô mảnh tướng, có thể dùng để xem số lượng mảnh vỡ anh hùng hiện tại. Mỗi tướng địch có thể tích lũy tối đa 100 mảnh. Có thể sử dụng 50 mảnh để triệu hồi một tướng địch, kéo dài tối đa 10s",
                         "skillPreview": ""
                     }
                 ],
@@ -2889,39 +2909,39 @@
                     {
                         "skillIcon": "12510.png",
                         "skillName": "Bí Thuật - Ảnh",
-                        "skillDescription": "Ngay lập tức thu hồi con rối lại, hất tung kẻ địch trên đường đi, gây 300/360/420/480 (+125% Công vật lý cộng thêm) sát thương vật lý ",
+                        "skillDescription": "Nguyên Ca ném con rối về phía trước, gây 315/420/525/630 (+100% Công vật lý cộng thêm) sát thương vật lý và hiệu ứng hất tung cho kẻ địch trên đường rối bay qua. Đồng thời, tiến hành điều khiển con rối.</br>Sau khi con rối bị phá hủy, Nguyên Ca sẽ bị lộ vị trí và bị choáng 2s. Đồng thời, Nguyên Ca sẽ bị cấm triệu hồi rối trong 20s. Con rối sẽ tự động bị hủy khi vượt quá 2500 trong 5s. Bất kể con rối có bị phá hủy hay không quyền điều khiển sẽ được chuyển lại cho Nguyên Ca",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
-                        "skillCD": "20/19.5/19/18.5s"
+                        "manaCost": "70",
+                        "skillCD": "20/18.67/17.33/16s"
                     },
                     {
                         "skillIcon": "12511.png",
                         "skillName": "Bí Thuật - Về",
-                        "skillDescription": "Nguyên Ca ném con rối về phía trước, gây 300/360/420/480 (+125% Công vật lý cộng thêm) sát thương vật lý và hiệu ứng hất tung cho kẻ địch trên đường rối bay qua. Đồng thời, tiến hành điều khiển con rối.</br>Con rối sẽ bắt chước hình ảnh 1 tướng địch, cho đến khi nó tấn công hoặc bị tấn công. Nguyên Ca sẽ tự động tấn công khi con rối ở trong phạm vi 900. Con rối tự động biến mất khi cách Nguyên Ca phạm vi 2500 trở lên trong 5s. Khi con rối bị phá hủy hoặc biến mất, quyền điều khiển sẽ quay về Nguyên Ca.",
+                        "skillDescription": "Ngay lập tức thu hồi con rối lại, hất tung kẻ địch trên đường đi, gây 315/420/525/630 (+100% Công vật lý cộng thêm) sát thương vật lý",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
-                        "skillCD": "20/19.5/19/18.5s"
+                        "manaCost": "0",
+                        "skillCD": "20/18.67/17.33/16s"
                     }
                 ],
                 [
                     {
                         "skillIcon": "12520.png",
                         "skillName": "Bí Thuật - Hạc Giấy",
-                        "skillDescription": "Hoán đổi vị trí của con rối và Nguyên Ca. Nếu khoảng cách giữa con rối và cơ thể lớn hơn 900, con rối sẽ chỉ di chuyển đến vị trí cách cơ thể chính 900. Gây 300/360/420/480 (+125% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi.</br>Ở trạng thái trói, kỹ năng này sẽ kéo Nguyên Ca đến trước mặt con rối và chuyển quyền điều khiển sang Nguyên Ca",
+                        "skillDescription": "Nguyên Ca ném 4 con hạc giấy theo hướng chỉ định, gây 420/560/700/840 (+180% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi. Hạc giấy có thể tấn công liên tục nhưng sát thương sẽ giảm 50%",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "11/10/9/8s"
                     },
                     {
                         "skillIcon": "12521.png",
                         "skillName": "Bí Thuật - Thay Thế",
-                        "skillDescription": "Sau một khoảng trễ ngắn, Nguyên Ca ném 4 con hạc giấy theo hướng chỉ định, gây 390/520/650/780 (+180% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi",
+                        "skillDescription": "Hoán đổi vị trí của con rối và Nguyên Ca. Nếu khoảng cách giữa con rối và cơ thể lớn hơn 900, con rối sẽ chỉ di chuyển đến vị trí cách cơ thể chính 900. Gây 315/420/525/630 (+100% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi.</br>Ở trạng thái trói, kỹ năng này sẽ kéo Nguyên Ca đến trước mặt con rối và chuyển quyền điều khiển sang Nguyên Ca",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "0",
                         "skillCD": "10s"
                     }
                 ],
@@ -2929,19 +2949,19 @@
                     {
                         "skillIcon": "12530.png",
                         "skillName": "Bí Thuật - Chớp Chữ Thập",
-                        "skillDescription": "Nguyên Ca ném ra 2 sợi tơ và lũi về phía sau, mỗi sợi tơ sẽ gây 250/295/340/385 (+100% Công vật lý cộng thêm) sát thương vật lý cho mục tiêu trúng phải. Đơn vị bị hai sợi tơ cắt trúng sẽ nhận thêm sát thương vật lý bằng 16% Máu đã mất và bị giảm 30/40/50/60% Tốc chạy trong 2s",
+                        "skillDescription": "Nguyên Ca ném ra 2 sợi tơ và kéo ngược về phía sau, mỗi sợi tơ sẽ gây 180/240/300/360 (+100% Công vật lý cộng thêm) sát thương vật lý cho mục tiêu trúng phải. Đơn vị bị hai sợi tơ cắt trúng sẽ nhận thêm sát thương vật lý bằng 16% Máu đã mất và làm chậm 30/40/50/60% trong 2s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "11/10/9/8s"
                     },
                     {
                         "skillIcon": "12531.png",
                         "skillName": "Bí Thuật - Trói",
-                        "skillDescription": "Con rối gây 300/360/420/480 (+125% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch ở gần và giảm 250~500 Tốc chạy trong 2s. Sau đó có thể tái kích hoạt kỹ năng trong vòng 3s, con rối tiếp tục làm choáng kẻ địch và gây 100 (+50% Công vật lý cộng thêm) sát thương phép",
+                        "skillDescription": "Con rối gây 315/420/525/630 (+100% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch ở gần và làm chậm 250/333.33/416.67/500 trong 2s. Sau đó có thể tái kích hoạt kỹ năng trong vòng 3s, con rối tiếp tục làm choáng kẻ địch và gây 120/160/200/240 (+40% Công vật lý cộng thêm) sát thương phép",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "0",
                         "skillCD": "10s"
                     }
                 ],
@@ -2949,11 +2969,11 @@
                     {
                         "skillIcon": "12540.png",
                         "skillName": "Bí Thuật - Tản",
-                        "skillDescription": "Nguyên Ca biến mất ngay lập tức và xuất hiện lại ở một vị trí khác trong phạm vi sau một khoảng thời gian ngắn",
+                        "skillDescription": "Nguyên Ca biến mất ngay lập tức và xuất hiện lại ở một vị trí khác trong phạm vi sau một khoảng thời gian ngắn</br>Không thể xóa hiệu ứng choáng khi rối bị phá hủy",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "100",
-                        "skillCD": "12/11/10s"
+                        "skillCD": "25/22.5/20s"
                     },
                     {
                         "skillIcon": "12541.png",
@@ -2961,8 +2981,8 @@
                         "skillDescription": "Con rối lao theo hướng chỉ định, gây sát thương vật lý bằng 100% Công vật lý cho kẻ địch trên đường đi. Trong trạng thái trói, kỹ năng này sẽ lập tức chuyển điều khiển sang Nguyên Ca",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
-                        "skillCD": "28/24/20s"
+                        "manaCost": "0",
+                        "skillCD": "12/11/10s"
                     }
                 ]
             ],
@@ -3054,7 +3074,7 @@
                         "skillDescription": "Hạ Hầu Đôn phóng đao lên phía trước nó đâm xuống đất tại vị trí xa nhất hoặc khi gặp kẻ địch đầu tiên gây 400/600/800 (+10% Máu cộng thêm) sát thương vật lý diện rộng và làm choáng kẻ địch trúng chiêu đầu tiên 1s. Sau đó, hắn phóng đến vị trí chiếc đao và được miễn nhiễm với khống chế trong thời gian lao đến, gây 400/600/800 (+10% Máu cộng thêm) sát thương vật lý lên các kẻ địch trọng phạm vi",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "60",
                         "skillCD": "16/14.5/13s"
                     }
                 ]
@@ -3155,7 +3175,7 @@
                         "skillDescription": "Chân Cơ triệu hồi một cột nước lao lên tại vị trí chỉ định sau đó nó sẽ hoá thành khối băng trên mặt đất để ngăn chặn các đơn vị anh hùng đi qua, gây 450/540/630/720/810/900 (+85% Công phép) sát thương phép lên kẻ địch trong phạm vi và hất văng chúng trong 1s. Khối băng tồn tại trong 8s và liên tục làm chậm các đơn vị xung quanh 10/12/14/16/18/20%.</br>Nếu Chân Cơ ở trong phạm vi trước khi khối băng được tạo thành, cô sẽ bị đóng băng và trở nên bất khả chiến bại trong 3s.</br>Khi khối băng được giải phóng hoặc quá trình đóng băng kết thúc, khối băng sẽ vỡ tan gây 150/180/210/240/270/300 (+35% Công phép) sát thương phép lên kẻ địch xung quanh và làm chậm chúng đi 10/12/14/16/18/20% trong 3s. Gây gấp đôi sát thương ở tâm vụ nổ.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "60",
                         "skillCD": "9/8.6/8.2/7.8/7.4/7s"
                     }
                 ],
@@ -3163,10 +3183,10 @@
                     {
                         "skillIcon": "12720.png",
                         "skillName": "Bóng Nước Than Thở",
-                        "skillDescription": "\"Chân Cơ khoá một kẻ địch và điều khiển bóng nước tấn công. Bóng nước sẽ khóa chặt kẻ thù và nảy lại giữa chúng, tối đa 5 đến 7 lần (tăng lên khi cấp độ kỹ năng đạt đến cấp 3 và 5) và mỗi kẻ địch có thể bị nảy lại tối đa 2 lần.</br>Mỗi lần nảy gây 250/300/350/400/450/500 (+45% Công phép) sát thương phép lên kẻ địch.\nBạn có thể chọn các khối băng làm mục tiêu. Nếu vật phóng không thể tiếp tục phóng ra, nó sẽ biến mất khỏi mục tiêu sau 3s.\"",
+                        "skillDescription": "Chân Cơ khoá một kẻ địch và điều khiển bóng nước tấn công. Bóng nước sẽ khóa chặt kẻ thù và nảy lại giữa chúng, tối đa 5 đến 7 lần (tăng lên khi cấp độ kỹ năng đạt đến cấp 3 và 5) và mỗi kẻ địch có thể bị nảy lại tối đa 2 lần.</br>Mỗi lần nảy gây 250/300/350/400/450/500 (+45% Công phép) sát thương phép lên kẻ địch.\nBạn có thể chọn các khối băng làm mục tiêu. Nếu vật phóng không thể tiếp tục phóng ra, nó sẽ biến mất khỏi mục tiêu sau 3s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "8/7.7/7.4/7.1/6.8/6.5s"
                     }
                 ],
@@ -3313,9 +3333,9 @@
                     {
                         "skillIcon": "12830.png",
                         "skillName": "Hiếu Hùng Đẫm Máu",
-                        "skillDescription": "Tào Tháo cường hóa thanh đại kiếm của mình bằng ý chí máu, loại bỏ hiệu ứng khống chế trên bản thân và phục hồi 18% Máu đã mất. Đồng thời, tăng 100/150/200 Công vật lý và 10/15/20% kháng hiệu ứng trong 8s. Khi được giải phóng, nó gây 400/600/800 (+120% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch xung quanh.</br>Trong thời gian cường hóa, mỗi đòn đánh thường hoặc kỹ năng đánh vào kẻ địch sẽ hồi phục 150/225/300 (+8% Máu cộng thêm) Máu.",
+                        "skillDescription": "Tào Tháo cường hóa thanh đại kiếm của mình bằng ý chí máu, loại bỏ hiệu ứng khống chế trên bản thân và phục hồi 18% Máu đã mất. Đồng thời, tăng 100/150/200 Công vật lý và 10/15/20% kháng hiệu ứng trong 8s. Khi được giải phóng, nó gây 400/600/800 (+120% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch xung quanh.</br>Trong thời gian cường hóa, mỗi đòn đánh thường hoặc kỹ năng đánh vào kẻ địch sẽ hồi phục 150/225/300 (+8% Máu cộng thêm) Máu.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
-                        "skillCD": "40/35/30s"
+                        "skillCD": "30/27/24s"
                     }
                 ]
             ],
@@ -3436,7 +3456,7 @@
                         "skillDescription": "Điển Vi giẫm mạnh xuống đất, gây 320/384/448/512/576/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch trong phạm vi và làm chậm chúng 25/30/35/40/45/50% trong 2s.</br>Nếu đánh trúng kẻ địch, Điển Vi sẽ phá vỡ giới hạn của bản thân, tăng 200% Tốc đánh và 20/24/28/32/36/40% hút máu. Mỗi đòn đánh thường đánh trúng kẻ địch sẽ hồi thêm 30/36/42/48/54/60 Máu trong 3s. Khi không giẫm trúng kẻ địch hiệu ứng nhận thêm sẽ chỉ nhận được một nửa.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "45",
+                        "manaCost": "40",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -3447,7 +3467,7 @@
                         "skillDescription": "Điển Vi lao đến mục tiêu được chọn lao đến bổ vào mục tiêu, làm choáng đối thủ (không được coi là hiệu ứng khống chế), nhận 1 lớp phẫn nộ cho mỗi kẻ địch trúng đòn, gây 320/480/640 (+90% Công vật lý cộng thêm) sát thương vật lý và làm chậm 30/45/60% mục tiêu trong 3s.</br>Đồng thời, Điển Vi cường hoá bản thân toàn bộ sát thương bản thân gây ra cho kẻ địch sẽ gây thêm sát thương chuẩn tương đương 2.5% Máu tối đa của mục tiêu trong 5s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "130",
+                        "manaCost": "90",
                         "skillCD": "25/22.5/20s"
                     }
                 ]
@@ -3697,7 +3717,7 @@
                         "skillDescription": "Lý Bạch có thể lao tới hướng chỉ định 2 lần liên tiếp, gây 350/395/440/485/530/575 (+110% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch trên đường và gây choáng trong 0.5s đồng thời nhận 1 tầng Hào Quang Kiếm.</br>Lần kích hoạt thứ ba sẽ trở lại vị trí ban đầu, khoảng thời gian giữa mỗi lần lướt không vượt quá 5s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -3705,7 +3725,7 @@
                     {
                         "skillIcon": "13120.png",
                         "skillName": "Bút Thần Lai",
-                        "skillDescription": "Lý Bạch dùng kiếm chém vòng xung quanh bản thân gây 200/240/280/320/360/400 (+60% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trong phạm vi. Kẻ địch chạm vào vòng tròn kiếm sẽ nhận 320/384/448/512/576/640 (+100% Công vật lý cộng thêm) sát thương vật lý và giảm 90% Tốc chạy trong 1s. Đồng thời giảm 150/180/210/240/270/300 Giáp vật lý trong 3s.</br>Lý Bạch sẽ không bị chọn làm mục tiêu khi sử dụng kỹ năng",
+                        "skillDescription": "Lý Bạch dùng kiếm chém vòng xung quanh bản thân gây 200/240/280/320/360/400 (+60% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trong phạm vi. Kẻ địch chạm vào vòng tròn kiếm sẽ nhận 320/384/448/512/576/640 (+100% Công vật lý cộng thêm) sát thương vật lý và giảm 90% Tốc chạy trong 1s. Đồng thời giảm 150/180/210/240/270/300 Giáp vật lý trong 3s.</br>Lý Bạch sẽ không bị chọn làm mục tiêu khi sử dụng kỹ năng</br>Khi Lý Bạch ở trong phạm vi kỹ năng có 10~20% tỉ lệ (tăng theo cấp kỹ năng) né trành đòn đánh thường của kẻ địch trong kiếm trận. Khi kẻ địch ở ngoài kiếm trận và tấn công Lý Bạch xác suất né tránh tăng gấp đôi",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "60",
@@ -3719,7 +3739,7 @@
                         "skillDescription": "Lý Bạch hòa mình với Hào Quang Kiếm chém 5 lần vào vùng chỉ định, mỗi lần chém gây 210/265/320 (+60% Công vật lý cộng thêm) sát thương vật lý. Khi tấn công nhiều tướng địch cùng một lúc sát thương sẽ bị giảm đi 15% cho mỗi mục tiêu tiếp theo, mức giảm tối thiểu là 70% so với sát thương ban đầu.</br>Thanh Liên Kiếm Ca phải được giải trừ phong ấn mới có thể kích hoạt. Trong quá trình thi triển sẽ không thể bị chọn làm mục tiêu",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "120",
+                        "manaCost": "100",
                         "skillCD": "12s"
                     }
                 ]
@@ -4190,7 +4210,7 @@
                         "skillDescription": "Đạt Ma đấm nhanh 5 cú đẫm mỗi giây trong 4s, tổng cộng 20 cú đấm. Mỗi cú đấm gây ra 65/78/91/104/117/130 sát thương vật lý (gây thêm 50% sát thương với đơn vị không phải anh hùng). Đồng thời gây thêm sát thương vật lý tương đương 0.35% Máu tối đa của mục tiêu (Mỗi 100 Công vật lý cộng thêm sẽ tăng 0.25%) và hồi phục lại cho bản thân 70/84/98/112/126/140 (+3% Máu cộng thêm) Máu.</br>Trong quá trình tung ra các cú đấm, có thể sử dụng phím di chuyển để thay đổi hướng của kỹ năng. Trong thời gian tung kỹ năng cũng sẽ tự động tung ra đòn đánh cường hóa và đấm những kẻ địch ở gần, hiệu quả tương tự như đòn đánh cường hóa nội tại.</br>Hiệu quả hồi phục giảm một nửa với các đơn vị không phải anh hùng. Chủ động hủy kỹ năng sẽ trả lại 50% ~100% thời gian hồi chiêu của kỹ năng, tùy thuộc vào thời gian sử dụng kỹ năng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "45",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -4321,7 +4341,7 @@
                     {
                         "skillIcon": "13530.png",
                         "skillName": "Bá Vương Trảm",
-                        "skillDescription": "Hạng Vũ vận lực đồng thời nhận được hiệu ứng miễn khống chế trong quá trình giải phóng kỹ năng. Sau khi tích tụ, một lưỡi kiếm năng lượng sẽ được chém ra gây 900/1350/1800 (+200% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trong phạm vi.</br>Kẻ địch trực tiếp trúng lưỡi kiếm chém sẽ phải chịu thêm 50% sát thương và bị choáng trong 1s. Máu của Hạng Vũ càng thấp sát thương gây ra càng cào, tối đa thêm 50% sát thương, trong đó 20% sát thương sẽ được chuyển hoá thành máu.</br>Bất khuất: Hạng Vũ miễn nhiễm với cái chết khi máu giảm xuống còn 1.",
+                        "skillDescription": "Hạng Vũ vận lực đồng thời nhận được hiệu ứng bá vương (miễn khống hoàn hảo) trong quá trình giải phóng kỹ năng. Sau khi tích tụ, một lưỡi kiếm năng lượng sẽ được chém ra gây 900/1350/1800 (+200% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trong phạm vi.</br>Kẻ địch trực tiếp trúng lưỡi kiếm chém sẽ phải chịu thêm 50% sát thương và bị choáng trong 1s. Máu của Hạng Vũ càng thấp sát thương gây ra càng cào, tối đa thêm 50% sát thương, trong đó 20% sát thương sẽ được chuyển hoá thành máu.</br>Bất khuất: Hạng Vũ miễn nhiễm với cái chết khi máu giảm xuống còn 1.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "100",
@@ -4445,7 +4465,7 @@
                         "skillDescription": "Võ Tắc Thiên phóng cầu năng lượng theo hướng chỉ định. Quả cầu phát nổ khi trúng kẻ địch gây 360/420/480/540/600/660 (+47% Công phép) sát thương phép lên kẻ địch trong phạm vi. [Huy Quang Nữ Đế] được cường hoá bởi nội tại sẽ gây gấp đôi sát thương và hất tung mục tiêu trong 0.75s</br>Nội tại: Khi Võ Tắc Thiên tung ra bất kỳ kỹ năng nào [Huy Quang Nữ Đế] sẽ hay lập tức được hồi chiêu và cường hoá kéo dài 3s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "3s"
                     }
                 ],
@@ -4456,7 +4476,7 @@
                         "skillDescription": "Uy nghiêm của Võ Tắc Thiên là bất khả xâm phạm, đẩy lùi kẻ địch ở gần và gây 200/240/280/320/360/400 (+35% Công phép) sát thương phép.</br>Nếu kỹ năng đánh trúng kẻ địch sẽ được tăng 25/30/35/40/45/50% tốc chạy trong 1s. Đồng thời làm chậm kẻ địch 25/30/35/40/45/50% trong 2s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "90",
+                        "manaCost": "80",
                         "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
                     }
                 ],
@@ -4774,9 +4794,9 @@
                     {
                         "skillIcon": "14030.png",
                         "skillName": "Đao Phong Kỵ Binh",
-                        "skillDescription": "Quan Vũ giảm 75% khoảng cách chuẩn bị Xung Phong trong 10s.</br>Xung Phong: Quan Vũ sẽ triệu hồi kỵ binh lao về phía trước và đẩy lùi kẻ địch, gây (+100% Công kích vật lý) (+10% Máu tối đa) sát thương vật lý.",
+                        "skillDescription": "Quan Vũ giảm 75% khoảng cách chuẩn bị Xung Phong trong 10s.</br>Xung Phong: Quan Vũ sẽ triệu hồi kỵ binh lao về phía trước và đẩy lùi kẻ địch, gây (+100% Công kích vật lý) (+10% Máu tối đa) sát thương vật lý.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
-                        "skillCD": "70/60/50s"
+                        "skillCD": "52/47/42s"
                     }
                 ]
             ],
@@ -4886,7 +4906,7 @@
                         "skillDescription": "Điêu Thuyền ném cầu hoa về phía trước gây 260/312/364/416/468/520 (+52% Công phép) sát thương phép khi đạt đến khoảng cách xa nhất cầu hoa sẽ bay lại về phía bản thân gây sát thương tương tự",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "35",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -4897,7 +4917,7 @@
                         "skillDescription": "Điêu Thuyền dịch chuyển đến vị trí chỉ định và thả 3 cánh hoa tấn công kẻ địch xung quanh, mỗi cánh hoa gây 140/155/170/185/200/215 (+28% Công phép) sát thương phép. Mỗi cánh hoa trúng đích sẽ giảm thời gian hồi chiêu của [Duyên - Tâm Kết] đi 1s.</br>Ba cánh hoa có phạm vi tấn công lần lượt là 500, 525, 550.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "45",
+                        "manaCost": "30",
                         "skillCD": "10/9.7/9.4/9.1/8.8/8.5s"
                     }
                 ],
@@ -4979,7 +4999,7 @@
                     "skinID": "14106",
                     "skinName": "Miêu Ảnh Huyền Vũ",
                     "skinQuality": "Legend",
-                    "skinTag": "FMVP",
+                    "skinTag": "KFMVP",
                     "starSkin": true,
                     "starList": [
                         {
@@ -5091,7 +5111,7 @@
                         "skillDescription": "Angela triệu hồi 5 quả cầu lửa để tấn công vào vị trí đã chỉ định. Mỗi quả cầu lửa gây 270/310/350/390/430/470 (+30% Công phép) sát thương phép lên kẻ địch. Khi nhiều quả cầu lửa trúng cùng một mục tiêu, từ quả cầu lửa thứ hai sẽ chỉ gây 30% sát thương, khi quả cầu lửa chạm vào tướng địch, nó sẽ ngừng di chuyển và bị phá hủy",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -5283,9 +5303,9 @@
                     {
                         "skillIcon": "14430.png",
                         "skillName": "Tiềm Năng Chân Lý",
-                        "skillDescription": "Trình Giảo Kim tràn đầy nhiệt huyết chính nghĩa, hồi phục 540/810/1080 (+10% Máu cộng thêm) Máu mỗi giây và tăng 30% Tốc chạy trong 6s",
+                        "skillDescription": "Trình Giảo Kim tràn đầy nhiệt huyết chính nghĩa, hồi phục 540/810/1080 (+10% Máu cộng thêm) Máu mỗi giây và tăng 30% Tốc chạy trong 6s.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
-                        "skillCD": "30s"
+                        "skillCD": "27/24/21s"
                     }
                 ]
             ],
@@ -5415,7 +5435,7 @@
                         "skillDescription": "Luna phóng ra một sóng xung kích ánh trăng, gây 350/420/490/560/630/700 (+65% Công phép) sát thương phép lên kẻ địch trúng phải và đánh dấu kẻ địch.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "5s"
                     }
                 ],
@@ -5437,7 +5457,7 @@
                         "skillDescription": "Luna lấy sức mạnh trăng non lướt đến vị trí chỉ định, gây 400/525/650 (+60% Công phép) điểm sát thương phép lên kẻ địch trên đường đi. Nếu Luna tấn công trúng kẻ địch bị đánh dấu, thời gian hồi chiêu của kỹ năng sẽ được làm mới.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "50",
                         "skillCD": "25/20/15s"
                     }
                 ]
@@ -5548,7 +5568,7 @@
                         "skillDescription": "Khương Tử Nha sử dụng thần trượng phong ấn kẻ địch trong phạm vi bằng sức mạnh thần thánh, gây 70/84/98/112/126/140 (+16% Công phép) sát thương phép, kẻ địch bị phong ấn sẽ liên tục gây 70/84/98/112/126/140 (+14% Công phép) sát thương phép mỗi 0.4s, tổng cộng 7 lần.</br>Trong thời gian phong ấn tồn tại, kẻ địch sẽ giảm dần 30/36/42/48/54/60%, giáp vật lý 10/12/14/16/18/20% giáp vật lý và giáp phép.</br>Sau khi kỹ năng này trúng đích, bản thân sẽ nhận 30% Tốc chạy giảm dần trong 1s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "8s"
                     }
                 ],
@@ -5559,7 +5579,7 @@
                         "skillDescription": "Khương Tử Nha trừng phạt những kẻ hành động liều lĩnh, giải phóng vòng ma thuật gây sát thương cho kẻ địch trong phạm vi 3 lần, mỗi lần gây 60/72/84/96/108/120 (+12% Công phép) sát thương phép. Sau một khoảng thời gian ngắn, vòng tròn ma thuật phát nổ, gây 300/360/420/480/540/600 (+70% Công phép) sát thương phép và hất tung chúng trong 0.75s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "55",
                         "skillCD": "11/10.4/9.8/9.2/8.6/8s"
                     }
                 ],
@@ -5672,7 +5692,7 @@
                         "skillDescription": "Lưu Bang dồn lực vào thanh kiếm và lao đi xa từ 275~550 đơn vị khoảng cách, gây 300/360/420/480/540/600 (+40% Công phép)~600/720/840/960/1080/1200 (+80% Công phép) sát thương phép và làm choáng kẻ địch trên đường đi trong 0.75s.</br>Thời gian tích tụ càng lâu thì hiệu ứng càng mạnh. Giới hạn trên đạt được trong 1s và thời gian tích tụ tối đa có thể là 4s. Nếu quá trình tích tụ bị hủy hoặc gián đoạn trong thời gian tích tụ, 50% thời gian hồi chiêu sẽ được trả lại.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "50",
                         "skillCD": "9/8.6/8.2/7.8/7.4/7s"
                     }
                 ],
@@ -5683,7 +5703,7 @@
                         "skillDescription": "Lưu Bang chọn một đồng đội và bắt đầu niệm chú tại chỗ, dịch chuyển đến vị trí của đồng đội sau 2.2s, đồng thời cung cấp cho đồng đội một lá chắn 480/720/960 (+12% Máu cộng thêm) ~ 960/1440/1920 (+24% Máu cộng thêm).</br>Sau khi hạ cánh, Lưu Bang hồi phục 300/450/600 (+8% Máu cộng thêm) Máu cho bản thân và đồng minh xung quanh, tăng tốc chạy thêm 30% và [Song Trùng Đe Doạ] được tích đầy và kéo dài trong 10s.</br>Tái kích hoạt kỹ năng sau 0.4s niệm chú để dịch chuyển sẽ loại bỏ lá chắn của đồng đội và gây 200/300/400 (+40% Công phép) ~ 400/600/800 (+80% Công phép) sát thương phép vào khu vực xung quanh, nhưng không còn gây hiệu ứng hồi máu.</br>Niệm chú càng lâu thì hiệu ứng sát thương phép và lá chắn sẽ càng mạnh.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "140",
+                        "manaCost": "100",
                         "skillCD": "60/55/50s"
                     }
                 ]
@@ -5785,7 +5805,7 @@
                         "skillDescription": "Hàn Tín nhảy lùi về sau và đổi đòn đánh thường tiếp theo thành đòn quét, kéo dài trong 3s. Đòn quét sẽ gây 120/144/168/192/216/240 (+50% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch trong phạm vi. Nếu đòn quét của [Trận Quyết Chiến] nằm cùng lúc với đòn đánh thứ 4, đòn quét cũng sẽ phát huy hiệu ứng bổ sung của đòn tấn công thường thứ tư.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -5796,7 +5816,7 @@
                         "skillDescription": "Hàn Tín vung thương bốn lần theo hướng chỉ định, gây 250/300/350 (+85% Công  vật lý cộng thêm) sát thương vật lý cho kẻ địch mỗi lần. Đòn cuối cùng sẽ hất tung kẻ địch trong phạm vi trong 0.5s. Trong khi vung thương, Hàn Tín được miễn khống chế và nhận 30% miễn thương.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "140",
+                        "manaCost": "120",
                         "skillCD": "30/27/24s"
                     }
                 ]
@@ -5939,7 +5959,7 @@
                         "skillDescription": "Vương Chiêu Quân điều khiển những tinh thể băng vỡ tung tại vị trí chỉ định, gây 350/420/490/560/630/700 (+70% Công phép) sát thương phép lên kẻ địch trong phạm vi và làm chúng nhận hiệu ứng băng lạnh.</br>Vương Chiêu Quân nhận được phạm vi thi triển và tầm nhìn của mục tiêu bị [Điêu Linh Băng Tinh] tấn công trong 2s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -5961,7 +5981,7 @@
                         "skillDescription": "Vương Chiêu Quân triệu hồi một trận bão tuyết gây 200/300/400 (+35% Công phép) sát thương phép và hiệu ứng băng lạnh lên kẻ địch trong phạm vi trong 5s mỗi lần tấn công. Triệu hồi bão tuyết sẽ làm mới khiên băng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "120",
+                        "manaCost": "100",
                         "skillCD": "35/31.5/28s"
                     }
                 ]
@@ -6112,7 +6132,7 @@
                         "skillDescription": "Lan Lăng Vương chém quanh bản thân gây 325/390/455/520/585/650 (+125% Công vật lý cộng thêm) sát thương vật lý và triệu hồi một phân thân bóng tối ngẫu nhiên tấn công vào kẻ địch ở gần gây sát thương tương đương.</nr> Phân thân bóng tối ưu tiên tấn công những anh hùng còn ít máu.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "30",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -6134,7 +6154,7 @@
                         "skillDescription": "Ngay lập tức loại bỏ tàng hình, lao theo hướng chỉ định và gây 700/1050/1400 (+250% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "80",
                         "skillCD": "25/22.5/20s"
                     }
                 ],
@@ -6463,7 +6483,7 @@
                     {
                         "skillIcon": "15500.png",
                         "skillName": "Bước Nhảy Tinh Linh",
-                        "skillDescription": "Đòn đánh thường của Ngải Lâm sẽ gây ra (+100% Công vật lý) (+20% Công phép) sát thương vật lý và tích 1 tầng năng lượng. Sau khi đạt đủ 3 tầng năng lượng Ngải Lâm sẽ nhanh chóng tiêu thụ chúng để bay nhẹ theo hướng di chuyển một khoảng đồng thời cường hóa đòn đánh thường tiếp theo gây 70 (+120% Công vật lý) (+30% Công phép) sát thương vật lý và bắn xuyên mục tiêu theo đường thẳng.</br>Sau khi bắn đòn đánh cường hóa sẽ ngay lập tức nhận được 1 tầng năng lượng. Mỗi 100 Công phép sẽ tăng 30 Tốc bay khi bay lướt, tối đa 450.</br>Khả năng xuyên giáp/hút máu của Ngải Lâm là xuyên giáp toàn năng/hút máu toàn năng, nhận giá trị cao nhất của xuyên giáp vật lý/hút máu và xuyên giáp phép/hút máu phép",
+                        "skillDescription": "Đòn đánh thường của Ngải Lâm sẽ gây ra (+100% Công vật lý) (+20% Công phép) sát thương vật lý và tích 1 tầng năng lượng. Sau khi đạt đủ 3 tầng năng lượng Ngải Lâm sẽ nhanh chóng tiêu thụ chúng để bay nhẹ theo hướng di chuyển một khoảng đồng thời cường hóa đòn đánh thường tiếp theo gây 70 (+120% Công vật lý) (+30% Công phép) sát thương vật lý và bắn xuyên mục tiêu theo đường thẳng.</br>Sau khi bắn đòn đánh cường hóa sẽ ngay lập tức nhận được 1 tầng năng lượng. Mỗi 100 Công phép sẽ tăng 30~45 Tốc bay khi bay lướt, tối đa 450.</br>Khả năng xuyên giáp/hút máu của Ngải Lâm là xuyên giáp toàn năng/hút máu toàn năng, nhận giá trị cao nhất của xuyên giáp vật lý/hút máu và xuyên giáp phép/hút máu phép",
                         "skillPreview": ""
                     }
                 ],
@@ -6471,7 +6491,7 @@
                     {
                         "skillIcon": "15510.png",
                         "skillName": "Diệp Vũ - Trí Ý",
-                        "skillDescription": "Ngải Lâm bắn một chùm nguyệt quế theo hướng chỉ định gây 380/456/532/608/684/760 (+40% Công vật lý) (+100% Công phép) sát thương phép lên mục tiêu chạm phải và nhận 1 dấu ấn Nguyệt Quế.</br>Sau khi bắn trúng tướng địch hoặc đến điểm xa nhất, chùm nguyệt quế sẽ mở ra thành vòng nguyệt quế trên mặt đất, kẻ địch chạm phải vòng nguyệt quế sẽ phải nhận 125/150/175/200/225/250 (+20% Công vật lý) (+30% Công phép) sát thương phép và bị làm chậm 15/18/21/24/27/30%.</br>Mỗi 100 Công phép sẽ giảm thời gian hồi chiêu kỹ năng đi 0.1s, tối đa 1.5s",
+                        "skillDescription": "Ngải Lâm bắn một chùm nguyệt quế theo hướng chỉ định gây 420/504/588/672/756/840 (+70% Công vật lý) (+115% Công phép) sát thương phép lên mục tiêu chạm phải và nhận 1 dấu ấn Nguyệt Quế.</br>Sau khi bắn trúng tướng địch hoặc đến điểm xa nhất, chùm nguyệt quế sẽ mở ra thành vòng nguyệt quế trên mặt đất, kẻ địch chạm phải vòng nguyệt quế sẽ phải nhận 140/168/196/224/252/280 (+23% Công vật lý) (+38% Công phép) sát thương phép và bị làm chậm 15/18/21/24/27/30%.</br>Mỗi 100 Công phép sẽ giảm thời gian hồi chiêu kỹ năng đi 0.1s, tối đa 1.5s",
                         "skillPreview": "",
                         "manaType": "",
                         "manaCost": "",
@@ -6587,7 +6607,7 @@
                         "skillDescription": "Trương Lương triệu hồi một lá chắn ma thuật. Kẻ địch chạm vào lá chắn sẽ phải chịu 360/432/504/576/648/720 (+75% Công phép) sát thương phép và bị choáng trong 0.75s, sau đó bị làm chậm 25/30/35/40/45/50% trong 0.5s và lá chắn sẽ bị phá vỡ.</br>Kẻ địch liên tục chạm vào rào chắn sẽ phải chịu ít hơn 50% sát thương và không còn bị choáng nữa, nhưng sẽ bị làm chậm 25% trong 1.25s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "60",
                         "skillCD": "11/10.6/10.2/9.8/9.4/9s"
                     }
                 ],
@@ -6598,7 +6618,7 @@
                         "skillDescription": "Trương Lương triệu hồi một trận pháp xói mòn bằng sức mạnh của ngôn từ. Trận pháp này gây 110/132/154/176/198/220 (+24% Công phép) sát thương phép cho một trong những kẻ địch bước vào nó mỗi 0.5s.</br>Có thể có tối đa 2 trận pháp cùng một lúc (trận pháp này gây thêm 50% sát thương cho lính và quái vật). Trận pháp được lưu trữ một lần sau mỗi 12s (bị ảnh hưởng bởi thuộc tính giảm CD), tối đa 3 lần và mỗi vòng tròn ma thuật kéo dài 5.5s</br>Tốc chạy của Trương Lương tăng 60 khi ở trong pháp trận. Pháp trận cũng cung cấp tầm nhìn",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "55",
                         "skillCD": "2s"
                     }
                 ],
@@ -6896,7 +6916,7 @@
                         "skillDescription": "Nakoruru triệu hồi chim ưng Mamahaha để tấn công kẻ địch, gây 360/432/504/576/648/720 (+120% Công vật lý cộng thêm) sát thương vật lý và đặt dấu ấn Mắt chim ưng lên kẻ địch.</br>Sát thương khác của Nakoruru có thể kích hoạt dấu ấn, gây sát thương vật lý bằng 6% Máu tối đa của mục tiêu (giới hạn tối đa đối với quái rừng là 300).</br>Mỗi 40 Công vật lý cộng thêm sẽ tăng sát thương tối đa lên 1%. Kích hoạt dấu ấn Mắt chim ưng sẽ giảm thời gian hồi chiêu đi 2.5s và phục hồi 35 năng lượng",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "55",
                         "skillCD": "9/8.6/8.2/7.8/7.4/7s"
                     }
                 ],
@@ -6907,7 +6927,7 @@
                         "skillDescription": "Nakolu chạy nước rút theo hướng chỉ định, gây 400/480/560/640/720/800 (+130% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch trên đường đi và hồi 400/480/560/640/720/800 (+5% Máu cộng thêm) Máu cho mỗi tướng địch trúng phải (nhận 50% hồi phục khi trúng đơn vị không phải anh hùng). Khi kỹ năng này đánh trúng quái rừng, sát thương gây ra tăng 50%.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "45",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -6918,7 +6938,7 @@
                         "skillDescription": "Nakoruru triệu hồi Mamahaha, ngay lập tức tăng 50% tốc chạy trong 6s, giảm dần theo thời gian, có thể bay qua địa hình 1 lần. Tái kích hoạt kỹ năng Nako sẽ đáp đất tại vị trí chỉ định gây 600/900/1200 (+190% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch và làm chậm 25/37.5/50% trong 3s.</br>Kẻ địch bị ảnh hưởng sẽ giảm 30% sát thương trong 3s.</br>Nội tại: Khi ở trạng thái không giao tranh trong 4s, sẽ triệu hồi Mamahaha bay cùng bản thân giúp tăng 10% Tốc chạy. Hiệu ứng tăng tốc sẽ mất sau khi tiến vào trạng thái giao tranh.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "120",
+                        "manaCost": "80",
                         "skillCD": "15/13.5/12s"
                     }
                 ]
@@ -7217,7 +7237,7 @@
                         "skillDescription": "Tôn Ngộ Không niệm chú bảo vệ để chặn kỹ năng của kẻ địch, chú bảo vệ này có hiệu lực trong 1.5s, nếu chặn thành công Tôn Ngộ Không sẽ nhận được 0.2s bất khả chiến bại và lá chắn hấp thụ 500/600/700/800/900/1000 (+150% Công vật lý) (+15% Máu cộng thêm) sát thương trong 4s.</br>Khi kỹ năng được kích hoạt, tốc chạy sẽ tăng 40% trong 1s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "65",
                         "skillCD": "12/11.6/11.2/10.8/10.4/10s"
                     }
                 ],
@@ -7228,7 +7248,7 @@
                         "skillDescription": "Tôn Ngộ Không lao về hướng chỉ định. Nếu chạm vào mục tiêu trên đường đi, Tôn Ngộ Không sẽ dùng lực để nhảy lên không trung và tăng 90% tốc chay trong 1s. Sử dụng đòn đánh thường hoặc kỹ năng sẽ ngắt cú nhảy. </br>Giáng Yêu Trừ Ma: Gây 240 (+20% Công vật lý) sát thương chuẩn lên quái rừng bị chạm vào trong quá trình dịch chuyển và trực tiếp tiêu diệt quái rừng có Máu hiện tại dưới 15% (trừ Bạo Quân và Chúa Tể)",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "45",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -7402,7 +7422,7 @@
                         "skillDescription": "Vung rìu chém trước mặt gây 450/550/650/750/850/950 (+110% Công vật lý) sát thương vật lý lên kẻ địch trong phạm vi. Đồng thời, tướng địch sẽ bị đánh dấu trong 4 giây. Sau khi thời gian kết thúc, sẽ gây ra 40/44/48/52/56/60 (+20% Công vật lý) sát thương vật lý.</br>Mỗi lần tướng địch bị đánh dấu bị nhận đòn đánh thường sẽ chồng thêm 1 lớp, tối đa 12 lớp. Mỗi lớp đánh dấu gây thêm 20/22/24/26/28/30 (+10% Công vật lý) sát thương vật lý.</br>Khi đánh dấu đạt đến lớp thứ 4, 8 và 12 sát thương sẽ tăng thêm 40/44/48/52/56/60 (+20% Công vật lý)",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "55",
+                        "manaCost": "45",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -7424,7 +7444,7 @@
                         "skillDescription": "Ngưu Ma Vương vận lực đập rìu xẻ đôi mặt đất, gây 700/1050/1400 (+180% Công vật lý) sát thương vật lý lên kẻ địch trong phạm vi, hất tung chúng trong 1svà ngay lập tức làm gián đoạn kỹ năng của mục tiêu.</br>Mặt đất bị chia cắt sẽ bị xé toạc trong 5s, gây 100/150/200 (+25% Công vật lý) sát thương vật lý cho kẻ địch trong đó mỗi 0.5s và làm chậm 30/45/60%.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "150",
+                        "manaCost": "100",
                         "skillCD": "40/35/30s"
                     }
                 ]
@@ -7522,11 +7542,11 @@
                     {
                         "skillIcon": "16910.png",
                         "skillName": "Tiễn Lửa Đa Tầng",
-                        "skillDescription": "Hậu Nghệ cường hóa công kích của bản thân, mỗi lần tấn công gây ra 90/118/146/174/202/230 (+75% Công vật lý) sát thương vật lý. Nếu ở trạng thái [Bắn Trừng Phạt], mỗi mũi tên gây ra 40% sát thương gốc đồng thời gây 50% sát thương cho 2 kẻ địch khác ở khu vực phía trước (không có hiệu ứng đòn đánh). Hiệu ứng này kéo dài trong 5s</br>Mỗi mũi tên trong trạng thái Bắn trừng phạt gây ra 60% hiệu ứng đòn đánh lên mục tiêu chính.",
+                        "skillDescription": "Hậu Nghệ cường hóa công kích của bản thân, mỗi lần tấn công gây ra 115/138/161/184/207/230 (+75% Công vật lý) sát thương vật lý. Nếu ở trạng thái [Bắn Trừng Phạt], mỗi mũi tên gây ra 40% sát thương gốc đồng thời gây 50% sát thương cho 2 kẻ địch khác ở khu vực phía trước (không có hiệu ứng đòn đánh). Hiệu ứng này kéo dài trong 4s</br>Mỗi mũi tên trong trạng thái Bắn trừng phạt gây ra 60% hiệu ứng đòn đánh lên mục tiêu chính.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
-                        "skillCD": "10s"
+                        "manaCost": "50",
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
                 [
@@ -7536,7 +7556,7 @@
                         "skillDescription": "Hậu Nghệ ra lệnh cho Tháp Mặt Trời tấn công, thu được tầm nhìn của khu vực thi triển và làm lộ diện mục tiêu địch trong khu vực đó trong 2s. Gây 300/360/420/480/540/600 (+100% Công vật lý) sát thương phép lên kẻ địch trong phạm vi chỉ định và làm chậm chúng 25~30% trong 2s. (Hiệu ứng làm chậm và sát thương của mục tiêu ở rìa giảm một nửa)",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "7/6.7/6.4/6.1/5.8/5.5s"
                     }
                 ],
@@ -7544,7 +7564,7 @@
                     {
                         "skillIcon": "16930.png",
                         "skillName": "Chước Nhật Tiễn",
-                        "skillDescription": "Hậu Nghệ bắn một mũi tên lửa có thể bay trên phạm vi toàn bản đồ. Khi bắn trúng tướng địch, nó sẽ làm choáng tướng địch và gây ra một vụ nổ, gây 700/1050/1400 (+90% Công vật lý) sát thương vật lý lên kẻ địch trong phạm vi.</br>Tướng địch bị trúng trực tiếp mũi tên lửa sẽ bị choáng trong 0.75~3.5s tùy thuộc vào khoảng cách bay của mũi tên lửa. Mục tiêu bị bắn trúng bởi vụ nổ mũi tên lửa sẽ bị làm chậm 30/45/60% trong 1s",
+                        "skillDescription": "Hậu Nghệ bắn một mũi tên lửa có thể bay trên phạm vi toàn bản đồ. Khi bắn trúng tướng địch, nó sẽ làm choáng tướng địch và gây ra một vụ nổ, gây 700/1050/1400 (+90% Công vật lý) sát thương vật lý lên kẻ địch trong phạm vi.</br>Tướng địch bị trúng trực tiếp mũi tên lửa sẽ bị choáng trong 1~3s tùy thuộc vào khoảng cách bay của mũi tên lửa. Mục tiêu bị bắn trúng bởi vụ nổ mũi tên lửa sẽ bị làm chậm 30/45/60% trong 1s. Khi bắn sẽ tăng 10/15/20% tốc chạy cho bản thân kéo dài 5s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "130",
@@ -7689,7 +7709,7 @@
                         "skillDescription": "Lưu Bị lao tới và đẩy lùi kẻ địch, gây 280/336/392/448/504/560 (+80%Công vật lý cộng thêm) sát thương vật lý và dừng lao tới",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "55",
                         "skillCD": "7/6.7/6.4/6.1/5.8/5.5s"
                     }
                 ],
@@ -7697,11 +7717,11 @@
                     {
                         "skillIcon": "17030.png",
                         "skillName": "Dĩ Đức Phục Nhân",
-                        "skillDescription": "Lưu Bị loại bỏ mọi trạng thái khống chế hiện tại và miễn nhiễm khống chế trong 3s, đồng thời nhận được 75/112.5/150 Công vật lý và tự tạo lá chắn giúp chặn 1100/1650/2200 (+18% Máu cộng thêm) sát thương trong 6s</br>Khi lá chắn còn hiệu lực, Lưu Bị sẽ chuyển đổi 60% sát thương gây ra cho tướng địch thành giá trị lá chắn và 20% sát thương gây ra cho lính quái thành lá chắn.</br>Giới hạn giá trị lá chắn tương đương 150% giá trị ban đầu",
+                        "skillDescription": "Lưu Bị loại bỏ mọi trạng thái khống chế hiện tại và miễn nhiễm khống chế trong 3s, đồng thời nhận được 75/112.5/150 Công vật lý và tự tạo lá chắn giúp chặn 1100/1650/2200 (+18% Máu cộng thêm) sát thương trong 6s</br>Khi lá chắn còn hiệu lực, Lưu Bị sẽ chuyển đổi 60% sát thương gây ra cho tướng địch thành giá trị lá chắn và 20% sát thương gây ra cho lính quái thành lá chắn.</br>Giới hạn giá trị lá chắn tương đương 150% giá trị ban đầu.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "130",
-                        "skillCD": "60/55/50s"
+                        "skillCD": "50/45/40s"
                     }
                 ]
             ],
@@ -7856,9 +7876,9 @@
                     {
                         "skillIcon": "17130.png",
                         "skillName": "Cuồng Thú Huyết Tính",
-                        "skillDescription": "Khi đủ 100 điểm điên cuồng kỹ năng sẽ mở khoá, Trương Phi gầm lên tạo thành một con đường gió, nhận được một lá chắn bằng 40% Máu tối đa của bản thân, tồn tại trong 15s. Trong lúc gầm rú, bạn sẽ được miễn nhiễm với khống chế và bất tử trong 1.25s</br>Cơn gió sẽ đẩy lùi kẻ địch và gây ra 500/750/1000 (+65% Công vật lý) sát thương vật lý. Kẻ địch ở cuối cơn gió sẽ bị choáng trong 1.5s, đồng thời Trương Phi cũng sẽ được tăng 50% tốc chạy trong cơn gió mạnh.</br>Biến hình: Khi Trương Phi ở trạng thái biến hình, đòn đánh thường sẽ gây thêm 40/50/60 (+100% Công vật lý) sát thương. Khi trạng thái biến hình kết thúc, hiệu ứng kỹ năng kỹ năng 1 sẽ tự động được kích hoạt.",
+                        "skillDescription": "Khi đủ 100 điểm điên cuồng kỹ năng sẽ mở khoá, Trương Phi gầm lên tạo thành một con đường gió, nhận được một lá chắn bằng 40% Máu tối đa của bản thân, tồn tại trong 15s. Trong lúc gầm rú, bạn sẽ được miễn nhiễm với khống chế và bất tử trong 1.25s</br>Cơn gió sẽ đẩy lùi kẻ địch và gây ra 500/750/1000 (+65% Công vật lý) sát thương vật lý. Kẻ địch ở cuối cơn gió sẽ bị choáng trong 1.5s, đồng thời Trương Phi cũng sẽ được tăng 50% tốc chạy trong cơn gió mạnh.</br>Biến hình: Khi Trương Phi ở trạng thái biến hình, đòn đánh thường sẽ gây thêm 40/50/60 (+100% Công vật lý) sát thương. Khi trạng thái biến hình kết thúc, hiệu ứng kỹ năng kỹ năng 1 sẽ tự động được kích hoạt.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
-                        "skillCD": "45s"
+                        "skillCD": "30/27/24s"
                     }
                 ]
             ],
@@ -7927,7 +7947,7 @@
                     {
                         "skillIcon": "17300.png",
                         "skillName": "Mật Thám Lắng Nghe",
-                        "skillDescription": "Nguyên Phương có thể thu thập và ghi lại dấu vết của tướng địch thông qua tai to của bản thân, giúp nhận tầm nhìn của địch trong 1s và có hiệu lực sau mỗi 6s đối với cùng một đơn vị.</br>Đồng thời, Lý Nguyên Phương có thể nhìn thấu điểm yếu của quái rừng, mọi đòn tấn công đều sẽ gây thêm 7.5~15% sát thương vật lý cho quái rùng và lính.",
+                        "skillDescription": "Nguyên Phương có thể thu thập và ghi lại dấu vết của tướng địch thông qua tai to của bản thân, giúp nhận tầm nhìn của địch trong 1s và có hiệu lực sau mỗi 8~4s đối với cùng một đơn vị.</br>Đồng thời, Lý Nguyên Phương có thể nhìn thấu điểm yếu của quái rừng, mọi đòn tấn công đều sẽ gây thêm 7.5~15% sát thương vật lý cho quái rùng và lính.",
                         "skillPreview": ""
                     }
                 ],
@@ -7935,7 +7955,7 @@
                     {
                         "skillIcon": "17310.png",
                         "skillName": "Điệp Ảnh Trùng Trùng",
-                        "skillDescription": "Nguyên Phương dùng dấu ấn hắc ấn đánh dấu mục tiêu địch sau 4s sẽ phát nổ, gây 90/108/126/144/162/180 (+65% Công vật lý) sát thương vật lý cho kẻ địch trong phạm vi.</br>Đòn đánh thường của Nguyên Phương sẽ cộng dồn ấn hắc ấn, tối đa 4 lớp. Mỗi lớp ấn sẽ gây thêm 90/108/126/144/162/180 (+65% Công vật lý) sát thương vật lý. Khi cộng dồn đủ 4 lớp, ấn hắc ấn sẽ phát nổ ngay lập tức.</br>Khi tung kỹ năng bản thân sẽ tăng 35/42/49/56/63/70% tốc đánh và phạm vi đánh thường tăng thêm 75 trong 4s",
+                        "skillDescription": "Nguyên Phương dùng dấu ấn hắc ấn đánh dấu mục tiêu địch sau 4s sẽ phát nổ, gây 90/108/126/144/162/180 (+65% Công vật lý) sát thương vật lý cho kẻ địch trong phạm vi.</br>Đòn đánh thường của Nguyên Phương sẽ cộng dồn ấn hắc ấn, tối đa 4 lớp. Mỗi lớp ấn sẽ gây thêm 90/108/126/144/162/180 (+65% Công vật lý) sát thương vật lý. Khi cộng dồn đủ 4 lớp, ấn hắc ấn sẽ phát nổ ngay lập tức.</br>Khi tung kỹ năng bản thân sẽ tăng 35/42/49/56/63/70% tốc đánh và phạm vi đánh thường tăng thêm 50/60/70/80/90/100 trong 4s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "60",
@@ -7949,7 +7969,7 @@
                         "skillDescription": "Nguyên Phương lăn nhanh theo hướng chỉ định gây 150/180/210/240/270/300 (+65% Công vật lý) sát thương vật lý cho kẻ địch và làm chậm 15/18/21/24/27/30% trong 2s.</br>Sau đó để lại dấu vết cháy trên mặt đất sau khi đi qua, kéo dài trong 2.9s, gây 70/84/98/112/126/140 (+20% Công vật lý) sát thương vật lý lên kẻ địch chạm phải mỗi 0.25s và làm chậm chúng 15/18/21/24/27/30%.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "65",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -7960,7 +7980,7 @@
                         "skillDescription": "Nguyên Phương ném ra bánh đà với đao sắc, gây 160/240/320 (+85% Công vật lý) sát thương vật lý cho mục tiêu, đánh đà quay tại vị trí trong 5.4s, nó cũng gây 50/75/100 (+40% Công vật lý) sát thương vật lý cho kẻ địch trong phạm vi mỗi 0.5s và làm chậm 25/37.5/50%.</br>Cả sát thương ném bánh đà và sát thương quay cũng đều tích luỹ vào dấu ấn hắc ám.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "130",
+                        "manaCost": "110",
                         "skillCD": "30/27/24s"
                     }
                 ]
@@ -8091,7 +8111,7 @@
                         "skillDescription": "Ngu Cơ tích tụ sức mạnh trong giây lát trước khi bắn một mũi tên nỏ cực mạnh, gây 800/960/1120/1280/1440/1600 (+240% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch đầu tiên trúng phải. Mỗi lần mũi tên nỏ bắn trúng kẻ địch, sát thương sẽ giảm 15%, mức giảm tối thiểu là 40%.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "6.5/6.2/5.9/5.6/5.3/5s"
                     }
                 ],
@@ -8264,7 +8284,7 @@
                         "skillDescription": "Chung Quỳ đập xuống đất, gây 320/384/448/512/576/640 (+32% Công phép) sát thương phép lên kẻ địch trong phạm vi và làm chậm chúng đi 15/18/21/24/27/30% trong 1.5s</br>Kẻ địch ở vòng tròn bên trong sẽ phải chịu 250% sát thương và bị giảm thêm 21% tốc chạy trong 1.5s, đồng thời bị thêm đánh dấu thêm dấu ấn luân hồi.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -8377,7 +8397,7 @@
                         "skillDescription": "Dương Ngọc Hoàn gảy dây đàn để tạo ra 4 luồng sóng âm, gây 250/300/350/400/450/500 (+42% Công phép) sát thương phép lên kẻ địch và làm chậm 25/30/35/40/45/50% mục tiêu trong 1s.</br>Sóng âm gây thêm 300/360/420/480/540/600 (+30% Công phép) sát thương phép lên lính và quái rừng.</br>Sau khi giải phóng kỹ năng, đòn đánh thường tiếp theo sẽ gây thêm 150/180/210/240/270/300 (+28% Công phép) sát thương phép.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "30",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -8388,7 +8408,7 @@
                         "skillDescription": "Dương Ngọc Hoàn giật dây để tăng 50% Tốc chạy giảm dần theo thời gian. Sau 1.5s, cô gây 225/270/315/360/405/450 (+45% Công phép) sát thương phép lên kẻ địch trong phạm vi 600~800 của Dương Ngọc Hoàn và hiệu ứng choáng trong 0.75s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "65",
                         "skillCD": "11/10.4/9.8/9.2/8.6/8s"
                     }
                 ],
@@ -8520,10 +8540,10 @@
                     {
                         "skillIcon": "17730.png",
                         "skillName": "Tư Thế Lãnh Tụ",
-                        "skillDescription": "Thương kích hoạt Tư Thế Lãnh Tụ, triệu hồi (2 + Số lượng kỹ năng 2) linh hồn sói lao về hướng được chỉ định, tiêu thụ số lượng bẫy tích lũy và kích hoạt các bẫy xung quanh.</br>Bản thân Thương có được khả năng cưỡi và bắn (Đánh thường có thể di chuyển), giúp Tốc chạy thêm 10%/15%/20%, thêm 50/75/100 điểm tấn công và 20%/30%/40% Tốc đánh trong 8s.</br>Mỗi khi Thương tấn công sẽ kích hoạt linh hồn sói hiện không có mục tiêu để phối hợp công kích.",
+                        "skillDescription": "Thương kích hoạt Tư Thế Lãnh Tụ, triệu hồi (2 + Số lượng kỹ năng 2) linh hồn sói lao về hướng được chỉ định, tiêu thụ số lượng bẫy tích lũy và kích hoạt các bẫy xung quanh.</br>Bản thân Thương có được khả năng cưỡi và bắn (Đánh thường có thể di chuyển), giúp Tốc chạy thêm 10%/15%/20%, thêm 50/75/100 điểm tấn công và 20%/30%/40% Tốc đánh trong 8s.</br>Mỗi khi Thương tấn công sẽ kích hoạt linh hồn sói hiện không có mục tiêu để phối hợp công kích.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "120",
+                        "manaCost": "100",
                         "skillCD": "50/45/40s"
                     }
                 ]
@@ -8594,7 +8614,7 @@
                         "skillDescription": "Dương Tiễn triệu hồi Hạo Thiên Khuyển để lao tới, gây 210/255/200/345/390/435 (+45% Công vật lý) sát thương vật lý lên kẻ địch đầu tiên. Nếu kẻ địch bị trúng đòn, mục tiêu sẽ bị lộ tầm nhìn trong lúc dấn ấn tồn tại.</br>Kỹ năng này có thể được sử dụng lại trong vòng 5s để lao tới kẻ địch có dấu ấn và tấn công, gây 320/395/470/545/620/695 (+65% Công vật lý) sát thương vật lý và thêm sát thương vật lý tương đương 16% Máu đã mất của mục tiêu, có thể gây thêm tối đa 800 sát thương lên các mục tiêu không phải là anh hùng.</br>Nếu mục tiêu bị hạ trong thời gian đánh dấu, thời gian hồi chiêu của kỹ năng sẽ được hồi lại.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "45",
+                        "manaCost": "30",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -8616,7 +8636,7 @@
                         "skillDescription": "Dương Tiễn dùng Thiên Nhãn phóng ra laser 3 lần. Hai lần đầu chỉ phóng 1 tia. Lần cuối sẽ phóng ra 3 tia. Tia laser gây 300/450/600 (+72% Công vật lý) sát thương vật lý cho kẻ địch trúng phải đồng thời hồi phục 160/240/320 (+50% Công vật lý) (+5% Máu cộng thêm) Máu. Nếu cùng một mục tiêu bị trúng nhiều tia, từ tia thứ 2 sát thương chỉ còn 30% và 50% hiệu ứng hồi phục.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "80",
                         "skillCD": "20/18/16s"
                     }
                 ]
@@ -8717,8 +8737,8 @@
                         "skillDescription": "Nữ Oa giải phóng khối năng lượng về phía trước, gây 225/300/375/450 (+42% Công phép) sát thương phép và đẩy lùi kẻ địch trên đường đi. Khối năng lượng dần dừng lại sau khi đánh trúng kẻ địch hoặc khi đến khoảng cách xa nhất, tạo ra không gia chữ thập và khối ma trận không gian, gây 225/300/375/450 (+42% Công phép) sát thương phép cho kẻ địch trúng phải.</br>Tâm ma trận chữ thập sẽ gây thêm 50% sát thương và mảng chéo sẽ gây ra một vụ nổ khi chạm vào ma trận không.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
-                        "skillCD": "8/7.5/7/6.5s"
+                        "manaCost": "45",
+                        "skillCD": "8.5/8/7.5/7s"
                     }
                 ],
                 [
@@ -8739,7 +8759,7 @@
                         "skillDescription": "Nữ Oa tạo ra một vết nứt để dịch chuyển bản thân đến vị trí chỉ định, tạo ra lá chắn hấp thụ 600/800/1000/1200 (+9% Máu cộng thêm) sát thương và tăng 30% tốc chạy. Đồng thời gây 300/400/500/600 (+57% Công phép) sát thương phép và làm chậm 25/33.33/41.67/50% cho kẻ địch xung quanh trong 0.5s</br>Kẻ địch càng ở xa vết nứt thì càng ít sát thương phải chịu, tối thiểu là 50%.</br>Nội tại: Công phép sẽ giảm thời gian dịch chuyển.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "80",
                         "skillCD": "30/28/26/24s"
                     }
                 ],
@@ -8842,7 +8862,7 @@
                         "skillDescription": "Na Tra nhảy ra sau mục tiêu và gây 100/120/140/160/180/200 (+80% Công vật lý cộng thêm) sát thương vật lý lên mục tiêu và nhận thêm (+3% Máu cộng thêm) giáp thực, giảm một nửa đối với các đơn vị không phải anh hùng. Không thể sử dụng liên tục trên cùng một mục tiêu trong 4/3.6/3.2/2.8/2.4/2s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "25",
+                        "manaCost": "20",
                         "skillCD": "2/1.8/1.6/1.4/1.2/1s"
                     }
                 ],
@@ -8853,7 +8873,7 @@
                         "skillDescription": "Nhấn vào kỹ năng để minimap có thể chọn đơn vị địch, quái trung lập và tháp phòng thủ trong phạm vi làm mục tiêu tấn công (bạn cũng có thể trượt kỹ năng để trực tiếp chọn mục tiêu). Na Tra sẽ bay đến vị trí mục tiêu và gây 450/675/900 (+240% Công vật lý cộng thêm) sát thương vật lý và đẩy lùi chúng.</br>Sau khi tung kỹ năng, Na Tra nhận được 10/15/20% miễn thương và tăng kháng hiệu ứng thêm 15/22,5/30%, kéo dài trong 5s.</br>Khi bất kỳ kỹ năng hoặc đòn đánh thường đánh trúng tướng địch, bạn có thể trực tiếp giải phóng kỹ năng trong vòng 3s để lao ra phía sau tướng địch và đẩy lùi hắn",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "0",
+                        "manaCost": "90",
                         "skillCD": "50/45/40s"
                     }
                 ]
@@ -8926,7 +8946,7 @@
             "heroName": "Can Tương Mạc Tà",
             "globalName": "Gan & Mo",
             "defaultSkin": "Tôi Mệnh Song Kiếm",
-            "numberSkill": 3,
+            "numberSkill": 4,
             "storyHero": "",
             "skills": [
                 [
@@ -8955,7 +8975,7 @@
                         "skillDescription": "Thả kiếm bay để theo hình vòng cung gây 350/420/490/560/630/700 (+45% Công phép) sát thương phép lên kẻ địch trên đường đi. Các kỹ năng phi kiếm có chung số lần sử dụng tối đa, được tích luỹ sau mỗi 6~5s (giảm dần theo cấp độ kỹ năng).",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "45",
+                        "manaCost": "40",
                         "skillCD": "8s"
                     }
                 ],
@@ -8966,8 +8986,19 @@
                         "skillDescription": "Thả kiếm bay để theo hình vòng cung gây 350/420/490/560/630/700 (+45% Công phép) sát thương phép lên kẻ địch trên đường đi. Các kỹ năng phi kiếm có chung số lần sử dụng tối đa, được tích luỹ sau mỗi 6~5s (giảm dần theo cấp độ kỹ năng).",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "45",
+                        "manaCost": "40",
                         "skillCD": "8s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "18240.png",
+                        "skillName": "Kiếm Lai",
+                        "skillDescription": "Ngay lập tức nhận 2 lần sử dụng [Thư Hùng Song Kiếm] và triệu hồi thêm 1 cặp kiếm cường hóa để sử dụng ngay lần tiếp theo.</br>Nội tại: Tăng 15% phạm vi tầm nhìn, tăng mức tích [Thư Hùng Song Kiếm] thêm 1, mỗi lần kiếm cắt trúng mục tiêu sẽ giảm 1s hồi chiêu cho [Kiếm Lai]",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "120",
+                        "skillCD": "40/35/30s"
                     }
                 ]
             ],
@@ -9077,7 +9108,7 @@
                         "skillDescription": "Athena dùng khiên thánh đẩy về phía trước gây 400/480/560/640/720/800 (+140% Công vật lý cộng thêm) sát thương phép lên kẻ địch và đẩy lùi chúng đồng thời nhận được lá chắn hấp thụ 600/720/840/960/1080/1200 (+6% Máu cộng thêm) sát thương trong 1s. Nhận được hiệu ứng miễn khống chế trong thời gian khiên tồn tại.</br>Ở dạng chân thân, sẽ lướt theo hướng chỉ định với hồi chiêu 6/5.8/5.6/5.4/5.2/5s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "45",
+                        "manaCost": "35",
                         "skillCD": "6s"
                     }
                 ],
@@ -9088,7 +9119,7 @@
                         "skillDescription": "Athena lướt theo hướng chỉ định và cường hoá đòn đánh thường tiếp theo lao vào mục tiêu gây 180/216/252/288/324/360 (+65% Công vật lý cộng thêm) sát thương vật lý kèm theo 6% Máu đã mất của mục tiêu chuyển thành sát thương vật lý. Khi kỹ năng [Thần Thánh Tiến Quân] và [Thánh Thuẫn Kính Nể] trúng kẻ địch, hồi chiêu kỹ năng sẽ được giảm 4s</br>Ở dạng chân thân, cấp một lá chắn hấp thụ 250/300/350/400/450/500 (+80% Công vật lý cộng thêm) (5% Máu cộng thêm) sát thương cho đồng minh gần đó trong 2s. Hồi chiêu của kỹ năng này là 15/14.4/13.8/13.2/12.6/12s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "35",
+                        "manaCost": "30",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -9190,7 +9221,7 @@
                         "skillDescription": "Văn Cơ phát nhạc trong 3s, đồng thời tăng 40% Tốc chạy, đồng thời hồi lại 60/72/84/96/108/120 (+20% Công phép) Máu cho bản thân và đồng minh mỗi 0.5s trong phạm vi. Lính sẽ nhận được 50% hiệu ứng này.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "80",
                         "skillCD": "15/14.4/13.8/13.2/12.6/12s"
                     }
                 ],
@@ -9201,7 +9232,7 @@
                         "skillDescription": "Thái Văn Cơ phát ra một khối sóng âm theo hướng xác định, sau khi đánh trúng sẽ nảy lên giữa kẻ địch, mỗi lần trúng sẽ gây 270/324/378/432/486/540 (+48% Công phép) sát thương phép và làm choáng chúng trong 0.75s. Mỗi khối sóng âm có thể nảy lên tối đa 6 lần và cùng một mục tiêu có thể bị nảy tối đa 2 lần. Lần nảy thứ 2 lên cùng 1 tướng địch chỉ gây ra 25% sát thương ban đầu và thời gian làm choáng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "60",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -9344,7 +9375,7 @@
                         "skillDescription": "Thái Ất Chân Nhân bắt đầu luyện chế thuốc, tăng tốc chạy thêm 20% và nhận được lá chắn hấp thụ 300/350/400/450/500/550 sát thương trong tối đa 5s. Khi luyện chế hoàn tất hoặc kết thúc sớm, lò thuốc sẽ phát nổ gây 165/225/285/345/405/465 (+55% Công phép) ~ 495/675/855/1035/1215/1395 (+165% Công phép) sát thương phép lên kẻ địch xung quanh và làm choáng chúng trong 0.5 ~ 0.75s (Tối đa 1.25s khi lên cấp kỹ năng)</br>Khi thuốc được tinh chế hoàn tất, vụ nổ tấn công tướng địch sẽ tự động làm mới quá trình luyện thuốc và giải phóng kỹ năng này một lần nữa.</br>Thời gian tinh luyện càng lâu thì sát thương càng cao và thời gian làm choáng càng dài.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "65",
+                        "manaCost": "60",
                         "skillCD": "5s"
                     }
                 ],
@@ -9457,7 +9488,7 @@
                         "skillDescription": "Giải phóng sức mạnh gây 300/360/420/480/540/600 (+40% Công phép) sát thương phép lên khu vực xung quanh và tạo ra một cầu ma thuật đen bay quanh bản thân. Nếu đã có ba cầu ma thuật đen sẽ hồi phục lại 150/180/210/240/270/300 (+60% Công phép) Máu và không có cầu ma thuật đen mới nào được tạo ra.</br>Đánh trúng mục tiêu khi tung kỹ năng sẽ hồi lại 50% thời gian hồi chiêu và năng lượng.</br>Số lượng cầu ma thuật đen sẽ ảnh hưởng đến sức mạnh của kỹ năng 2",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "40",
                         "skillCD": "5/4.9/4.8/4.7/4.6/4.5s"
                     }
                 ],
@@ -9468,7 +9499,7 @@
                         "skillDescription": "Đông Hoàng sử dụng cầu ma thuật đen để triệu hồi diệu long công kích khu vực chỉ định. Mỗi diệu long sẽ gây 500/600/700/800/900/1000 (+60% Công phép) sát thương phép.</br>Khi kỹ năng được giải phóng, bản thân sẽ tăng 30% tốc chạy trong 1s. Mỗi cầu ma thuật đen sẽ tăng tốc chạy thêm 10%.</br> Hai diệu long đầu tiên sẽ làm chậm 30/36/42/48/54/60% và làm chậm 90% trong 1s, diệu long thứ 3 sẽ gây choáng trong 1s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "75",
+                        "manaCost": "70",
                         "skillCD": "6s"
                     }
                 ],
@@ -9683,7 +9714,7 @@
                         "skillDescription": "Phóng ba quả cầu ma thuật theo hướng chỉ định, gây 500/600/700/800/900/1000 (+70% Công phép) sát thương phép lên kẻ địch trên đường đi. Nếu nhiều quả cầu bắn trúng cùng một mục tiêu, bắt đầu từ quả cầu thứ hai, chỉ gây ra 20% sát thương.</br>Mỗi quả cầu ma thuật có thể kích hoạt 1 dấu ấn mưu lược. Có thể tích luỹ một lần kỹ năng sau mỗi 8/7.7/7.4/7.1/6.8/6.5s và có thể dự trữ tối đa 2 lần kỹ năng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "55",
                         "skillCD": "1.5/1.4/1.3/1.2/1.1/1s"
                     }
                 ],
@@ -9859,7 +9890,7 @@
                         "skillDescription": "Đại Kiều triệu hồi cá chép bơi theo dòng thủy triều đã chỉ định, gây 300/400/500/600 (+55% Công phép) sát thương phép cho kẻ địch và hất tung trên đường cá bơi trong 0.5s. Dòng thủy triều vẫn sẽ tồn tại tiếp trong 2.5s, và liên tục gây 75/100/125/150 (+12% Công phép) sát thương phép cho kẻ địch chạm phải mỗi 0.5s. Khi thả cá Đại Kiều được tăng 30/40/50/60% Tốc chạy giảm dần theo thời gian trong 2.5s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "60",
                         "skillCD": "10/9.33/8.67/8s"
                     }
                 ],
@@ -9881,7 +9912,7 @@
                         "skillDescription": "Đại Kiều triệu hồi cá chép bơi theo dòng thủy triều từ phải qua trái, gây 300/400/500/600( (+55% Công phép) sát thương phép cho kẻ địch và hất tung trên đường cá bơi trong 0.5s. Dòng thủy triều vẫn sẽ tồn tại tiếp trong 2.5s, và liên tục gây 75/100/125/150 (+12% Công phép) sát thương phép cho kẻ địch chạm phải mỗi 0.5s.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "60",
                         "skillCD": "10/9.33/8.67/8s"
                     }
                 ],
@@ -10052,7 +10083,7 @@
                         "skillDescription": "Hoàng Trung tăng tốc bản thân thêm 30/36/42/48/54/60% giảm dần trong 3.5s, nếu ở dạng tháp pháo sẽ trực tiếp thoát khởi dạng tháp pháo ngay lập tức.</br>Nội tại: Tăng 20/24/28/32/36/40 Công vật lý, tăng gấp đôi ở dạng tháp pháo",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
                     }
                 ],
@@ -10060,10 +10091,10 @@
                     {
                         "skillIcon": "19220.png",
                         "skillName": "Mìn Cảnh Giới",
-                        "skillDescription": "Hoàng Trung đặt mìn ở vị trí chỉ định có được tầm nhìn ở khu vực đó, gây 200/240/280/320/360/400 (+60% Công vật lý) sát thương vật lý lên mục tiêu đạp phải và làm mục tiêu lộ tầm nhìn trong 3s</br>Mìn nổ cũng làm chậm 25/30/35/40/45/50% và giảm 10/12/14/16/18/20% giáp lên kẻ đó trong 2s. Cũng nhận được lá chắn hấp thụ 320/384/448/512/576/640 (+4.5% Máu cộng thêm) sát thương trong 3s. Tối đa 2 mìn.",
+                        "skillDescription": "Hoàng Trung đặt mìn ở vị trí chỉ định có được tầm nhìn ở khu vực đó, gây 200/240/280/320/360/400 (+60% Công vật lý) sát thương vật lý lên mục tiêu đạp phải và làm mục tiêu lộ tầm nhìn trong 3s</br>Mìn nổ cũng làm chậm 25/30/35/40/45/50% và giảm 10/12/14/16/18/20% giáp lên kẻ đó trong 2s. Cũng nhận được lá chắn hấp thụ 350/420/490/560/630/700 (+5% Máu cộng thêm) sát thương trong 3s. Tối đa 2 mìn. Hiệu ứng phá giáp và làm chậm có thể cộng dồn 2 lần.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "8/7.7/7.4/7.1/6.8/6.5s"
                     }
                 ],
@@ -10155,7 +10186,7 @@
                         "skillDescription": "Khải ném kiếm theo hướng chỉ định kiếm sẽ nảy qua lại giữa các mục tiêu mỗi mục tiêu chỉ trúng 1 lần, gây 280/336/392/448/504/560 (+85% Công vật lý cộng thêm) sát thương vật lý lên mục tiêu và làm chậm mục tiêu đi 15/18/21/24/27/30% trong 2s. Mục tiêu đầu tiên trúng phải bị làm chậm 90% trong 1s</br>Sau khi kiếm nảy xong sẽ thu về tay Khải giúp bản thân hồi 350/420/490/560/630/700 (+7% Máu cộng thêm) Máu và giảm thời gian hồi chiêu của kỹ năng đi 30%, đồng thời tăng 15/18/21/24/27/30% tốc chạy và 15/18/21/24/27/30% tốc đánh trong 3s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "9/8.6/8.2/7.8/7.4/7s"
                     }
                 ],
@@ -10163,10 +10194,10 @@
                     {
                         "skillIcon": "19320.png",
                         "skillName": "Cực Đao Phong Bạo",
-                        "skillDescription": "Khải chém hai lần theo hướng chỉ định, mỗi lần gây 150/180/210/240/270/300 (+55% Công vật lý cộng thêm) sát thương vật lý. Đòn chém thứ hai sẽ hất tung kẻ địch lên không trung trong 1s và cường hoá đòn đánh tiếp theo đột kích mục tiêu và gây thêm 125/150/175/200/225/250 (+32% Công vật lý cộng thêm) sát thương vật lý.</br>Nội tại: Sau khi rời khỏi giao tranh, Khải hồi phục 1% Máu tối đa và Năng lượng tối đa mỗi giây, đồng thời tăng 10/12/14/16/18/20 tốc chạy.",
+                        "skillDescription": "Khải chém hai lần theo hướng chỉ định, mỗi lần gây 150/180/210/240/270/300 (+55% Công vật lý cộng thêm) sát thương vật lý. Đòn chém thứ hai sẽ hất tung kẻ địch lên không trung trong 1s và cường hoá đòn đánh tiếp theo đột kích mục tiêu và gây thêm 125/150/175/200/225/250 (+32% Công vật lý cộng thêm) sát thương vật lý. Nếu không có mục tiêu trong phạm vi đòn đánh cường hoá sẽ tiến về phía trước một khoảng cách nhất định</br>Nội tại: Sau khi rời khỏi giao tranh, Khải hồi phục 1% Máu tối đa và Năng lượng tối đa mỗi giây, đồng thời tăng 10/12/14/16/18/20 tốc chạy.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "35",
                         "skillCD": "6/5.8/5.6/5.4/5.2/5s"
                     }
                 ],
@@ -10174,11 +10205,11 @@
                     {
                         "skillIcon": "19330.png",
                         "skillName": "Bất Diệt Ma Khu",
-                        "skillDescription": "Khải triệu hồi ma giáp, sau 1s sẽ gây thêm 250/375/500 (+25% Công vật lý cộng thêm) sát thương phép cho kẻ địch xung quanh, đồng thời tăng 100/150/200 Công vật lý, 400/600/800 Máu tối đa, 50 Tốc chạy, 60/90/120 Miễn thương.</br>Đồng thời mỗi 0.5s sẽ gây 50/75/100 (+16% Công vật lý cộng thêm) sát thương phép cho kẻ địch xung quanh, duy trì trong 8s.",
+                        "skillDescription": "Khải triệu hồi ma giáp, sau 1s sẽ gây thêm 250/375/500 (+25% Công vật lý cộng thêm) sát thương phép cho kẻ địch xung quanh, đồng thời tăng 100/150/200 Công vật lý, 400/600/800 Máu tối đa, 50 Tốc chạy, 60/90/120 Miễn thương.</br>Đồng thời mỗi 0.5s sẽ gây 50/75/100 (+16% Công vật lý cộng thêm) sát thương phép cho kẻ địch xung quanh, duy trì trong 8s.</br>Kỹ anwng tiến vào hồi chiêu khi trạng thái cường hóa kết thúc có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "120",
-                        "skillCD": "60/55/50s"
+                        "skillCD": "50/45/40s"
                     }
                 ]
             ],
@@ -10296,8 +10327,8 @@
                 [
                     {
                         "skillIcon": "19400.png",
-                        "skillName": "Bất Khuất Thiết Bích",
-                        "skillDescription": "Khi Tô Liệt tử vong, hắn sẽ hồi lại 70% Máu tối đa nhưng rơi vào trạng thái suy yếu bị đứng yên tại chỗ không được phép hoạt động. Giảm 50 giavs vật lý và 25 giáp phép, duy trì trong 4.5s</br>Đồng thời, thắp 3 ngọn đèn xung quanh bản thân, đồng đội có thể chạm vào chúng giúp hồi lại 12% Máu tối đa. Khi cả 3 ngọn đèn đều được thắp lên trạng thái suy yếu sẽ kết thúc Khi kết thúc sẽ bùng nổ gây 150 (+100% Công vật lý) sát thương phép và làm chậm 50% kẻ địch trong 2s. Đồng thời tăng 50% Tốc đánh và 30% Tốc chạy cho bản thân trong 5s, tăng 60% tốc chạy cho đồng minh giảm dần theo thời gian trong 3s.</br>Nội tại có thời gian hồi chiêu là 120s. Khi không trong thời gian hồi chiêu Tô Liệt sẽ tăng 90 giáp vật lý và giáp phép.",
+                        "skillName": "Bất Khuất Tái Khởi",
+                        "skillDescription": "Khi Tô Liệt tử vong, hắn sẽ hồi lại 3000~6000 (+60% Máu cộng thêm)Máu nhưng rơi vào trạng thái suy yếu bị đứng yên tại chỗ không được phép hoạt động. Giảm 20~10% giáp vật lý và giáp phép, duy trì trong 4s</br>Đồng thời, thắp 3 ngọn đèn xung quanh bản thân, đồng đội có thể chạm vào chúng giúp hồi lại 600~1200 (+12% Máu cộng thêm) Máu. Khi cả 3 ngọn đèn đều được thắp lên trạng thái suy yếu sẽ kết thúc Khi kết thúc sẽ bùng nổ gây 400~800 (+125% Công vật lý) sát thương phép và làm chậm 30~60% kẻ địch trong 2s. Đồng thời tăng tần suất tấn công, tốc chạy, công vật lý, giáp vật lý và giáp phép thêm 20% trong 5s, tăng 60% tốc chạy cho đồng minh trong 3s.</br>Nội tại có thời gian hồi chiêu là 120~96s.",
                         "skillPreview": ""
                     }
                 ],
@@ -10305,21 +10336,21 @@
                     {
                         "skillIcon": "19410.png",
                         "skillName": "Khói Lửa Đạp Phá",
-                        "skillDescription": "Tô Liệt cường hoá 3 đòn đánh thường tiếp theo, mỗi đòn gây 115/138/161/184/207/230 (+100% Công vật lý) sát thương vật lý. Đòn đánh thứ ba sẽ hất tung kẻ địch trong phạm vi lên không trung trong 0.75s</br>Sau khi đòn đánh hoàn tất hoặc hiệu ứng cường hóa kết thúc, nó sẽ vào thời gian hồi chiêu.",
+                        "skillDescription": "Tô Liệt cường hoá 3 đòn đánh thường tiếp theo, mỗi đòn gây 115/138/161/184/207/230 (+100% Công vật lý) sát thương vật lý. Đòn đánh thứ ba sẽ hất tung kẻ địch trong phạm vi lên không trung trong 0.75s. Đòn đánh cường hóa cũng giúp hồi phục cho bản thân 90/108/126/144/162/180 (+2% Máu cộng thêm) Máu</br>Sau khi sử dụng kỹ năng sẽ vào thời gian hồi chiêu. Mỗi đòn đánh kéo dài 2.5s. Sau khi tung ra đòn đánh tiếp theo được kéo dài thêm 1.5s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
-                        "skillCD": "5/4.8/4.6/4.4/4.2/4s"
+                        "manaCost": "40",
+                        "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
                     }
                 ],
                 [
                     {
                         "skillIcon": "19420.png",
                         "skillName": "Đánh Đâu Thắng Đó",
-                        "skillDescription": "Tô Liệt lao tới theo hướng chỉ định, gây 180/216/252/288/324/360 (+55% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi và đẩy lùi chúng. Đẩy lùi mục tiêu vào tường sẽ gây thêm 50% sát thương và làm choáng 0.75s (Sát thương có hiệu lực với công trình)",
+                        "skillDescription": "Tô Liệt lao tới theo hướng chỉ định, gây 180/216/252/288/324/360 (+55% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi và đẩy lùi chúng. Đẩy lùi mục tiêu vào tường sẽ gây thêm 50% sát thương và làm choáng 0.75s (Sát thương có hiệu lực với công trình). Thời gian hồi chiêu tăng 33%/66%/100% dựa trên khoảng cách chạy từ gần đến xa",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "80",
+                        "manaCost": "70",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -10385,6 +10416,16 @@
                     "skinImage": "194-bigskin-5.jpg",
                     "skinIcon": "194-smallskin-5.jpg",
                     "keyHD": "1qYzWw2b-7jqrhT8SPAGiLL4wHFQbNt1G"
+                },
+                {
+                    "skinID": "19406",
+                    "skinName": "Xuân Dã Nhàn Tung",
+                    "skinQuality": "Rare",
+                    "skinTag": "Rare",
+                    "starSkin": false,
+                    "skinImage": "194-bigskin-6.jpg",
+                    "skinIcon": "194-smallskin-6.jpg",
+                    "keyHD": "1quVbvknDnlV-JrEnVPt9GB2jx8Wv0v2i"
                 }
             ]
         },
@@ -10411,7 +10452,7 @@
                         "skillDescription": "Huyền Sách lao về hướng chỉ định và cường hoá đòn đánh thường tiếp theo, gây sát thương vật lý tương đương 4% Máu tối đa (Mỗi 10 Công vật lý cộng thêm sẽ tăng 0.05% chỉ số sát thương).</br>Khi Huyền Sách đã móc mục tiêu bằng liềm nó sẽ kéo kẻ địch kẻ địch về phía bản thân một khoảng cách nhất định sau khi quá trình lướt kết thúc. Mỗi lần lên cấp kỹ năng hiệu ứng tăng tốc và làm chậm của kỹ năng 2 sẽ tăng 15/18/21/24/27/30%",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "30",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -10566,7 +10607,7 @@
                         "skillDescription": "Thủ Ước nhảy về phía sau và bắn theo hướng đã định, gây 400/600/800 (+150% Công vật lý) sát thương vật lý và giảm 15/22.5/30% Tốc chạy của mục tiêu trong 2s. Sau khi tiếp đất, bản thân sẽ tăng 15/22.5/30% Tốc chạy trong 2s, đòn đánh thường hoặc kỹ năng sẽ ngay lập tức ngừng tăng Tốc chạy.</br>Nội tại: Mỗi khi nâng cấp kỹ năng, Thủ Ước sẽ được tăng 30 tầm đánh thường. Số lượng đạn của kỹ năng này được đồng bộ với kỹ năng 2",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "90",
                         "skillCD": "1.5s"
                     }
                 ]
@@ -10700,7 +10741,7 @@
                         "skillDescription": "Dịch Tinh mở ma trận cờ tại vị trí chỉ định gây 160/192/224/256/288/320 (+25% Công phép) sát thương phép lên khu vực chỉ định sau đó mở phạm vi của ma trận cờ ra. Đồng thời kẻ địch ở trung tâm sẽ bị hút vào giữa gây thêm 160/192/224/256/288/320 (+25% Công phép) sát thương phép</br>Ma trận cờ sẽ tồn tại trong 10s, mỗi khi bản thân hoặc kẻ địch đi qua phạm vi của ma trận cờ sẽ được tăng tốc hoặc làm chậm 50%, hiệu ứng này kích hoạt nhiều nhất 1 lần.</br>Khi ở khoảng cách quá xa, ma trận cờ sẽ biến mất. Kỹ năng này tăng 180% sát thương lên đơn vị không phải anh hùng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "65",
+                        "manaCost": "50",
                         "skillCD": "11/10.6/10.2/9.8/9.4/9s"
                     }
                 ],
@@ -11037,6 +11078,16 @@
                     "skinImage": "199-bigskin-8.jpg",
                     "skinIcon": "199-smallskin-8.jpg",
                     "keyHD": "13GTnNgiyzf2zbyEWWr0aFxrpILQqzuI3"
+                },
+                {
+                    "skinID": "19909",
+                    "skinName": "Vân Nặc Thiên Sơn",
+                    "skinQuality": "Legend",
+                    "skinTag": "KFMVP",
+                    "starSkin": false,
+                    "skinImage": "199-bigskin-9.jpg",
+                    "skinIcon": "199-smallskin-9.jpg",
+                    "keyHD": "147-Jxd7yEI-eQN8AVj2R_9WVRUSvZqwl"
                 }
             ]
         },
@@ -11052,7 +11103,7 @@
                     {
                         "skillIcon": "31200.png",
                         "skillName": "Tiết Tấu Táo Bạo",
-                        "skillDescription": "Kỹ năng của mèo sẽ đốt cháy mục tiêu, kẻ địch bị đốt sẽ lộ tầm nhìn trong 3s. Sử dụng đòn đánh thường đánh vào kẻ địch bị đốt cháy sẽ kích hoạt vụ nổ gây 100 (+16% Công phép) sát thương phép cho kẻ địch gần đó. Mộng Khê sẽ hồi lại 3 quả bom khi hồi sinh sau khi chết",
+                        "skillDescription": "Kỹ năng của mèo sẽ đốt cháy mục tiêu, kẻ địch bị đốt sẽ lộ tầm nhìn trong 3s. Kỹ năng trúng kẻ địch bị đốt cháy sẽ gây 65~130 (+13% Công phép) sát thương phép (Sát thương phát nổ của đòn đánh thường giảm một nửa).</br>Mộng Khê sẽ nhận 3~6 quả bom khi hồi sinh lại sau khi chết.",
                         "skillPreview": ""
                     }
                 ],
@@ -11060,33 +11111,33 @@
                     {
                         "skillIcon": "31210.png",
                         "skillName": "Bom Mèo",
-                        "skillDescription": "Mộng Khê vận lực để ném bom tới vị trí mục tiêu sau mỗi 0.75s gây 325/390/455/520/585/650 (+60% Công phép) sát thương phép.</br>Trạng thái tự bốc cháy: Mộng Khê sẽ ném 1 quả bom vào mục tiêu chỉ định đẩy lùi chúng và gây 25/390/455/520/585/650 (+60% Công phép) sát thương phép. Đồng thời, quả bom sẽ rơi xuống mặt đất sau khi trúng mục tiêu và phát nổ gây ra sát thương tương đương.</br>Thời gian hồi chiêu khi sử dụng kỹ năng ở trạng thái tự bốc cháy là 5s. Mộng Khê có tổng 10 quả bom, mỗi lần ném bom sẽ tiêu hao 1 quả có thể ném liên tiếp 5 quả bom. Mỗi 5s sẽ tự động tích luỹ 1 quả bom, bị ảnh hưởng bởi cơ chế hồi chiêu.",
+                        "skillDescription": "Mộng Khê tiến vào trạng thái vận lực, nhảy lên tung bom vào vị trí chỉ định sau mỗi 0.75s gây 225/270/315/360/405/450 (+45% Công phép) sát thương phép.</br>Trạng thái tự bốc cháy: Ném theo hướng chỉ định sau mỗi 0.75s gây 125/150/175/200/225/250 (+25% Công phép) sát thương phép, sau đó quả bom sẽ rơi xuống đất và phát nổ gây 200% sát thương ném.</br>Khi Mộng Khê ném bom, bản thân được tăng 60/72/84/96/108/120 Tốc chạy và có tối đa 10 quả bom. Mỗi lần ném sẽ tiêu tốn 1 quả và có thể ném tối đa 5 quả liên tiếp. Bom sẽ được nạp lại mỗi quả sau 4/3.84/3.68/3.52/3.36/3.2s và bị ảnh hưởng bởi cơ chế hồi chiêu.",
                         "skillPreview": "",
                         "manaType": "Bom",
                         "manaCost": "1",
-                        "skillCD": "3s"
+                        "skillCD": "3.5/3.36/3.22/3.08/2.94/2.8s"
                     }
                 ],
                 [
                     {
                         "skillIcon": "31220.png",
                         "skillName": "Thao Tác Thông Thường",
-                        "skillDescription": "Mộng Khê tự đốt đuôi của bản thân tăng 50/60/70/80/90/100% tốc chạy giảm dần theo thời gian. Trong 5s, có thể chủ động kích nổ quả bom và lướt theo hướng chỉ định. Đồng thời, kẻ địch trên đường lướt sẽ bị choáng trong 0.75s và gây 500/560/620/680/740/800 (+65% Công phép) sát thương phép. Nếu không tự kích nổ, lửa sẽ tắt sau 5s và bom sẽ được hoàn trả lại.</br>Kỹ năng và hồi chiêu của [Bom Mèo] sẽ thay đổi khi bốc cháy",
+                        "skillDescription": "Mộng Khê tự một quả bom, tăng 25/30/35/40/45/50% Tốc chạy giảm dần theo thời gian. Trong 4.5s có thể chủ động kích nổ quả bom và lăn theo hướng chỉ định, hất văng đơn vị xung quanh và gây 500/600/700/800/900/1000 (+100% Công phép) sát thương phép trong khi bay lên không trung.</br>Nếu không tự chủ động phát nổ trong thời gian cháy, nó sẽ phát nổ khi cháy hết với bản thân là trung tâm hất văng mục tiêu đơn vị trúng đòn gây 500/600/700/800/900/1000 (+100% Công phép) sát thương phép trong khi bay lên không trung</br>Trong thời gian tự cháy, phương pháp ném và thời gian hồi chiêu của [Bom Mèo] sẽ bị thay đổi",
                         "skillPreview": "",
                         "manaType": "Bom",
                         "manaCost": "1",
-                        "skillCD": "12/11.5/11/10.5/10/9.5s"
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
                 [
                     {
                         "skillIcon": "31230.png",
                         "skillName": "Bom Nổ Tổng Hợp",
-                        "skillDescription": "Sau khi chuẩn bị, Mộng Khê sẽ ném một quả bom tổng hợp lên không trung tại vị trí chỉ định rồi rơi xuống đất gây 500/700/900 (+50% Công phép) sát thương phép cho kẻ địch và gây 250/350/450 (+25% Công phép) sát thương phép trong vòng 2s.</br> Đồng thời, bom tách ra 3 quả bom nhỏ phân tán xung quanh gây 250/350/450 (+25% Công phép) sát thương phép lên kẻ địch.</br>Mỗi 50/45/40s sẽ tích luỹ một quả bom tổng hợp. Tích luỹ tối đa 2 quả, tốc độ tích luỹ bị ảnh hưởng bởi cơ chế hồi chiêu.",
+                        "skillDescription": "Ném một quả bom tổng hợp gây 500/750/1000 (+70% Công phép) sát thương phép lên kẻ địch trong phạm vi trung tâm, sau khi rơi xuống phát nổ sẽ tách thành 3 quả bom rơi ra xung quanh gây 250/375/500 (+35% Công phép) sát thương phép",
                         "skillPreview": "",
                         "manaType": "Bom",
                         "manaCost": "0",
-                        "skillCD": "5s"
+                        "skillCD": "30/27.5/25s"
                     }
                 ]
             ],
@@ -11576,6 +11627,16 @@
                     "skinImage": "503-bigskin-6.jpg",
                     "skinIcon": "503-smallskin-6.jpg",
                     "keyHD": "15ZiRblsRwLzdD-LlqrEmwOTBwPyBB6wQ"
+                },
+                {
+                    "skinID": "50307",
+                    "skinName": "Long Chi Luật Động",
+                    "skinQuality": "Epic",
+                    "skinTag": "Epic",
+                    "starSkin": false,
+                    "skinImage": "503-bigskin-7.jpg",
+                    "skinIcon": "503-smallskin-7.jpg",
+                    "keyHD": "15ZirWpQ0XNNdjFdz52mMAZ3UMKzYq4MA"
                 }
             ]
         },
@@ -12117,7 +12178,7 @@
                     {
                         "skillIcon": "50810.png",
                         "skillName": "Tiễn Độ Linh",
-                        "skillDescription": "Giương cung tăng tầm bắn thường thêm 125 và giãn cách đánh thường thêm 25%. Đồng thời, mỗi đòn đánh thường tiêu tốn 50 năng lượng và gây thêm 25/30/35/40/45/50 (+5% Công vật lý) sát thương phép lên mục tiêu mỗi 0.5s trong 2s.</br>Hạ cung: Tái kích hoạt để hạ cung tăng 20 tốc chạy, phục hồi giãn cách đánh thường và phạm vi đánh thường, mỗi đòn đánh thường hồi 5% (+1% Công vật lý) năng lượng, lượng năng lượng hồi phục thêm 200% khi bắn trúng tướng địch.",
+                        "skillDescription": "Giương cung tăng tầm bắn thường thêm 125 và giãn cách đánh thường thêm 25%. Đồng thời, mỗi đòn đánh thường tiêu tốn 25 năng lượng và gây thêm 25/30/35/40/45/50 (+5% Công vật lý) sát thương phép lên mục tiêu mỗi 0.5s trong 2s.</br>Hạ cung: Tái kích hoạt để hạ cung tăng 20 tốc chạy, phục hồi giãn cách đánh thường và phạm vi đánh thường, mỗi đòn đánh thường hồi 5% (+1% Công vật lý) năng lượng, lượng năng lượng hồi phục thêm 200% khi bắn trúng tướng địch.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "0",
@@ -12131,7 +12192,7 @@
                         "skillDescription": "Bắn tên ma thuật theo hướng chỉ định gây 250/280/310/340/370/400 (+40% Công vật lý) sát thương phép, làm kẻ địch câm lặng trong 0.5s và làm chậm 25/30/35/40/45/50% trong 1s. Khu vực mũi tên bắn qua sẽ phát nổ gây 500/560/620/680/740/800 (+80% Công vật lý) sát thương phép lên kẻ địch trong phạm vi. Mỗi 1.5% Tốc đánh sẽ tăng tốc thi triển kỹ năng thêm 1% tối đa 100% tốc độ thi triển.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "75",
+                        "manaCost": "50",
                         "skillCD": "12/11.5/11/10.5/10/9.5s"
                     }
                 ],
@@ -12142,7 +12203,7 @@
                         "skillDescription": "Mở lãnh địa trên mặt đất tồn tại trong 8s. Khi ở trong lãnh địa sẽ tăng 30% tỉ lệ chí mạng và 20% tốc chạy. Lãnh địa sẽ gây 250/350/450 (+75% Công vật lý) sát thương phép cho kẻ địch trong phạm vi tại thời điểm mở và đóng. Khi đóng lãnh địa sẽ nhận 30% tỉ lệ chí mạng và 20% tốc chạy trong 3s. Khi đóng bên ngoài lãnh địa sẽ chỉ nhận được một nửa tỉ lệ chí mạng và tốc chạy</br>Nội tại: Đòn chí mạng sẽ làm chậm mục tiêu 30% trong 0.5s. Nếu hiệu ứng kích hoạt lại trong vòng 1s, làm chậm tăng lên 50%",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "80",
                         "skillCD": "40/35/30s"
                     }
                 ]
@@ -12391,7 +12452,7 @@
                         "skillDescription": "Lao về phía trước gây 110/132/154/176/198/220(+45% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi, gây 220/264/308/352/396/440(+90% Công vật lý) sát thương vật lý trong phạm vi tại điểm cuối. Sau một thời gian ngắn nó sẽ phát nổ gây sát thương tương đương và hất tung mục tiêu trong 1s.</br>Kỹ năng tấn công kẻ địch nhận 1 Bất Khuất",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "8/7.8/7.6/7.4/7.2/7s"
                     }
                 ],
@@ -12402,7 +12463,7 @@
                         "skillDescription": "Tiến dần về phía trước chém 3 lần liên tiếp, tăng dần sát thương mỗi lần thêm 25%, sát thương cơ bản là 180/242/304/366/428/490(+70% Công vật lý) sát thương vật lý. Mỗi lần làm chậm kẻ địch 15/18/21/24/27/30% và hiệu ứng làm chậm có thể tích luỹ.</br>Sử dụng kỹ năng sẽ thiết lập lại thời gian hồi chiêu của đòn đánh nội tại. Kỹ năng trúng kẻ địch sẽ nhận 1 Bất Khuất",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "70",
+                        "manaCost": "60",
                         "skillCD": "9/8.4/7.8/7.2/6.6/6s"
                     }
                 ],
@@ -12621,7 +12682,7 @@
                         "skillDescription": "Vung bút ném mực theo hướng chỉ định, gây 200/240/280/320/360/400(+40% Công phép) sát thương phép lên kẻ địch mà nó chạm phải. Khi đạt đến khoảng cách xa nhất mực sẽ phát nổ gây 200 (+40% Công phép) sát thương phép.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "30",
                         "skillCD": "5s"
                     }
                 ],
@@ -12838,7 +12899,7 @@
                     {
                         "skillIcon": "51510.png",
                         "skillName": "Trăng Thần",
-                        "skillDescription": "Phóng 1 quả cầu năng lượng theo hướng xác định, quả cầu này tự quay trở lại khi đạt đến khoảng cách tối đa. Cầu năng lượng gây 200/240/280/320/360/400(+35% Công phép) sát thương phép và trói chân tướng địch đầu tiên trúng phải trong 1.5s, đồng thời nhận thêm 1 đòn đánh cường hoá và tăng tốc chạy thêm 20/24/28/32/36/40% trong 2s</br>Mỗi cầu năng lượng đi qua một đơn vị không phải anh hùng, thời gian trói chân sẽ giảm 0.25s, tối đa 4 lần.",
+                        "skillDescription": "Phóng 1 quả cầu năng lượng theo hướng xác định, quả cầu này tự quay trở lại khi đạt đến khoảng cách tối đa. Cầu năng lượng gây 200/240/280/320/360/400(+35% Công phép) sát thương phép và trói chân tướng địch đầu tiên trúng phải trong 1.5s, đồng thời nhận thêm 1 đòn đánh cường hoá và tăng tốc chạy thêm 20/24/28/32/36/40% trong 2s</br>Mỗi cầu năng lượng đi qua một đơn vị không phải anh hùng, thời gian trói chân sẽ giảm 0.5~0.25s, tối đa 4 lần.",
                         "skillPreview": "",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
@@ -12856,7 +12917,7 @@
                     {
                         "skillIcon": "51530.png",
                         "skillName": "Trăng Mang",
-                        "skillDescription": "Hằng Nga ngẫu nhiên đổ một loạt năng lượng xung quanh mình, gây 85 (+10% Công phép) sát thương phép lên kẻ địch trúng phải và tăng tốc chạy của bản thân thêm 30% trong quá trình đổ năng lượng.</br>Khi đủ năng lượng, sẽ tạo ra thêm đạn trăng non. Mỗi viên đạn tiêu tốn 54 năng lượng, gây ra cùng một lượng sát thương và hồi phục 80 (+1.2% Máu cộng thêm) Máu.</br>Nhấp và thả trong 3s, sau khi huỷ đạn sẽ tiếp tục bắn trong 0.5s trong thời gian đó có thể sử dụng kỹ năng và cường hoá đòn đánh thường.",
+                        "skillDescription": "Hằng Nga ngẫu nhiên đổ một loạt năng lượng xung quanh mình, gây 80 (+10% Công phép) sát thương phép lên kẻ địch trúng phải và tăng tốc chạy của bản thân thêm 30% trong quá trình đổ năng lượng.</br>Khi đủ năng lượng, sẽ tạo ra thêm đạn trăng non. Mỗi viên đạn tiêu tốn 50 năng lượng, gây ra cùng một lượng sát thương và hồi phục 80 (+1.2% Máu cộng thêm) Máu.</br>Nhấp và thả trong 3s, sau khi huỷ đạn sẽ tiếp tục bắn trong 0.5s trong thời gian đó có thể sử dụng kỹ năng và cường hoá đòn đánh thường.",
                         "skillPreview": "",
                         "skillCD": "12.5/11.25/10s"
                     }
@@ -12969,7 +13030,7 @@
                         "skillDescription": "Đại Tư Mệnh vung Quay, gây 200/240/280/320/360/400 (+60% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch phía trước và làm chậm 25/30/35/40/45/50% trong 1s. Sau đó để lại Vách Ngăn Sinh Tử, kẻ địch chạm phải Vách Ngăn sẽ phải nhận 140/168/196/224/252/280 (+45% Công vật lý cộng thêm) sát thương phép đồng thời cũng bị làm chậm 25/30/35/40/45/50% trong 1s và đánh dấu kẻ địch.</br>Đại Tư Mệnh được cường hóa đòn đánh thường kế tiếp gây thêm 50% sát thương và hồi phục lại cho bản thân 65/78/91/104/117/130 (1.5+% Máu cộng thêm) Máu. Nếu có mục tiêu bị đánh dấu trong phạm vi, chuỗi linh hồn cũng sẽ gây sát thương tương đương cho mỗi mục tiêu và hồi phục lại cùng một lượng cho mỗi mục tiêu.</br>Kỹ năng này cũng sẽ đẩy lùi đơn vị không phải anh hình. Chuỗi linh hồn tối đa liên kết 3 mục tiêu. Khi liên kết với mục tiêu không phải anh hùng, hiệu quả hồi phục chỉ còn 50%",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -13156,7 +13217,7 @@
                     {
                         "skillIcon": "51920.png",
                         "skillName": "Mưa Rào Kình Thiên",
-                        "skillDescription": "Ngao Ẩn giải phóng kiếm nước, gây 240/320/400/480 (+35% Công vật lý cộng thêm) sát thương vật lý (kèm theo 50% sát thương lan ra phía sau mục tiêu) lên tối đa 3 mục tiêu trong phạm vi. Kỹ năng trúng mục tiêu sẽ hồi phục phục cho bản thân 150/200/250/300 (+2.5% Máu cộng thêm) Máu.</br>Sử dụng kỹ năng sẽ gắn 1 Thủy Long Hồn vào kiếm của bản thân, cho phép đòn đánh thường hồi phục lại 18 /24/30/36 Máu và 0.5% Năng lượng. Nếu Thủy Long Hồn được gắn vào cả 2 kiếm, bản thân sẽ được hồi phục thêm 50%. Nếu Thủy Long Hồn được gắn vào kiếm chính, các đợt tấn công từ đòn cường hóa sẽ gây 60/80/100/120 (+35% Công vật lý cộng thêm) sát thương vật lý, tổng cộng 3 đợt tấn công.</br>Đánh trúng kẻ địch sẽ hồi lại cho bản thân 150/200/250/300 (+2.5% Máu cộng thêm) Máu. Hiệu ứng hồi phục sẽ giới hạn ở mức 20% đối với các đòn đánh kỹ năng lên các đơn vị không phải anh hùng và 50% với các đòn đánh thường lên đơn vị không phải anh hùng.",
+                        "skillDescription": "Ngao Ẩn giải phóng kiếm nước, gây 240/320/400/480 (+35% Công vật lý cộng thêm) sát thương vật lý (kèm theo 50% sát thương lan ra phía sau mục tiêu) lên tối đa 3 mục tiêu trong phạm vi. Kỹ năng trúng mục tiêu sẽ hồi phục phục cho bản thân 150/200/250/300 (+2.5% Máu cộng thêm) Máu.</br>Sử dụng kỹ năng sẽ gắn 1 Thủy Long Hồn vào kiếm của bản thân, cho phép đòn đánh thường hồi phục lại 18 /24/30/36 Máu và 0.5% Năng lượng. Nếu Thủy Long Hồn được gắn vào cả 2 kiếm, bản thân sẽ được hồi phục thêm 50%. Nếu Thủy Long Hồn được gắn vào kiếm chính, các đợt tấn công từ đòn cường hóa sẽ gây 60/80/100/120 (+35% Công vật lý cộng thêm) sát thương vật lý, tổng cộng 3 đợt tấn công.</br>Đánh trúng kẻ địch sẽ hồi lại cho bản thân 150/200/250/300 (+2.5% Máu cộng thêm) Máu. Hiệu ứng hồi phục sẽ giới hạn ở mức 50% đối với các đơn vị không phải anh hùng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "60",
@@ -13222,7 +13283,7 @@
                         "skillDescription": "Hải Nguyệt phóng ánh trăng theo hình bán nguyệt về phía trước gây 325/390/455/520/585/650 (+85% Công phép) sát thương phép. Nếu dấu ấn lưu ly được kích hoạt, nó sẽ gây thêm 70/84/98/112/126/140 (+18% Công phép) sát thương chuẩn cho mục tiêu.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "30",
                         "skillCD": "7s"
                     }
                 ],
@@ -13233,7 +13294,7 @@
                         "skillDescription": "Hải Nguyệt tung ra 3 ngọc lưu ly vào mục tiêu đã chỉ định, viên ngọc đầu tiên gây 100/130/160/190/220/250 (+25% Công phép) sát thương phép.</br>Hai cầu lưu ly tiếp theo gây 45/60/75/90/105/120 (+12% Công phép) sát thương phép và nhận được một lá chắn giúp hấp thụ 250/300/350/400/450/500 (+40% Công phép) sát thương, tồn tại trong 3s đồng thời bản thân được tăng dần 30% Tốc chạy trong 2s.</br>Nếu dấu ấn được kích hoạt, nó sẽ làm choáng mục tiêu trong 0.5s. Các lần choáng liên tục sẽ chỉ gây ra 50% hiệu ứng choáng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "30",
                         "skillCD": "7s"
                     }
                 ],
@@ -13483,11 +13544,11 @@
                     {
                         "skillIcon": "52330.png",
                         "skillName": "Tâm Vô Bàng Vụ",
-                        "skillDescription": "\"Tây Thi truyền sức mạnh ma thuật vào cơ thể mình, nhận được trạng thái cường hóa trong 8s và lập tức làm mới kỹ năng Linh Lực Huyễn Sa.</br>Trong thời gian cường hóa, kẻ địch bị dính dấu ấn trói buộc từ kỹ năng Dấu Ấn Trói Buộc có thể bị điều khiển hướng di chuyển 2 lần liên tiếp. Đồng thời, thời gian hồi chiêu của Linh Lực Huyễn Sa được giảm đi 1 nửa. Khi kích hoạt kỹ năng, Tây Thi nhận hiệu ứng tăng tốc 50% kéo dài 0.5s\n\n\"",
+                        "skillDescription": "Tây Thi truyền sức mạnh ma thuật vào cơ thể mình, nhận được trạng thái cường hóa trong 8s và lập tức làm mới kỹ năng Linh Lực Huyễn Sa.</br>Trong thời gian cường hóa, kẻ địch bị dính dấu ấn trói buộc từ kỹ năng Dấu Ấn Trói Buộc có thể bị điều khiển hướng di chuyển 2 lần liên tiếp. Đồng thời, thời gian hồi chiêu của Linh Lực Huyễn Sa được giảm đi 1 nửa. Khi kích hoạt kỹ năng, Tây Thi nhận hiệu ứng tăng tốc 50% kéo dài 0.5s</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "90",
-                        "skillCD": "45/40/35s"
+                        "skillCD": "35/20/25s"
                     }
                 ]
             ],
@@ -13612,9 +13673,9 @@
                     {
                         "skillIcon": "52430.png",
                         "skillName": "Đạn Đạo Viện Kích",
-                        "skillDescription": "Khi kích hoạt Mông Nha sẽ quét và tìm kiếm toàn bộ môi trường xung quanh (Giữ phím kỹ năng sẽ tăng phạm vi truy quét, tối đa quét trong 3s). Trong khi truy quét Mông Nha nhận được tăng 50% Tốc chạy. Khi kẻ địch nhận sát thương từ tướng đồng minh trong phạm vi tìm kiếm sẽ đánh dấu 1 mục tiêu trên bản đồ (Tối đa 5 mục tiêu).</br>Sau khi tìm kiếm xong, tên lửa sẽ được phóng về phía vị trí đã đánh dấu, khi chạm đất tên lửa sẽ gây 250/375/500 (+100% Công vật lý) sát thương vật lý lên kẻ địch trúng phải và tăng 10 nộ. (Cùng mục tiêu các các lần tiếp theo giảm 75% sát thương).</br>Mông Nha sẽ giữ phạm vi tìm kiếm trong 8s tính từ thời điểm quét xong và bắn ra nhiều nhất 1 tên lửa mỗi 1s. Trả lại 50% hồi chiêu khi hủy bỏ kỹ năng.</br>Hưng Phấn: Khoảng thời gian phóng tên lửa dẫn đường tiếp theo giảm xuống còn 0.5s",
+                        "skillDescription": "Khi kích hoạt Mông Nha sẽ quét và tìm kiếm toàn bộ môi trường xung quanh (Giữ phím kỹ năng sẽ tăng phạm vi truy quét, tối đa quét trong 3s). Trong khi truy quét Mông Nha nhận được tăng 50% Tốc chạy. Khi kẻ địch nhận sát thương từ tướng đồng minh trong phạm vi tìm kiếm sẽ đánh dấu 1 mục tiêu trên bản đồ (Tối đa 5 mục tiêu).</br>Sau khi tìm kiếm xong, tên lửa sẽ được phóng về phía vị trí đã đánh dấu, khi chạm đất tên lửa sẽ gây 250/375/500 (+100% Công vật lý) sát thương vật lý lên kẻ địch trúng phải và tăng 10 nộ. (Cùng mục tiêu các các lần tiếp theo giảm 75% sát thương).</br>Mông Nha sẽ giữ phạm vi tìm kiếm trong 8s tính từ thời điểm quét xong và bắn ra nhiều nhất 1 tên lửa mỗi 1s. Trả lại 50% hồi chiêu khi hủy bỏ kỹ năng.</br>Hưng Phấn: Khoảng thời gian phóng tên lửa dẫn đường tiếp theo giảm xuống còn 0.5s</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
-                        "skillCD": "60/55/50s"
+                        "skillCD": "50/45/40s"
                     }
                 ]
             ],
@@ -13910,7 +13971,7 @@
                         "skillDescription": "Lan bao phủ cơ thể bằng ma lực hoá cá mập tiến vào trạng thái lặn và tăng 40/48/56/64/72/80 tốc chạy trong 3s. Khi hết thời gian, sẽ nhảy khỏi mặt nước và trả lại 50% thời gian hồi chiêu. Tái kích hoạt kỹ năng tại trạng thái lặn, Lan sẽ lao khỏi mặt nước sẽ lao khỏi mặt nước gây 300/360/420/480/540/600(+120% Công vật lý cộng thêm) sát thương vật lý và làm chậm mục tiêu 25/30/35/40/45/50% trong 1.5s</br>Nội tại: Không giới hạn thời gian lặn ở môi trường nước. Nếu một con mồi xuất hiện trong phạm vi 1500, bản thân sẽ được tăng 450 tốc chạy.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "40",
+                        "manaCost": "30",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -13932,7 +13993,7 @@
                         "skillDescription": "Lan ném dao găm về phía trước làm chậm kẻ địch trên đường đi 90% trong 0.5s sau đó một khoảng thời gian ngắn sẽ lao đến vị trí dao găm, ngắt kỹ năng mục tiêu và kéo chúng đến điểm cuối của đường lướt. Gây 520/780/1040 (+180% Công vật lý cộng thêm) sát thương vật lý.</br>Khi tung kỹ năng ở trạng thái lặn dao găm sẽ không bị ném ra và các hiệu ứng tiếp theo sẽ trực tiếp được kích hoạt và thời gian hồi chiêu của [Phá Lãng] giảm 50%.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "80",
                         "skillCD": "40/35/30s"
                     }
                 ]
@@ -14162,7 +14223,7 @@
                         "skillDescription": "Quay dải kính quanh bản thân gây 160/192/224/256/288/320(+70% Công vật lý cộng thêm) sát thương vật lý và nhận thêm 50% tốc chạy giảm dần trong 1s. Mỗi mục tiêu trúng sẽ giúp bản thân hồi 60/76/92/108/124/140 (+24% Công vật lý) Máu và từ mục tiêu thứ 2 hồi phục giảm xuống còn 25%.</br>Khi không có ảo ảnh, ảo ảnh sẽ được tạo ra với khung kỹ năng là trục tạo ảo ảnh. Ảo ảnh sẽ tồn tại trong 2s và sao chép tất cả các hành động của bản thể ngoại trừ mở ma trận gương.</br>Những động tác ta từng luyện tập với Diệu từ khi còn nhỏ.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "40",
                         "skillCD": "8s"
                     }
                 ],
@@ -14322,7 +14383,7 @@
                         "skillDescription": "Lăn về phía trước gây 75/90/105/120/135/150 (+30% Công vật lý cộng thêm) sát thương vật lý lên môi trường xung quanh mỗi 0.5s. Khi lăn trung một mục tiêu nhiều lần, sát thương tiếp theo giảm xuống còn 75%. Trong toàn bộ thời gian lăn được miễn nhiễm với khống chế cứng 1 lần.</br>Nếu trúng tướng địch khi đang di chuyển về phía trước hất văng kẻ địch trong 0.5s gây 225/270/315/360/405/450(+90% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch, tách khỏi Cầu Cầu và nhảy lùi lại một khoảng cách nhất định. Cầu Cầu sẽ nhận lá chắn hấp thụ 480/576/672/768/864/960(+4% Máu cộng thêm) sát thương",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "45",
                         "skillCD": "15/14.4/13.8/13.2/12.6/12s"
                     },
                     {
@@ -14331,7 +14392,7 @@
                         "skillDescription": "Lăn về phía trước và cường hoá đòn đánh thường kế tiếp bắn 3 viên đạn gây 130% Công vật lý sát thương vật lý.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "50",
+                        "manaCost": "45",
                         "skillCD": "8/7.6/7.2/6.8/6.4/6s"
                     }
                 ],
@@ -14433,7 +14494,7 @@
                         "skillDescription": "Tang Khởi dẫn dắt sức mạnh của đom đóm đến vùng chỉ định gây 500/600/700/800/900/1000 (+10% Công phép) sát thương phép và hất tung mục tiêu trong phạm vi 1s. Đồng thời tiêu hao [Pháp Lực Đom Đóm] gây 100 (+20% Công phép) (+3% Máu cộng thêm) sát thương phép mỗi đom đóm.</br>Khi có đồng minh xung quanh, [Pháp Lực Đom Đóm] sẽ tiêu hao để hồi máu cho đồng minh có Máu thấp nhất và mỗi đom đóm sẽ hồi 50 (+10% Công phép) (+1.5% Máu cộng thêm) Máu cho đồng minh.</br>[Pháp Lực Đom Đóm]: Tang Khởi cứ 1.5s nhận được 1 đom đóm, tối đa 9 con. Phạm vi kỹ năng mở rộng với số đom đóm tích lũy được.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "50",
                         "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
@@ -14655,7 +14716,7 @@
                     {
                         "skillIcon": "53730.png",
                         "skillName": "Lôi Đình Vạn Quân",
-                        "skillDescription": "Tư Khống Chấn bay lên không trung và hoá thành Lôi Vương. Quá trình biến hình kéo dài 1.5s trong thời gian đó nhận hiệu ứng miễn khống và tăng 30% tốc chạy và có thể vượt qua địa hình. Đồng thời phóng 5 tia sét tấn công ngẫu nhiên vào kẻ địch gần đó theo lượt ưu tiên công kích anh hùng.</br>Mỗi đòn sét gây 100/150/200 (+22% Công phép) sát thương phép và cấp 1 thiên lôi lực cho Tư Không Chấn kèm với lá chắn hấp thụ 160/240/320 (+2.5% Máu cộng thêm) sát thương, kéo dài trong 2s.</br>Sau khi biến thân hoàn tất sẽ đáp đất gây 200/300/400 (+45% Công phép) sát thương phép lên kẻ địch gần. Hình dạng Lôi Vương kéo dài trong 8s, trong thời gian đó các đòn đánh thường sẽ nhận 2 thiên lôi lực. Còn đòn đánh thường tầm xa sẽ tạo các chuỗi sét nảy giữa nhiều kẻ địch, gây 50% sát thương vật lý. Tăng phạm vi đánh thường khi được cường hoá.",
+                        "skillDescription": "Tư Khống Chấn bay lên không trung và hoá thành Lôi Vương. Quá trình biến hình kéo dài 1.5s trong thời gian đó nhận hiệu ứng miễn khống và tăng 30% tốc chạy và có thể vượt qua địa hình. Đồng thời phóng 5 tia sét tấn công ngẫu nhiên vào kẻ địch gần đó theo lượt ưu tiên công kích anh hùng.</br>Mỗi đòn sét gây 100/150/200 (+22% Công phép) sát thương phép và cấp 1 thiên lôi lực cho Tư Không Chấn kèm với lá chắn hấp thụ 160/240/320 (+2.5% Máu cộng thêm) sát thương, kéo dài trong 2s.</br>Sau khi biến thân hoàn tất sẽ đáp đất gây 200/300/400 (+45% Công phép) sát thương phép lên kẻ địch gần. Hình dạng Lôi Vương kéo dài trong 8s, trong thời gian đó các đòn đánh thường sẽ nhận 2 thiên lôi lực. Còn đòn đánh thường tầm xa sẽ tạo các chuỗi sét nảy giữa nhiều kẻ địch, gây 50% sát thương vật lý. Tăng phạm vi đánh thường khi được cường hoá.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "skillCD": "60/54/48s"
                     }
@@ -14773,7 +14834,7 @@
                         "skillDescription": "Vân Anh vận sức và lao về phía trước với tốc độ cực nhanh gây 70/140/210 (+55% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi và hất tung chúng. Tại điểm cuổi, Vân Anh xoay thương 4 lần, mỗi lần gây 35/70/105 (+27% Công vật lý) sát thương vật lý.</br>Sau đó sẽ quay trở lại vị trí cũ và gây 70/140/210 (+55% Công vật lý) sát thương vật lý cho kẻ địch trên đường đi và kéo chúng theo. Khi sử dụng kỹ năng, sẽ nhận được hiệu ứng miễn khống chế và 10/40/70% miễn thương cùng với hất tung kẻ địch.</br>Kỹ năng này có thể tái kích hoạt để vẽ ra một vùng hình quạt, gây 70/140/210 (+55% Công vật lý) sát thương vật lý và để lại vùng lửa cháy trên mặt đất trong 3s, lửa cháy gây 30 (+10% Công vật lý) sát thương phép cho kẻ địch mỗi 0.2s.</br>Nếu tái kích hoạt kỹ năng trong khi đang xoay thương, Vân Anh sẽ dừng lại và vẽ vòng lửa hình tròn trên mặt đất gây 60 (+35% Công vật lý) sát thương vật lý, vòng lửa cháy trên mặt đất trong 3s",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "100",
+                        "manaCost": "90",
                         "skillCD": "40/37.5/35s"
                     },
                     {
@@ -14864,7 +14925,7 @@
                         "skillDescription": "Kim Thiền giải phóng cửu hoàn trượng tại vị trí chỉ định gây 200/240/280/320/360/400 (+40% Công phép) sát thương phép lên mục tiêu khi đặt xuống và tồn tại trên mặt đất trong 5s mỗi lần.</br>Kẻ địch chạm vào trượng sẽ kích hoạt cổ vật gây sát thương 45/54/63 /72/81/90 (+7.5% Công phép) sát thương phép. Khi được kích hoạt hoàn toàn hoặc thời gian kết thúc, nó phát nổ gây 250/300/350/400/450/500 (+45% Công phép) sát thương phép và gây thêm 50% sát thương lên lính và quái rừng.</br>Cửu hoàn trượng sẽ đi theo mục tiêu bị dính vòng kim cô. Lính và quái ở gần trượng sẽ bị ảnh hướng hút vào tâm trượng.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "65",
+                        "manaCost": "55",
                         "skillCD": "9/8.6/8.2/7.8/7.4/7s"
                     }
                 ],
@@ -14936,7 +14997,7 @@
                         "skillDescription": "Phi đạp ngọc lướt theo hướng chỉ định, gây 300/360/420/480/540/600 (+100% Công vật lý cộng thêm) sát thương vật lý cho kẻ địch trên đường đi, đẩy chúng trong 0.75s, gây thêm 50% sát thương lên quái rừng.</br>Bản thân Phi được tăng thêm 50/60/70/80/90/100% Tốc đánh và cường hóa đòn đánh thường tiếp theo gây 75/90/105/120/135/150 (+20%Công vật lý cộng thêm) sát thương vật lý và hồi 110/132/154/176/198/220 (+2% Máu cộng thêm) Máu.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "55",
+                        "manaCost": "50",
                         "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
                     }
                 ],
@@ -15116,7 +15177,7 @@
                         "skillDescription": "Alessio nạp đạn cường hóa cho 3 đòn đánh thường tiếp theo, đòn cường hóa gây sát thương trong phạm vi lớn hơn gây 150/180/210/240/270/300 (+23% Công vật lý) sát thương vật lý đồng thời gây thêm sát thương vật lý tương đương 1% Máu tối đa",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "65",
+                        "manaCost": "45",
                         "skillCD": "5/4.8/4.6/4.4/4.2/4s"
                     }
                 ],
@@ -15128,7 +15189,7 @@
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "70",
-                        "skillCD": "12/11.6/11.2/10.8/10.4/10s"
+                        "skillCD": "11/10.6/10.2/9.8/9.4/9s"
                     }
                 ],
                 [
@@ -15271,7 +15332,7 @@
                     {
                         "skillIcon": "54800.png",
                         "skillName": "Phiêu Di Tật Xạ",
-                        "skillDescription": "Qua Á chiến đấu trên thuyền cát và có thể tấn công khi đang di chuyển, nhưng thuyền cát có quán tính lớn và có thêm thời gian để bắt đầu tăng tốc và phanh giảm tốc. Nhấn giữ nút đánh thường sẽ đưa thuyền cát vào chế độ tăng tốc chuẩn bị, có thể tích điện tối đa ba cấp độ.</br>Sau khi buông tay, thuyền cát sẽ phóng nhanh theo mức độ tích điện (thời gian hồi chiêu của tích điện từ 20~16s theo cấp độ anh hùng, tốc độ bắt đầu bị ảnh hưởng bởi tốc chạy và lv). Mỗi đòn đánh thường sẽ bắn ra 3 mũi tên nhỏ khiến thuyền cát phanh gấp và rơi vào trạng thái trôi dạt, mỗi lần gây 3~6 (+22% Công vật lý) sát thương vật lý. Sau khi bắn liên tiếp 6 phát sẽ bắn một viên đạn to với phạm vi xa hơn, gây 40~110 (+100% Công vật lý) sát thương vật lý, đồng thời tăng tốc thuyền cát.</br>Qua Á ban đầu sẽ nhận được 30~60% tốc đánh (tăng theo cấp độ), nhưng tốc đánh mà cô ấy nhận được từ trang bị và kỹ năng sẽ giảm đi một nửa. Mỗi mũi tên chỉ nhận được 35% hiệu ứng đòn đánh",
+                        "skillDescription": "Qua Á chiến đấu trên thuyền cát và có thể tấn công khi đang di chuyển, nhưng thuyền cát có quán tính lớn và có thêm thời gian để bắt đầu tăng tốc và phanh giảm tốc. Nhấn giữ nút đánh thường sẽ đưa thuyền cát vào chế độ tăng tốc chuẩn bị, có thể tích điện tối đa ba cấp độ.</br>Sau khi buông tay, thuyền cát sẽ phóng nhanh theo mức độ tích điện (thời gian hồi chiêu của tích điện từ 20~16s theo cấp độ anh hùng, tốc độ bắt đầu bị ảnh hưởng bởi tốc chạy và cấp độ). Mỗi đòn đánh thường sẽ bắn ra 3 mũi tên nhỏ khiến thuyền cát phanh gấp và rơi vào trạng thái trôi dạt, mỗi lần gây 3~6 (+22% Công vật lý) sát thương vật lý. Sau khi bắn liên tiếp 6 phát sẽ bắn một viên đạn to với phạm vi xa hơn, gây 55~110 (+100% Công vật lý) sát thương vật lý, đồng thời tăng tốc thuyền cát.</br>Qua Á ban đầu sẽ nhận được 30~60% tốc đánh (tăng theo cấp độ), nhưng tốc đánh mà cô ấy nhận được từ trang bị và kỹ năng sẽ giảm đi một nửa. Mỗi mũi tên chỉ nhận được 35% hiệu ứng đòn đánh",
                         "skillPreview": ""
                     }
                 ],
@@ -15290,11 +15351,11 @@
                     {
                         "skillIcon": "54820.png",
                         "skillName": "Xạ Kích Nghịch Chuyển",
-                        "skillDescription": "Qua Á kích hoạt sức mạnh động cơ của thuyền cát khiến thuyền cát giật lùi lại một khoảng nhất định và gây 120/150/180/210/240/270 (+30% Công vật lý) sát thương vật lý cho mục tiêu phía trước, đồng thời bắn nhanh kẻ địch ba phát, mỗi lần gây 60/75/90/105/120/135 (+15% Công vật lý) sát thương vật lý.",
+                        "skillDescription": "Qua Á kích hoạt sức mạnh động cơ của thuyền cát khiến thuyền cát giật lùi lại một khoảng nhất định và gây 135/162/189/216/243/270 (+30% Công vật lý) sát thương vật lý cho mục tiêu phía trước, đồng thời bắn nhanh kẻ địch ba phát, mỗi lần gây 35/78/91/104/117/130 (+15% Công vật lý) sát thương vật lý.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
                         "manaCost": "70",
-                        "skillCD": "10/9.8/9.6/9.4/9.2/9s"
+                        "skillCD": "10/9.6/9.2/8.8/8.4/8s"
                     }
                 ],
                 [
@@ -15304,7 +15365,7 @@
                         "skillDescription": "Qua Á nhắm bắn phóng tiễn nổ nào khu vực chỉ định, đồng thời được tăng tốc liên tục và cường hóa đòn đánh thường tiếp theo. Sau một khoảng trễ ngắn, nó rơi xuống đất gây 350/475/600 (+50% Công vật lý) sát thương vật lý và làm chậm 15/22.5/30%.</br>Sau đó, khu vực này hình thành bão cát trong 5s, bão cát kéo kẻ địch vào trung tâm bão cát. Đòn đánh cường hóa gây (+8% Máu đã mất) sát thương vật lý cho kẻ địch trong bão cát",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "120",
+                        "manaCost": "90",
                         "skillCD": "45/40/35s"
                     }
                 ]
@@ -15696,21 +15757,21 @@
                     {
                         "skillIcon": "56430.png",
                         "skillName": "Chăm Chỉ Một Chút Thôi",
-                        "skillDescription": "Tiểu Mãn đột nhiên trở nên chăm chỉ, gây 320/480/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên những kẻ địch xung quanh. Sau khi trở nên chăm chỉ, Tiểu Mãn lập tức hồi lại 1 tầng quyền lực và cước lực, đồng thời gia tăng mức tích lũy kình lực lên 3 tầng. Tiểu Mãn cũng được tăng thêm 20% Tốc chạy và giảm 50% hiệu quả giảm tốc, kéo dài 10s. Hồi chiêu sẽ được tính khi hết chăm chỉ.",
+                        "skillDescription": "Tiểu Mãn đột nhiên trở nên chăm chỉ, gây 320/480/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên những kẻ địch xung quanh. Sau khi trở nên chăm chỉ, Tiểu Mãn lập tức hồi lại 1 tầng quyền lực và cước lực, đồng thời gia tăng mức tích lũy kình lực lên 3 tầng. Tiểu Mãn cũng được tăng thêm 20% Tốc chạy và giảm 50% hiệu quả giảm tốc, kéo dài 10s. Hồi chiêu sẽ được tính khi hết chăm chỉ.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "skillCD": "60/54/48s"
                     },
                     {
                         "skillIcon": "56430.png",
                         "skillName": "Chăm Chỉ Một Chút Thôi",
-                        "skillDescription": "Tiểu Mãn đột nhiên trở nên chăm chỉ, gây 320/480/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên những kẻ địch xung quanh. Sau khi trở nên chăm chỉ, Tiểu Mãn lập tức hồi lại 1 tầng quyền lực và cước lực, đồng thời gia tăng mức tích lũy kình lực lên 3 tầng. Tiểu Mãn cũng được tăng thêm 20% Tốc chạy và giảm 50% hiệu quả giảm tốc, kéo dài 10s. Hồi chiêu sẽ được tính khi hết chăm chỉ.",
+                        "skillDescription": "Tiểu Mãn đột nhiên trở nên chăm chỉ, gây 320/480/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên những kẻ địch xung quanh. Sau khi trở nên chăm chỉ, Tiểu Mãn lập tức hồi lại 1 tầng quyền lực và cước lực, đồng thời gia tăng mức tích lũy kình lực lên 3 tầng. Tiểu Mãn cũng được tăng thêm 20% Tốc chạy và giảm 50% hiệu quả giảm tốc, kéo dài 10s. Hồi chiêu sẽ được tính khi hết chăm chỉ.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "skillCD": "60/54/48s"
                     },
                     {
                         "skillIcon": "56430.png",
                         "skillName": "Chăm Chỉ Một Chút Thôi",
-                        "skillDescription": "Tiểu Mãn đột nhiên trở nên chăm chỉ, gây 320/480/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên những kẻ địch xung quanh. Sau khi trở nên chăm chỉ, Tiểu Mãn lập tức hồi lại 1 tầng quyền lực và cước lực, đồng thời gia tăng mức tích lũy kình lực lên 3 tầng. Tiểu Mãn cũng được tăng thêm 20% Tốc chạy và giảm 50% hiệu quả giảm tốc, kéo dài 10s. Hồi chiêu sẽ được tính khi hết chăm chỉ.",
+                        "skillDescription": "Tiểu Mãn đột nhiên trở nên chăm chỉ, gây 320/480/640 (+100% Công vật lý cộng thêm) sát thương vật lý lên những kẻ địch xung quanh. Sau khi trở nên chăm chỉ, Tiểu Mãn lập tức hồi lại 1 tầng quyền lực và cước lực, đồng thời gia tăng mức tích lũy kình lực lên 3 tầng. Tiểu Mãn cũng được tăng thêm 20% Tốc chạy và giảm 50% hiệu quả giảm tốc, kéo dài 10s. Hồi chiêu sẽ được tính khi hết chăm chỉ.</br>Kỹ năng tiến vào trạng thái hồi chiêu khi trạng thái cường hóa kết thúc, có thể chủ động tái kích hoạt kỹ năng để kết thúc sớm trạng thái cường hóa",
                         "skillPreview": "",
                         "skillCD": "60/54/48s"
                     }
@@ -15886,7 +15947,7 @@
                         "skillDescription": "Nguyên Lưu Chi Tử lao về phía mục tiêu được chỉ định, đẩy lùi dọc theo đường đi, sau đó chém về phía trước, gây 580/696/812/928/1044/1160 (+180% Công vật lý cộng thêm) sát thương vật lý và nhận lá chắn hấp thụ 350/420/490/560/630/700 (+7% Máu cộng thêm) sát thương trong 3s.</br>Liên tục phóng ra cùng một mục tiêu trong 1.5s sẽ khiến [Tự Thân Dẫn Dắt] thành [Đẩy Vân Thức] và [Trảm Khe Thức] tiếp theo sẽ khiến bản thân có được lá chắn và hất tung mục tiêu trong 0.33s với [Đẩy Vân Thức] và 0.66s với [Trảm Khe Thức] và gây ra lượng sát thương tương đương về phía trước. Nếu kỹ năng không trong trạng thái hồi chiêu.</br>Có thể tiêu tốn 4 lớp \"lưu\" để giải phóng kỹ năng này sẽ không vào trạng thái hồi chiêu. Các đơn vị không phải anh hùng trên đường tấn công cũng sẽ bị đẩy lùi.",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "30",
+                        "manaCost": "25",
                         "skillCD": "7.5/7.2/6.9/6.6/6.3/6s"
                     }
                 ],
@@ -15897,7 +15958,7 @@
                         "skillDescription": "Nguyên Lưu Chi Tử nhảy đến vị trí được chỉ định, gây 400/600/800 (+70% Công vật lý cộng thêm) (+8% Máu cộng thêm) sát thương vật lý đồng thời đẩy lùi kẻ địch 0.75s, gây thêm 50% sát thương tại trung tâm khu vực. Có thể tiêu tốn 5 lớp \"lưu\" để giải phóng kỹ năng khiến kỹ năng này không rơi vào trạng thái hồi chiêu",
                         "skillPreview": "",
                         "manaType": "Năng lượng",
-                        "manaCost": "60",
+                        "manaCost": "90",
                         "skillCD": "25/22.5/20s"
                     }
                 ]

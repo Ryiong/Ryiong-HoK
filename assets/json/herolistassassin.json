@@ -26,6 +26,14 @@
         ]
     },
     {
+        "idHero": "125",
+        "nameHero": "Nguyên Ca",
+        "globalName": "Chưa ra mắt",
+        "role": [
+            "fighter"
+        ]
+    },
+    {
         "idHero": "531",
         "nameHero": "Kính",
         "globalName": "Jing",
