@@ -1,5 +1,5 @@
 {
-    "version": "25.4.7.1",
+    "version": "25.4.7.2",
     "data": {
         "105": {
             "idHero": 105,
@@ -15410,6 +15410,69 @@
                     "skinImage": "548-bigskin-4.jpg",
                     "skinIcon": "548-smallskin-4.jpg",
                     "keyHD": "15GQX-ncFmJIMFBamSb4zVwKROCtm9hm2"
+                }
+            ]
+        },
+        "550": {
+            "idHero": 550,
+            "heroName": "Không Không Nhi",
+            "globalName": "",
+            "defaultSkin": "",
+            "numberSkill": 3,
+            "storyHero": "",
+            "skills": [
+                [
+                    {
+                        "skillIcon": "55000.png",
+                        "skillName": "Đạo Diệc Hữu Đạo",
+                        "skillDescription": "Không Không Nhi đẩy nhanh quá trình tích luỹ năng lượng khi di chuyển, khi đầy thanh năng lượng có thể nhá phím di chuyển để dịch chuyển về phía trước đồng thời cường hoá đòn đánh thường kế tiếp thành [Quỷ Thủ].</br>[Quỷ Thủ] gây thêm 160~320 (+40% Công vật lý cộng thêm) sát thương vật lý và làm chậm 15~30% trong 1.5s và chiếm đoạt một trang bị ngẫu nhiên của mục tiêu (thời gian giảm dần khi giá trang bị cao lên, đồng đội được ưu tiên và có thể chiếm giữ tối đa 1 trang bị).</br>Nếu mục tiêu có trang bị đã bị tịch thu bị tấn công một lần nữa bởi [Quỷ Thủ], Không Không Nhi sẽ lấy trang bị ra để kiểm tra sơ bộ (tối đa 1 trang bị) trước khi trả lại, gây 160~320 (+40% Công vật lý cộng thêm) sát thương vật lý.</br>[Quỷ Thủ] Khi đánh trúng mục tiêu mà không có trang bị hoặc cố gắng kiểm tra trang bị nhiều lần, không thể thu giữ hoặc kiểm tra trang bị sẽ nhận được 1 vàng",
+                        "skillPreview": ""
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "55010.png",
+                        "skillName": "Man Thiên",
+                        "skillDescription": "Không Không Nhi phóng phân thân về phía trước (kéo dài 5s) và hồi phục 160/192/224/256/288/320 (+2.5% Máu cộng thêm) Máu.</br>Tái kích hoạt [Man Thiên] một lần nữa Không Không Nhi sẽ hoán đổi vị trí của mình với phân thân, bản sao này sẽ chia sẻ 5% sát thương và cố gắng bắt chước hành vi của cơ thể gốc (gây 25/30/35/40/45/50% sát thương và chịu thêm 200% sát thương)",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "65",
+                        "skillCD": "12.5/12/11.5/11/10.5/10s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "55020.png",
+                        "skillName": "Quá Hải",
+                        "skillDescription": "Không Không Nhi để phân thân tại chỗ và di chuyển về phía trước (kéo dài 5s) và hồi phục 160/192/224/256/288/320 (+2.5% Máu cộng thêm) Máu.</br>Tái kích hoạt [Quá Hải] một lần nữa Không Không Nhi sẽ hoán đổi vị trí của mình với phân thân, bản sao này sẽ chia sẻ 5% sát thương và cố gắng bắt chước hành vi của cơ thể gốc (gây 25/30/35/40/45/50% sát thương và chịu thêm 200% sát thương)",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "65",
+                        "skillCD": "12.5/12/11.5/11/10.5/10s"
+                    }
+                ],
+                [
+                    {
+                        "skillIcon": "55030.png",
+                        "skillName": "Tam Động Tàng Tiên",
+                        "skillDescription": "Không Không Nhi điều khiển con rối quay nhanh, gây 400/600/800 (+100% Công vật lý cộng thêm) sát thương vật lý và đẩy lùi, sau đó gây 100/150/200 (+25% Công vật lý cộng thêm) sát thương vật lý lên kẻ địch mỗi 0.3s và kéo kẻ địch xung quanh về phía mình.</br>Khi [Tam Động Tàng Tiên] được kích hoạt, nó cũng sẽ tự động niệm [Man Thiên] và [Quá Hải] để làm mới các phân thân hiện có hoặc thả các phân thân vào một vòng tròn hình tam giác và xoay. Trong suốt thời gian đó, tốc độ tích lũy năng lượng sẽ tăng lên và mỗi phân thân chỉ có thể được hoán đổi nhiều nhất 1 lần.",
+                        "skillPreview": "",
+                        "manaType": "Năng lượng",
+                        "manaCost": "100",
+                        "skillCD": "55/50/45s"
+                    }
+                ]
+            ],
+            "skins": [
+                {
+                    "skinID": "55001",
+                    "skinName": "Tiếu Diện Quỷ Thủ",
+                    "skinQuality": "normal",
+                    "skinTag": "normal",
+                    "starSkin": false,
+                    "skinImage": "550-bigskin-1.jpg",
+                    "skinIcon": "550-smallskin-1.jpg",
+                    "keyHD": "168A5c81BWFe4wCFCbupKjbnPepRkeAaG"
                 }
             ]
         },
